@@ -1,0 +1,814 @@
+﻿Libro combos 1
+Libro combos 2
+Libro combos 3
+Libro combos 4
+Libro combos 5
+Guia Organizador
+Guia Mochilero
+Poción
+Megapoción
+Nutrientes
+Meganutrientes
+Antídoto
+Medicina herbal
+Inmunizador
+Bebida energét.
+Zumo de poder
+Megazumo
+Droga demoníaca
+Megadroga demon.
+Píldora de poder
+Piel de armadura
+Megapiel armad.
+Píldora armadura
+Bebida fría
+Bebida caliente
+Disolvente
+Desodorante
+Psicosuero
+Poción máx.
+Poción antigua
+Cristales vida
+Polvo de vida
+Catalizador
+Tranquilizante
+Amuleto de poder
+Garra de poder
+Amuleto armadura
+Garra armadura
+Carne cruda
+Carne envenenada
+Carne teñida
+Carne drogada
+Fil. poco hecho
+Filete al punto
+Carne quemada
+Carne fría
+Carne caliente
+Pesc. poco hecho
+Pesc. gourmet
+Pesc. tostado
+Huevo Yukumo
+Bumerán
+Cuchillo lanzam.
+Cuch. lanz. ven.
+Cuch. somnífero
+Cuch. paraliz.
+Cuch. tranquil.
+Material bomba
+Bola de pintura
+Bomba de luz
+Bomba sónica
+Estiercol
+Estiercol+
+Bomba estiercol
+Bomba de humo
+Bomba humo ven.
+Transportador
+Bomba tranquil.
+Telaraña
+Red
+Herram. trampa
+Trampa escollo
+Trampa choque
+Pólvora
+Barril pequeño
+Barril grande
+Bomba barril pq.
+Bomba barril gr.
+Bomba barr. gr.+
+Bomba de rebote
+Bomba Felvine
+Bomba barr. JUMP
+Bomba Polytan
+Pico antiguo
+Pico de hierro
+Megapico
+Red bichos ant.
+Red de bichos
+Megarred bichos
+Asador barbacoa
+Piedra de afilar
+Baya hueca
+Cáscara de hueso
+Dis. normal Nv1
+Dis. normal Nv2
+Dis. normal Nv3
+Disp. perf. Nv1
+Disp. perf. Nv2
+Disp. perf. Nv3
+D. perdigón Nv1
+D. perdigón Nv2
+D. perdigón Nv3
+Disp. expl. Nv1
+Disp. expl. Nv2
+Disp. expl. Nv3
+Disp. grupo Nv1
+Disp. grupo Nv2
+Disp. grupo Nv3
+Disp. llama
+Disp. agua
+Disp. trueno
+Disp. congel.
+Disp. dragón
+Disp. Cort.
+Dis. veneno Nv1
+Dis. veneno Nv2
+Dis. parál. Nv1
+Dis. parál. Nv2
+Disp. sueño Nv1
+Disp. sueño Nv2
+Disp. debil Nv1
+Disp. debil Nv2
+Dis. recup. Nv1
+Dis. recup. Nv2
+Disp. demonio
+Disp. armadura
+Disp. tranquil.
+Disp. pintura
+Sin Revest.
+Botella vacía
+Revest. energía
+Revest. contac.
+Revest. veneno
+Revest. parál.
+Revest. sueño
+Revest. Agotam.
+Revest. pintura
+Gusano
+Megamosca pesca
+Cebo pez dorado
+Cebo explosivo
+Cebo excelente
+Prismáticos
+Basura
+Flauta
+Flauta de Salud
+Flauta antídoto
+Flauta demonio
+Flauta armadura
+Miel
+Hierba
+Hierba antidoto
+Hierba de fuego
+Hierba de Hielo
+Hiedra
+Hierba somnífera
+Planta de savia
+Vid Felyne
+Flor de cactus
+Pimiento picante
+Latigo Tulip
+Seta azul
+Nitroseta
+Paraliseta
+Hongo
+Seta excitante
+Seta Bambú
+Hongo dragón
+Gran Paraliseta
+Hongo Pico
+Baya pintura
+Semilla de poder
+Semilla armadura
+Baya Resist.
+Semilla dragón
+Nuez frágil
+Baya aguja
+Baya Acónito
+Baya bomba
+Semilla roja
+Semilla verde
+Semilla calabaza
+Madera Yukumo
+Madera Yukumo+
+Ceniza Calidad
+Caballa cuchillo
+Pez sushi
+Pez somnífero
+Atún pincho
+Pez estruendoso
+Pez frágil
+Arrowana revent.
+Arrowana bomba
+Pez dorado peq.
+Sardina Pecado
+Pez antiguo
+Gr.Pez Cinturón
+Ostra Unari
+Sábalo Blindado
+Piel Tib. Anc.
+Cáscara insecto
+Bicho Orejón
+Saltamontes Bon
+Larva serpiente
+Bicho divino
+Bicho amargo
+Bicho luminoso
+Bicho eléctrico
+Bicho carpintero
+Escar. asesino
+Hercudrome
+Super B. Eléct.
+Escarabajo rey
+Escarabajo raro
+Grillo Sonóro
+Gran Mariposa
+Piedra
+Mineral hierro
+Cristal tierra
+Min. Machalita
+Min. Pelagicita
+Mineral Bealita
+Isio
+Cristal ligero
+Min. Dragonita
+Trozo Lava
+Piedra fuego
+Min. Carbalita
+Min. Depsolita
+Mineral de unión
+Gracium
+Piedra lava
+Cristal hielo
+Cristal	Arcoiris
+Hueso misterioso
+Cráneo desconoc.
+Hueso
+H. monstr. pq.
+H. monstr. med.
+H. monstr. gr.
+Hueso monstruo+
+Hueso Fuerte
+H. monstruo duro
+Hueso Wyv. Ave
+Hueso gigante
+Hueso sólido
+Hueso Drg. Anc.
+Colmillo Wyvern
+Garra Wyvern
+Gema ave Wyvern
+Piedra de Wyvern
+Sangre dr. anc.
+Lanzagritos
+Bolsa de veneno
+Bolsa de toxinas
+Bolsa parálisis
+Bolsa Inmovil.
+Bolsa somnífera
+Bolsa de coma
+Bolsa de llama
+Bolsa infernal
+Bolsa de Agua
+Bolsa Aquosa
+Bolsa de trueno
+Bolsa de Hielo
+Bolsa Congelada
+Extracto poder
+Extracto pálido
+Fluido monstruo
+Caldo monstruo
+Ave Entera
+Cuerno de Kelbi
+Piel cálida
+Piel alta cal.
+Astas de Anteka
+Escama Rhenoplos
+Esc. Rhenoplos+
+Concha Rhenoplos
+Piel Zuwaroposu
+Piel Zuwaroposu+
+Aleta Gigante
+Filete Gourmet
+Diente Afilado
+Cuero Suave
+Escama Bnahabra
+Escama Bnahabra+
+Ala de Bnahabra
+Púa Bnahabra
+Mand. Altharot
+Bolsa Altharot
+Bolsa Altharot+
+Piel Bullfango
+Cabeza Bullfango
+Piel Bulldrome
+Piel Bulldrome+
+Colm. Bulldrome
+Escama Jaggi
+Escama Jaggi+
+Piel Jaggi
+Colm. ave Wyvern
+Piel G. Jaggi
+Piel. G. Jaggi+
+Garra G. Jaggi
+Garra G. Jaggi+
+Adorno Real
+Cráneo Jaggi
+Esc. Furogi
+Esc. Furogi+
+Piel Furogi
+Colmillo Furogi
+Piel G. Furogi
+Piel G. Furogi+
+Concha G. Furogi
+Con. G. Furogi+
+Pico Furogi
+Escama Baggi
+Escama Baggi+
+Piel Baggi
+Piel G. Baggi
+Piel G. Baggi+
+Garra G. Baggi
+Garra G. Baggi+
+Cresta Baggi
+Pelo Aoashira
+Hebra Aoashira
+Cap. Aoashira
+Cap. Aoashira+
+Brazal Aoashira
+Braz. Aoashira+
+Pelo Urukususu
+Hebra Urukususu
+Oreja Urukususu
+Ore. Urukususu+
+Esc. Urukususu
+Esc. Urukususu+
+Garra Urukususu
+Gar. Urukususu+
+Cap. Rangu
+Cap. Rangu+
+Garra Rangu
+Garra Rangu+
+Cap. int. Rangu
+Escama Qurupeco
+Esc. Qurupeco+
+Pluma Qurupeco
+Ala Qurupeco
+Pluma Colorida
+Pico Extraño
+Pico magnifico
+Silex
+Esc. Qurup. R.
+Ala Qurupeco R.
+Turmalina
+Escama Ludroth
+Escama Ludroth+
+Esponja Inmadura
+Piel Esponjosa
+Piel Esponjosa+
+Esc. Lud. Real
+Esc. Lud. Real+
+Gar. Lud. Real
+Gar. Lud. Real+
+Piel Lud. Real
+Piel Exclusiva
+Cola Lud. Real
+Piel Esponj. P.
+Esc. Ludroth P.
+Garra Lud. P.
+Cap. Barroth
+Cap. Barroth+
+Lomo Barroth
+Lomo Barroth+
+Garra Barroth
+Garra Barroth+
+Cresta Barroth
+Cola Barroth
+Barro Fértil
+Cap. Barroth H.
+Lomo Barroth H.
+Gar. Barroth H.
+Crst. Barroth H.
+Cola Barroth H.
+Barro Congelado
+Concha Hapu
+Concha Hapu+
+Piel Hapu
+Piel Hapu+
+Garra Hapu
+Garra Hapu+
+Cráneo Hapu
+Fluido Brillante
+Fluido Colorido
+Piel Misteriosa
+Piel Misteriosa+
+Piel Rara
+Piel Aterradora
+Garra Mist.
+Garra Mist+
+Mand. Temible
+Gland. Veneno
+Gland. Veneno+
+Piel Drg. Mist.
+Garra Drg. Mist.
+Escama Rathian
+Escama Rathian+
+Concha Rathian
+Caparaz. Rathian
+Cincha Rathian
+Púa de Rathian
+Púa de Rathian+
+Placa de Rathian
+Rubí de Rathian
+Esc. Rathian do+
+Cap. Rathian do.
+Púa Rathian do.
+Escama Rathalos
+Escama Rathalos+
+Concha Rathalos
+Capar. Rathalos
+Cincha Rathalos
+Cola Rathalos
+Placa Rathalos
+Rubí Rathalos
+Esc. Rthls. pl+
+Cap. Rthls. pl
+Cola Rthls. pl
+Garra Wyv. fuego
+Med Wyv. fuego
+Cola Wyv. fuego
+Liq. Wyv. fuego
+Concha Jinouga
+Concha Jinouga+
+Pelo Elec. Jin.
+Pelo Elec. Jin+
+Cuerno Jinouga
+Cuerno Jinouga+
+Garra Jinouga
+Garra Jinouga+
+Cola Jinouga
+Con. carg. Jin.
+Con. carg. Jin+
+Placa Jinouga
+Rubí Jinouga
+Escama Naruga
+Escama Naruga+
+Piel Naruga
+Pelo Naruga
+Cola Naruga
+Pua Naruga
+Ala Naruga
+Ala Naruga+
+Colmillo Naruga
+Colmillo Naruga+
+Medula Naruga
+Medula Naruga+
+Esc. Naruga Jade
+Pelo Naruga Jade
+Ala Naruga Jade
+Colm. Nar. Jade
+Concha Barioth
+Capar. Barioth+
+Pelaje Barioth
+Pelaje Barioth+
+Garra Barioth
+Garra Barioth+
+Púa Barioth
+Cola Barioth
+Colmillo Ámbar
+Colmillo Ámbar+
+Cap. Bari. Deser
+Pelo Bari. Deser
+Gar. Bari. Deser
+Cola Bari. Deser
+Colm. Marino
+Pleura Dura
+Escama Uragaan
+Escama Uragaan+
+Concha Uragaan
+Capar. Uragaan
+Mand. Uragaan
+Cin. F. Uragaan
+Médula Uragaan
+Rubí Uragaan
+Esc. Urag. Acer
+Cap. Urag. Acer
+Mand. Ura. Acer
+Con. Urag. Acer
+Concha Doboru
+Capar. Doboru+
+Musgo Doboru
+Musgo Doboru+
+Maza Doboru
+Cola Doboru
+Cola Doboru+
+Cuerno Doboru
+Cuerno Doboru+
+Coxis Doboru
+H. Sacro Doboru
+Escama Tigrex
+Escama Tigrex+
+Concha Tigrex
+Caparazon Tigrex
+Cola Tigrex
+Garra Tigrex
+Garra Tigrex+
+Colmillo Tigrex
+Colmillo Tigrex+
+C. cran. Tigrex
+Tigrex Agito
+Esc. Tig. Neg.
+Cap. Tig. Neg.
+Garra Tig. Neg.
+Colm. Tig. Neg.
+Concha Diablos
+Caparaz. Diablos
+Lomo Diablos
+Torax Diablos
+Cola Diablos
+Colmillo Blos
+Cuerno Retorcido
+Cuerno Majestad
+Columna Blos
+Columna Blos+
+Cap. Blos negra
+Torso Blos n.
+Cu. Maj. negro
+Concha Uroktor
+Concha Uroktor+
+Escama Agnaktor
+Concha Agnaktor
+Capar. Agnaktor
+Piel Agnaktor
+Piel Agnaktor+
+Garra Agnaktor
+Garra Agnaktor+
+Aleta Agnaktor
+Aleta Agnaktor+
+Pico Agnaktor
+Cola Agnaktor
+Concha Fundida
+Cap. Fundido
+Con. Ag. Hielo
+Piel Ag. Hielo
+Garra Ag. Hielo
+Aleta Ag. Hielo
+Pico Ag. Hielo
+Cola Ag. Hielo
+Concha Húmeda
+Concha Mohran
+Cap. Mohran
+Escama Mohran
+Escama Mohran+
+Brazal Mohran
+Brazal Mohran+
+Colm. Robusto
+Colm. Robusto+
+Gema Drg Tierra
+Escama Deviljho
+Piel Deviljho
+Colm. Deviljho
+Garra Deviljho
+Pelo Deviljho
+Cola Deviljho
+Saliva Deviljho
+Gema Deviljho
+Escama Akantor
+Concha Akantor
+Cola Akantor
+Garra Akantor
+Colm Akantor
+Pua Akantor
+Joya Akantor
+Con. Ukanlos
+Esc. Ukanlos
+Cola Ukanlos
+Garra Ukanlos
+Colm. Ukanlos
+Aleta Ukanlos
+Joya Ukanlos
+Escama Alatreon
+Placa Alatreon
+Garra Alatreon
+Cincha Alatreon
+Cola Alatreon
+Cortacielo roto
+Cortacielos
+Gema Turquesa
+Concha Amatsu
+Membrana Amatsu
+Cuerno Amatsu
+Garra Amatsu
+Cola Amatsu
+Cincha Amatsu
+Vesicula Torm.
+Joya drg. cielo
+Piedra Oxidada
+Piedra Antigua
+Escom. Oxidados
+Gran pieza Ant.
+Pieza peq. Ant.
+Pieza Lar. Ant.
+Huevo de Acero
+Huevo Plateado
+Huevo Dorado
+Recomendacion
+Recomendacion G
+Sello hue. Zarpa
+Ticket Yukumo
+Ticket Bebida
+Ticket Spa
+Ticket Otomo
+Ticket Veggie
+Ticket Veggie+
+Ticket Bron V.
+Ticket Pla. V.
+Ticket Oro V.
+Lib. Sec. Armas
+Lib.Sec.Ballesta
+Lib.Sec.Katana
+LLamado a armas
+Prueba campeón
+Evidencia Lily
+Colm. antiguo
+Libro M. espada
+Evid. Detective
+Contrato Negima
+Ticket Revista
+Ticket Tesoro J
+Ticket Pirata J
+Tckt. Leyenda J
+Gato Pir. Dor.J
+Ticket Famitsu
+Famitsu ST
+Famitsu GT
+Tick Famit plat
+Gato Famit Oval
+Ticket Rayo
+Ticket Dengeki+
+Ticket Big Boss
+Ticket Confid.
+Ticket UNIQLO
+Ticket Onix
+Plu.Cuerv.Bla.
+Tick.Drg.Neg.
+Ticket Mafumofu
+Diario Cálido
+MH Club 404
+Datos Lynian
+Datos Neopteron
+Datos Piscine
+Datos Herbivoro
+Dts. WyvPaj 1ed
+Dts. WyvPaj 2ed
+Dts. Primatius
+Dts. Brutus 1ed
+Dts. Brutus 2ed
+Datos Doboru
+Datos deviljho
+Datos Levia. 1ed
+Datos Levia. 2ed
+Datos Hapuru
+Dts. Wyvern 1ed
+Dts. Wyvern 2ed
+Datos Akantor
+Datos Ukanlos
+Datos Jinouga
+Dts. Jhen Moran
+Datos Amatsu
+Datos Alatreon
+Mapa
+Prim. Auxilios
+Racion
+Asador Portatil
+Mini Pie. Afilar
+Ticket Zarpa
+Trampa Portatil
+Bomba Luz sum.
+Bomba Són. sum.
+Pocion Max. sum.
+Trampa esc. sum.
+Bomba gr. sum.
+Bomba antidragón
+Disp. Balista
+D. Ciñebalista 
+Elastica
+Miel Real
+Seta especial
+Seta selecta
+Seta madura
+Seta Doble
+Brote de Bambú
+Planta Aurora
+Pimiento Marino
+Pez dorado
+Pez plateado
+Pez Bordado
+Pez Bordado+
+Esc. rinoc. real
+Esc. rinoc. div.
+Grillo Plateado
+Grillo Dorado
+Trozo de oro
+Pedazo de oro
+Fr.Pied.Popurri
+Piedra Popurri
+Quilla Cristal
+Hueso dorado
+Roca Sangre
+Roca Sangre+
+Carbon
+Carbon+
+Bola de Cañon
+Huevo Wyvern
+Huevo Herviboro
+Huevo de Gagua
+H. dorado Gagua
+Piedra Hollin
+Piedra Polvo
+Estiercol Gagua
+Higado blanco
+Aceite Zuwarop.
+Lengua de Popo
+Bolsa secreta
+Baya elegante
+Bolsa Limpia
+Bolsa Brillante
+Extracto Giggi
+Entrañas Wyvern
+Lagrimas Wyvern
+Sollozos Wyvern
+Lagrimas Bestia
+Sollozos Bestia
+Residuo Madera
+Residuo Madera+
+Resid. Calabaza
+Residuo Mineral
+Resid. Mineral+
+Residuo Hueso
+Residuo Hueso+
+Residuo Piel
+Residuo Piel+
+Res. Rhenoplos
+Res. Rhenoplos+
+Res. Zuwaroposu
+Resid. Zuwarop+
+Residuo Bicho
+Residuo Bicho+
+Resid. Altaroth
+Res. Altaroth+
+Res. Bulldrome
+Res. Bulldrome+
+Residuo Jaggi
+Residuo Jaggi+
+Residuo Furogi
+Residuo Furogi+
+Residuo Baggi
+Residuo Baggi+
+Res. Aoashira
+Res. Aoashira+
+Res. Urukususu
+Res. Urukususu+
+Residuo Rangu
+Residuo Rangu+
+Res. Qurupeco
+Res. Qurupeco+
+Resid. Ludroth
+Resid. Ludroth+
+Resid. Barroth
+Resid. Barroth+
+Residuo Hapuru
+Residuo Hapuru+
+Res. Gigginox
+Res. Gigginox+
+Residuo Rathian
+Resid. Rathian+
+Resid. Rathalos
+Res. Rathalos+
+Resid. Jinouga
+Resid. Jinouga+
+Residuo Naruga
+Residuo Naruga+
+Resid. Barioth
+Resid. Barioth+
+Resid. Uragaan
+Resid. Uragaan+
+Residuo Doboru
+Residuo Doboru+
+Residuo Tigrex
+Residuo Tigrex+
+Resid. Diablos
+Resid. Diablos+
+Resid. Agnaktor
+Resid. Agnaktor+
+Residuo Jhen
+Residuo Jhen+
+Resid. Deviljho
+Residuo Akantor
+Residuo Ukanlos
+Resid. Alatreon
+Residuo Amatsu
+Residuo Coraje
+Residuo Coraje+
+Piedra armadura
+Esfera armadura
+Esf. armadura+
+Esf.armad.dura
+Esf.armad.pes.
+Amul. misterioso
+Amul. brillante
+Amuleto viejo
+Joya Suiko
+Joya Akito
+Joya Camp. Bat.
+Joya Lapisazuli

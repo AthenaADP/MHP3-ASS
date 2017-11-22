@@ -1,0 +1,8 @@
+Tout
+Divers
+Offensif
+Defensif
+Epeiste
+Artilleur
+Collecte
+Resistance

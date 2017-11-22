@@ -1,0 +1,310 @@
+Attack
+Expert
+Sharpness
+Sharpener
+Artisan
+PunishDraw
+Crit Draw
+FastCharge
+Fencing
+Debilitate
+Slam
+KO
+FatigueAtk
+Horn
+Gunnery
+Awaken
+Potential
+Adversity
+Loading
+Rapid Fire
+Reload Spd
+Recoil
+Precision
+NormalS Up
+PierceS Up
+PelletS Up
+NormalSAdd
+PierceSAdd
+PelletSAdd
+Crag S Add
+ClustS Add
+CutterSAdd
+PoisonCAdd
+ParalyCAdd
+SleepCAdd
+PowerCAdd
+RazorCAdd
+FatigeCAdd
+Status
+Elemental
+Fire Atk
+Water Atk
+Thundr Atk
+Ice Attack
+Dragon Atk
+Constitutn
+Stamina
+Will Recov
+Hunger
+Evasion
+Evade Dist
+Sheathe
+Sense
+Rec Speed
+Guard
+Guard Up
+Auto-Guard
+Protection
+Poison
+Paralysis
+Sleep
+Stun
+Mud/Snow
+Quake Res
+WindPress
+Antiseptic
+Anti-Theft
+Blight Res
+Fortitude
+HearProtct
+Health
+Defense
+Fire Res
+Water Res
+ThunderRes
+Ice Res
+Dragon Res
+Wide Area
+BombStrUp
+SpeedSetup
+Perception
+Psychic
+DungMaster
+Rec Level
+LastingPwr
+Gluttony
+Eating
+Huntsman
+Backpackng
+Heat Res
+Cold Res
+Gathering
+HiSpdGathr
+Whim
+Fate
+Carving
+Rewards
+Combo Rate
+Shot Mix
+Torso Inc
+
+Attack Up [Sm]
+Attack Up [Med]
+Attack Up [Lg]
+Attack Down [Sm]
+Attack Down [Med]
+Attack Down [Lg]
+Reckless Abandon +1
+Reckless Abandon +2
+Reckless Abandon +3
+Reckless Abandon -1
+Reckless Abandon -2
+Reckless Abandon -3
+Sharp Sword
+Blunt
+Speed Sharpening
+Slow Sharpening
+Sharpness +1
+Unsheathe Stun
+Unsheathe Critical
+Concentration
+Distraction
+ESP
+Exploiter
+Ruiner
+Improved KO
+Enfeebler
+Flute Expert
+Gunnery Master
+Gunnery King
+Unleashed +1
+Unleashed +2
+Adrenaline +1
+Adrenaline +2
+Worry
+Resilience
+Load Up
+Rapid Shot +1
+Reload Speed +1
+Reload Speed +2
+Reload Speed +3
+Reload Speed -1
+Reload Speed -2
+Reload Speed -3
+Recoil Reduction +1
+Recoil Reduction +2
+Recoil Reduction +3
+Recoil Reduction -1
+Recoil Reduction -2
+Recoil Reduction -3
+Accuracy+1
+Accuracy+2
+Accuracy-1
+Accuracy-2
+NormalS/RapidBowUp
+PierceS/PierceBowUp
+PelletS/ScatterBowUp
+Normal S All Add
+Pierce S LV1 Add
+Pierce S All Add
+Pellet S LV1 Add
+Pellet S All Add
+Crag S LV1 Add
+Crag S All Add
+Clust S LV1 Add
+Clust S All Add
+Cutter S Add
+Poison Coating Add
+Parlysis Coating Add
+Sleep Coating Add
+Power Coating Add
+Close Range Coating Add
+Fatigue Coating Add
+Abnormal Status Atk +1
+Abnormal Status Atk +2
+Abnormal Status Atk Down
+Element Atk Up
+Elemnt Atk Down
+Fire Element +1
+Fire Element +2
+Fire Elment Down
+Water Element +1
+Water Element +2
+Water Element Down
+Thunder Element +1
+Thunder Element +2
+Thunder Element Down
+Ice Element +1
+Ice Element +2
+Ice Element Down
+Dragon Element +1
+Dragon Element +2
+Dragon Element Down
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Runner
+Flat Footed
+Stamina Recov Up
+Stamina Recov Down
+Hunger Halved
+Hunger Negated
+Hunger Inc [Lo]
+Hunger Inc [Hi]
+Evade +1
+Evade +2
+Evade Down
+Evasion Up
+Fast Sheathe
+Sneak
+Taunt
+Recovery Speed +1
+Recovery Speed +2
+Recovery Spd -1
+Recovery Spd -2
+Guard +1
+Guard +2
+Guard -1
+Guard Inc
+Auto-Guard
+Divine Protection
+Demonic Protection
+Poison Negated
+Poison [x2]
+Parlysis Negated
+Paralysis [x2]
+Sleep Negated
+Sleep [x2]
+Stun Halved
+Stun Negated
+Stun [x2]
+Mud/Snow Res
+Quake Res
+Wind Breaker
+Wind Anchor
+Antiseptic
+Steal No Effect
+Blightproof
+Def Down Negate
+Earplug
+HighGradeEarplug
+Health +20
+Health +50
+Health -10
+Health -30
+Def Up (S)
+Def Up (M)
+Def Up (L)
+Def Down (S)
+Def Down (M)
+Def Down (L)
+Fire Res (S)
+Fire Res (L)
+Fire Res Weakened
+Water Res (S)
+Water Res (L)
+Water Res Weakened
+Thunder Res (S)
+Thunder Res (L)
+Thunder Res Weakened
+Ice Res (S)
+Ice Res (L)
+Ice Res Weakened
+Dragon Res (S)
+Dragon Res (L)
+Dragon Res Weakened
+Wide Area +1
+Wide Area +2
+Bombardier
+Trap Master
+Trnquilizr Guru
+Detect
+Autotracker
+DungBombExpert
+Recovery Up
+Recovery Down
+Item Use Up
+Item Use Down
+Filled Up
+Picky Eater
+Quick Eating +1
+Quick Eating +2
+Slow Life
+Huntsman's Life
+Backpacking Expert
+Heat Cancel
+Heat Inc
+Cold Eliminate
+Cold Increase
+Gathering +1
+Gathering +2
+Gathering -1
+Hi-SpdGathering
+Spirit's Whim
+Divine Whim
+Spectre's Whim
+Devil's Whim
+Good Luck
+Luck Booster
+Bad Luck
+Calamity
+Carving Expert
+Rewards Expert
+Rewards Celeb
+Combine Success +20%
+Combine Success+45%
+Combine Success -10%
+Combine Success-20%
+Bullet Limit

@@ -1,0 +1,87 @@
+﻿&Fichier
+&Options
+&Langage
+&Aide
+&Ouvrir...
+&Enregistrer
+&Quitter
+&Reinitialiser Parametres
+Autoriser les &Talents negatifs
+Autoriser les &Piercings
+Autoriser les &Armures evenement
+Autoriser les &Armures rang inferieur
+Verifier les &Mises a jour
+&A propos de
+&MesCharmes
+&Importer
+&Recherche rapide
+&Recherche avancee
+&Annuler
+&Defaut
+&Aucun
+&Recherche
+Choisir &Aucun
+Choisir le &Meilleur
+&Ajouter
+Su&pprimer
+Supprimer &Tout
+Deplacer &Haut
+Deplacer &Bas
+&Fermer
+&Trouver Suivant
+HR
+Quetes Village
+Max Fentes Arme
+Homme
+Femme
+Filtrer les Resultats par Charmes
+Trier les Resultats par
+Tout
+Resistance Dragon
+Resistance Feu
+Resistance Glace
+Resistance Foudre
+Resistance Eau
+Defense de base
+Defense maximum
+Difficulte
+Rarete
+Fentes libres
+Charmes
+Pas de charmes
+Seulement mes charmes
+Seul. charmes a fentes
+Seul. charmes a un talent
+Seul. charmes a deux talents
+Talents
+Filtres Talents
+Epeiste
+Artilleur
+Choisir Armures
+Importer Charmes d'une sauvegarde
+Personnages
+Supprimer les charmes existants
+Pas de donnees personnage trouve
+Pas de charmes trouve
+Fentes
+(Aucun)
+Fente libre
+Fentes libres
+(ou n'importe avec
+fente)
+(ou n'importe avec
+fentes)
+(ou n'importe avec Tail. aug.)
+Solutions trouvees:
+Montre les
+premieres solutions seulement:
+MHP3rd Donnees
+Pas de sauvegarde MHP3rd valide.
+Version
+Trouver
+You cheater, you.
+Erreur
+pour
+Defense
+Table
+Resultats

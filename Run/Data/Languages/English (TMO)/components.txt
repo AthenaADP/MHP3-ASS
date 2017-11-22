@@ -1,0 +1,814 @@
+Book of Combos 1
+Book of Combos 2
+Book of Combos 3
+Book of Combos 4
+Book of Combos 5
+Organizer Guide
+Pack Rat Guide
+Potion
+Mega Potion
+Nutrients
+Mega Nutrients
+Antidote
+Herbal Medicine
+Immunizer
+Energy Drink
+Dash Juice
+Mega Dash Juice
+Demondrug
+Mega Demondrug
+Might Pill
+Armorskin
+Mega Armorskin
+Adamant Pill
+Cool Drink
+Hot Drink
+Cleanser
+Deodorant
+Psychoserum
+Max Potion
+Ancient Potion
+Lifecrystals
+Lifepowder
+Catalyst
+Tranquilizer
+Powercharm
+Powertalon
+Armorcharm
+Armortalon
+Raw Meat
+Poisoned Meat
+Tinged Meat
+Drugged Meat
+Rare Steak
+Well-done Steak
+Burnt Meat
+Chilled Meat
+Hot Meat
+Rare Fish
+Gourmet Fish
+Burnt Fish
+Yukumo Egg
+Boomerang
+Throwing Knife
+Poison Knife
+Sleep Knife
+Paralysis Knife
+Tranq Knife
+Bomb Casing
+Paintball
+Flash Bomb
+Sonic Bomb
+Dung
+Wyvern Dung
+Dung Bomb
+Smoke Bomb
+Poison Smoke Bmb
+Farcaster
+Tranq Bomb
+Spider Web
+Net
+Trap Tool
+Pitfall Trap
+Shock Trap
+Gunpowder
+Small Barrel
+Large Barrel
+Barrel Bomb S
+Barrel Bomb L
+Barrel Bomb L+
+Bounce Bomb
+Felvine Bomb
+JUMP Barrel Bomb
+Polytan Bomb
+Old Pickaxe
+Iron Pickaxe
+Mega Pickaxe
+Old Bug Net
+Bug Net
+Mega Bug Net
+BBQ Spit
+Whetstone
+Huskberry
+Bone Husk
+Normal S Lv1
+Normal S Lv2
+Normal S Lv3
+Pierce S Lv1
+Pierce S Lv2
+Pierce S Lv3
+Pellet S Lv1
+Pellet S Lv2
+Pellet S Lv3
+Crag S Lv1
+Crag S Lv2
+Crag S Lv3
+Clust S Lv1
+Clust S Lv2
+Clust S Lv3
+Flaming S
+Water S
+Thunder S
+Freeze S
+Dragon S
+Slicing S
+Poison S Lv1
+Poison S Lv2
+Para S Lv1
+Para S Lv2
+Sleep S Lv1
+Sleep S Lv2
+Exhaust S Lv1
+Exhaust S Lv2
+Recov S Lv1
+Recov S Lv2
+Demon S
+Armor S
+Tranq S
+Paint S
+No Coating
+Empty Bottle
+Power Coating
+C.Range Coating
+Poison Coating
+Para Coating
+Sleep Coating
+Exhaust Coating
+Paint Coating
+Worm
+Mega Fishing Fly
+Goldenfish Bait
+Burst Bait
+Bountiful Bait
+Binoculars
+Garbage
+Field Horn
+Health Horn
+Antidote Horn
+Demon Horn
+Armor Horn
+Honey
+Herb
+Antidote Herb
+Fire Herb
+Snow Herb
+Ivy
+Sleep Herb
+Sap Plant
+Felvine
+Cactus Flower
+Hot Pepper
+Hypnotic Pollen
+Blue Mushroom
+Nitroshroom
+Parashroom
+Toadstool
+Exciteshroom
+Wearyshroom
+Dragon Toadstool
+Bindshroom
+Pickaxe Mushroom
+Paintberry
+Might Seed
+Adamant Seed
+Nulberry
+Dragonfell Berry
+Scatternut
+Needleberry
+Spikeberry
+Bomberry
+Red Seed
+Green Seed
+Bumblepumpkin
+Yukumo Wood
+Yukumo Wood+
+High Quality Ash
+Whetfish
+Sushifish
+Sleepyfish
+Pin Tuna
+Popfish
+Scatterfish
+Burst Arowana
+Bomb Arowana
+Small Goldenfish
+Wanchovy
+Ancient Fish
+Blue Cutthroat
+Humspun Conch
+Armored Beakfish
+Sharqskin
+Insect Husk
+Hawkmoth Larva
+Stinkhopper
+Snakebee Larva
+Godbug
+Bitterbug
+Flashbug
+Thunderbug
+Carpenterbug
+Killer Beetle
+Hercudrome
+Mega Thunderbug
+King Scarab
+Rare Scarab
+Blossom Cricket
+Butterfly Beetle
+Stone
+Iron Ore
+Earth Crystal
+Machalite Ore
+Pelagicite Ore
+Bealite Ore
+Isisium
+Lightcrystal
+Dragonite Ore
+Lava Nugget
+Firestone
+Carbalite Ore
+Bathycite Ore
+Fucium Ore
+Gracium
+Firecell Stone
+Ice Crystal
+Rainbow Crystal
+Mystery Bone
+Unknown Skull
+Bone
+Monster Bone S
+Monster Bone M
+Monster Bone L
+Monster Bone+
+Monster Keenbone
+Monster Hardbone
+Avian Finebone
+Jumbo Bone
+Stout Bone
+Dragonbone Relic
+Wyvern Fang
+Wyvern Claw 
+Bird Wyvern Gem
+Wyvern Stone
+ElderDragonBlood
+Screamer
+Poison Sac
+Toxin Sac
+Paralysis Sac
+Omniplegia Sac
+Sleep Sac
+Coma Sac
+Flame Sac
+Inferno Sac
+Aqua Sac
+Torrent Sac
+Thunder Sac
+Frost Sac
+Freezer Sac
+Dash Extract
+Pale Extract
+Monster Fluid
+Monster Broth
+Gargwa Feather
+Kelbi Horn
+Warm Pelt
+High-Qualty Pelt
+Anteka Antlers
+Rhenoplos Shell
+Rheno Carapace
+Rhenoplos Scalp
+Slagtoth Hide
+Slagtoth Hide+
+Big Fin
+Quality Fin
+Sharpened Fang
+Velvety Hide
+Bnahabra Shell
+Bnaha Carapace
+Bnahabra Wing
+Bnahabra Spine
+Altaroth Jaw
+Altaroth Stomach
+Quality Sac
+Bullfango Pelt
+Bullfango Head
+Bulldrome Hide
+Bulldrome Hide+
+Bulldrome Tusk
+Jaggi Scale
+Jaggi Scale+
+Jaggi Hide
+Bird Wyvern Fang
+G.Jaggi Hide
+G.Jaggi Hide+
+G.Jaggi Claw
+G.Jaggi Claw+
+King's Frill
+G.Jaggi Head
+Wroggi Scale
+Wroggi Scale+
+Wroggi Hide
+Wroggi Fang
+G.Wroggi Hide
+G.Wroggi Hide+
+G.Wroggi Brace
+G.Wroggi Brace+
+King's Beak
+Baggi Scale
+Baggi Scale+
+Baggi Hide
+G.Baggi Hide
+G.Baggi Hide+
+G.Baggi Claw
+G.Baggi Claw+
+King's Crest
+Arzuros Pelt
+Arzuros Pelt+
+Arzuros Shell
+Arzuros Carapace
+Arzuros Brace
+Arzuros Brace+
+Lagombi Pelt
+Lagombi Pelt+
+Lagombi Ear
+Lagombi Ear+
+Lagombi Plastron
+Lagom Plastron+
+Lagombi Claw
+Lagombi Claw+
+Volvidon Shell
+Volvi Carapace
+Volvidon Claw
+Volvidon Claw+
+Volvi Rickrack
+Qurupeco Scale
+Qurupeco Scale+
+Qurupeco Feather
+Qurupeco Wing
+Vivid Feather
+Strange Beak
+Wonderful Beak
+Flintstone
+C.Peco Scale+
+C.Peco Wing
+Voltstone
+Hydro Hide
+Hydro Hide+
+Immature Sponge
+Spongy Hide
+Spongy Hide+
+R.Ludroth Scale
+R.Ludroth Scale+
+R.Ludroth Claw
+R.Ludroth Claw+
+R.Ludroth Crest
+R.Ludroth Crest+
+R.Ludroth Tail
+Plum Spongy Hide
+P.Ludroth Scale+
+P.Ludroth Claw+
+Barroth Shell
+Barroth Carapace
+Barroth Ridge
+Barroth Ridge+
+Barroth Claw
+Barroth Claw+
+Barroth Scalp
+Barroth Tail
+Fertile Mud
+J.Barr Carapace
+J.Barroth Ridge+
+J.Barroth Claw+
+J.Barroth Scalp
+J.Barroth Tail
+Frozen Glob
+Nibelsnarf Shell
+Nibel Carapace
+Nibelsnarf Hide
+Nibelsnarf Hide+
+Nibelsnarf Claw
+Nibelsnarf Claw+
+Nibelsnarf Scalp
+Vivid Fluid
+Brilliant Fluid
+Gigginox Hide
+Gigginox Hide+
+Uncanny Hide
+Uncanny Hide+
+Gigginox Claw
+Gigginox Claw+
+Fearsome Maw
+Venom Gland
+Grim Venom Gland
+B.Giggi Hide+
+B.Giggi Claw+
+Rathian Scale
+Rathian Scale+
+Rathian Shell
+Rathian Carapace
+Rathian Webbing
+Rathian Spike
+Rathian Spike+
+Rathian Plate
+Rathian Ruby
+G.Rathian Scale+
+G.Rath Carapace
+G.Rathian Spike+
+Rathalos Scale
+Rathalos Scale+
+Rathalos Shell
+Rath Carapace
+Rathalos Webbing
+Rathalos Tail
+Rathalos Plate
+Rathalos Ruby
+S.Rath Scale+
+S.Rath Carapace
+S.Rathalos Tail
+Rath Talon
+Rath Marrow
+Rath Medulla
+Rath Gleem
+Zinogre Shell
+Zinogre Carapace
+Zin Electrofur
+Zin Electrofur+
+Zinogre Horn
+Zinogre Horn+
+Zinogre Claw
+Zinogre Claw+
+Zinogre Tail
+Zinogre Shocker
+Zinogre Shocker+
+Zinogre Plate
+Zinogre Jasper
+Nargacuga Scale
+Nargacuga Scale+
+Nargacuga Pelt
+Nargacuga Pelt+
+Nargacuga Tail
+Narga Tailspike
+Nargacuga Razor
+Narga Razor+
+Nargacuga Fang
+Nargacuga Fang+
+Narga Marrow
+Narga Medulla
+G.Narga Scale+
+G.Narga Pelt+
+G.Narga Razor+
+G.Narga Fang+
+Barioth Shell
+Barioth Carapace
+Barioth Pelt
+Barioth Pelt+
+Barioth Claw
+Barioth Claw+
+Barioth Spike
+Barioth Tail
+Amber Tusks
+Amber Tusks+
+S.Bari Carapace
+S.Barioth Pelt+
+S.Barioth Claw+
+S.Barioth Tail
+Indigo Tusks+
+Rugged Pleura
+Uragaan Scale
+Uragaan Scale+
+Uragaan Shell
+Uragaan Carapace
+Uragaan Jaw
+Uragaan Scute
+Uragaan Marrow
+Uragaan Ruby
+S.Uragaan Scale+
+S.Urag Carapace
+S.Uragaan Maw
+S.Uragaan Scute
+Duramboros Shell
+Duram Carapace
+Duram Mossplate
+Hard Mossplate
+Duramboros Hump
+Duram Tailcase
+Duram Tailcase+
+Duramboros Horn
+Duramboros Horn+
+Duram Tailbone
+Duram Sacrum
+Tigrex Scale
+Tigrex Scale+
+Tigrex Shell
+Tigrex Carapace
+Tigrex Tail
+Tigrex Claw
+Tigrex Claw+
+Tigrex Fang
+Tigrex Fang+
+Tigrex Scalp
+Tigrex Jaw
+B.Tigrex Scale+
+B.Tigrex Shell+
+B.Tigrex Claw+
+B.Tigrex Fang+
+Diablos Shell
+Diablos Carapace
+Diablos Ridge
+Diablos Ridge+
+Diablos Tailcase
+Diablos Fang
+Twisted Horn
+Majestic Horn
+Diablos Marrow
+Diablos Medulla
+B.Diab Carapace
+B.Diablos Ridge+
+Blackcurl Horn
+Uroktor Scale
+Uroktor Scale+
+Agnaktor Scale
+Agnaktor Shell
+Agnak Carapace
+Agnaktor Hide
+Agnaktor Hide+
+Agnaktor Claw
+Agnaktor Claw+
+Agnaktor Fin
+Agnaktor Fin+
+Agnaktor Beak
+Agnaktor Tail
+Scalding Pleura
+Scalding Pleura+
+G.Agnak Carapace
+G.Agnak Hide+
+G.Agnak Claw+
+G.Agnak Fin+
+G.Agnak Beak
+G.Agnak Tail
+Dewy Pleura+
+Mohran Shell
+Mohran Carapace
+Mohran Scale
+Mohran Scale+
+Mohran Brace
+Mohran Brace+
+Sturdy Fang
+Sturdy Fang+
+Earth Dragongem
+Deviljho Scale
+Deviljho Hide
+Deviljho Fang
+Deviljho Talon
+Deviljho Scalp
+Deviljho Tail
+Deviljho Saliva
+Deviljho Gem
+Akantor Scale
+Akantor Shell
+Akantor Tail
+Akantor Claw
+Akantor Fang
+Akantor Spike
+Akantor Jewel
+Ukanlos Shell
+Ukanlos Scale
+Ukanlos Tail
+Ukanlos Claw
+Ukanlos Jaw
+Ukanlos Fin
+Ukanlos Jewel
+Alatreon Scute
+Alatreon Plate
+Alatreon Talon
+Alatreon Webbing
+Alatreon Tail
+Brkn Skypiercer
+Skypiercer
+Azure Dragongem
+Amatsu Shell
+Amatsu Patagium
+Amatsu Horn
+Amatsu Claw
+Amatsu Tail
+Amatsu Pleura
+Tempest Sac
+Divine Dragongem
+Rustshard
+Ancient Shard
+Rusted Fragment
+Large Fragment
+Slender Fragment
+Long Fragment
+Steel Egg
+Silver Egg
+Golden Egg
+Commendation
+Commendation+
+Pawprint Stamp
+Yukumo Ticket
+Drink Ticket
+Hot Spring Ticket
+Comrade Ticket
+VE Ticket
+VE Deluxe Ticket
+VE Bronze Ticket
+VE Silver Ticket
+VE Golden Ticket
+Sword Codex
+Bowgun Codex
+Longsword Codex
+Armament Invite
+Champion Proof
+Lily Proof
+Lrg Ancient Fang
+Swordmaster Book
+Detective Proof
+Negima! Contract
+Magazine Ticket
+Treasure J Tckt
+Pirate J Ticket
+Legend J Ticket
+Pirate J Dubloon
+Incomplete Plans
+Famitsu S Ticket
+Famitsu G Ticket
+Famitsu P Ticket
+Famitsu Coin
+Dengeki Ticket
+Dengeki Ticket+
+Big Boss Title
+Confidential Box
+UNIQLO Ticket
+Black Gem Ticket
+W.Crow Feather
+Wyvrnhide Ticket
+Mafumofu Ticket
+Felyne Diary
+MonHan Club Form
+Lynian Info
+Neopteron Info
+Piscine Wyvern Info
+Herbivore Info
+Bird Wyvern Info 1
+Bird Wyvern Info 2
+Fanged Beast Info
+Brute Wyvern Info 1
+Brute Wyvern Info 2
+Duramboros Info
+Deviljho Info
+Leviathan Info 1
+Leviathan Info 2
+Nibelsnarf Info
+Flying Wyvern Info 1
+Flying Wyvern Info 2
+Akantor Info
+Ukanlos Info
+Zinogre Info
+Jhen Mohran Info
+Amatsu Info
+Alatreon Info
+Map
+First-aid Med
+Ration
+Portable Spit
+Mini Whetstone
+Paw Pass Ticket
+EZ Shock Trap
+EZ Flash Bomb
+EZ Sonic Bomb
+EZ Max Potion
+EZ Pitfall Trp
+EZ Barrel Bomb L
+Anti-dragon Bomb
+Ballista Ammo
+Ballista Binder
+Elastic Binder
+Royal Honey
+Unique Mushroom
+Choice Mushroom
+Ripened Mushroom
+Great Shroom
+Super Sprout
+Aurora Plant
+Volcano Pepper
+Goldenfish
+Silverfish
+Brocade Fish
+Ryl Brocade Fish
+Royal Rhino
+Divine Rhino
+Silver Cricket
+Gold Cricket
+Auristone Piece
+Auristone Chunk
+Balmstone Piece
+Balmstone Chunk
+Crystal Bone
+Golden Bone
+Bloodstone
+Deep Bloodstone
+Coal
+Volatile Coal
+Cannon Ammo
+Wyvern Egg
+Herbivore Egg
+Gargwa Egg
+Gold Gargwa Egg
+Sootstone Ore
+Powderstone
+Gargwa Guano
+White Liver
+Slagtoth Skin Oil
+Popo Tongue
+Secret Stash
+Round Acorn
+Fine Stomach
+Luminous Stomach
+Giggi Essence
+Monster Guts
+Wyvern Tear
+Lrg Wyvern Tear
+Beast Tear
+Lrg Beast Tear
+Wood Scraps
+Wood Scraps+
+Pumpkin Scraps
+Ore Scraps
+Ore Scraps+
+Bone Scraps
+Bone Scraps+
+Pelt Scraps
+Pelt Scraps+
+Rheno Scraps
+Rheno Scraps+
+Slagtoth Scraps
+Slagtoth Scraps+
+Neoptron Scraps
+Neoptron Scraps+
+Beetle Scraps
+Beetle Scraps+
+Bulldrme Scraps
+Bulldrme Scraps+
+G.Jaggi Scraps
+G.Jaggi Scraps+
+G.Wroggi Scraps
+G.Wroggi Scraps+
+G.Baggi Scraps
+G.Baggi Scraps+
+Arzuros Scraps
+Arzuros Scraps+
+Lagombi Scraps
+Lagombi Scraps+
+Volvidon Scraps
+Volvidon Scraps+
+Qurupeco Scraps
+Qurupco Scraps+
+Ludroth Scraps
+Ludroth Scraps+
+Barroth Scraps
+Barroth Scraps+
+Nibel Scraps
+Nibel Scraps+
+Gigginox Scraps
+Giggnox Scraps+
+Rathian Scraps
+Rathian Scraps+
+Rathalos Scraps
+Rthalos Scraps+
+Zinogre Scraps
+Zinogre Scraps+
+Narga Scraps
+Narga Scraps+
+Barioth Scraps
+Barioth Scraps+
+Uragaan Scraps
+Uragaan Scraps+
+Duram Scraps
+Duram Scraps+
+Tigrex Scraps
+Tigrex Scraps+
+Diablos Scraps
+Diablos Scraps+
+Agnaktor Scraps
+Agnaktor Scraps+
+Mohran Scraps
+Mohran Scraps+
+Deviljho Scraps
+Akantor Scraps
+Ukanlos Scraps
+Alatreon Scraps
+Amatsu Scraps
+Courage Scraps
+Courage Scraps+
+Armor Stone
+Armor Sphere
+Armor Sphere+
+Hrd Armor Sphere
+Hvy Armor Sphere
+Mystery Charm
+Shining Charm
+Timeworn Charm
+Aquaglow Jewel
+Sunspire Jewel
+Bloodrun Jewel
+Lazurite Jewel

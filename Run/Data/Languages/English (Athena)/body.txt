@@ -1,0 +1,232 @@
+Yukumo Shirt
+Leather Armor
+Chain Mail
+Hunter's Mail
+Hunter's Vest
+Loc Lac Suit
+Bone Mail
+Bone Vest
+Alloy Mail
+Alloy Vest
+Bnahabra Suit
+Bnahabra Vest
+Rhenoplos Mail
+Rhenoplos Vest
+Jaggi Mail
+Jaggi Vest
+Aoashira Mail
+Aoashira Vest
+Steel Mail
+Froggi Mail
+Froggi Vest
+Urcusis Mail
+Urcusis Vest
+Qurupeco Mail
+Qurupeco Vest
+Ludroth Mail
+Ludroth Vest
+Barroth Mail
+Barroth Vest
+Ingot Mail
+Ingot Vest
+Baggi Mail
+Baggi Vest
+Ranguro Mail
+Ranguro Vest
+Rathian Mail
+Rathian Vest
+Hapuru Mail
+Hapuru Vest
+Nebula Mail
+Nebula Vest
+Narga Mail
+Narga Vest
+Barioth Mail
+Barioth Vest
+Rathalos Mail
+Rathalos Vest
+Uragaan Mail
+Uragaan Vest
+Jinouga Mail
+Jinouga Vest
+Diablos Mail
+Diablos Vest
+Tigrex Mail
+Tigrex Vest
+Agnaktor Mail
+Agnaktor Vest
+Doboru Mail
+Doboru Vest
+Guild Bard Suit
+Guild Bard Vest
+Scholar Suit
+Scholar Vest
+Nightmare Toronko
+Nightmare Toronko
+Nightmare Shtam
+Nightmare Shtam
+Viking Mail
+Viking Vest
+Rouage Petto
+Pouage Pectus
+Falmer Petto
+Falmer Pectus
+Atea Mail
+Atea Vest
+Yamato Plate
+Courtier Plate
+Solar Plate
+Divine Plate
+Zuwaro Mantle
+Zuwaro Cape
+Bath Towel
+Acorn Mail
+Yukumo Shirt [Ten]
+Yukumo Shirt [Chi]
+Leather Mail S
+Leather Vest S
+Chain Mail S
+Chain Vest S
+Hunter's Mail S
+Hunter's Vest S
+Loc Lac Suit S
+Loc Lac Vest S
+Bone Mail S
+Bone Vest S
+Alloy Mail S
+Alloy Vest S
+Bnahabra Suit S
+Bnahabra Vest S
+Rhenoplos Mail S
+Rhenoplos Vest S
+Jaggi Mail S
+Jaggi Vest S
+Grove Mail S
+Grove Vest S
+Steel Mail S
+Froggi Mail S
+Froggi Vest S
+Urcusis Mail S
+Urcusis Vest S
+Qurupeco Mail S
+Qurupeco Vest S
+Ludroth Mail S
+Ludroth Vest S
+Barroth Mail S
+Barroth Vest S
+Ingot Mail S
+Ingot Vest S
+Baggi Mail S
+Baggi Vest S
+Ranguro Mail S
+Ranguro Vest S
+Rathian Mail S
+Rathian Vest S
+Hapuru Mail S
+Hapuru Vest S
+Nebula Mail S
+Nebula Vest S
+Narga Mail S
+Narga Vest S
+Barioth Mail S
+Barioth Vest S
+Rathalos Mail S
+Rathalos Vest S
+Uragaan Mail S
+Uragaan Vest S
+Dober Mail
+Dober Vest
+Jinouga Mail S
+Jinouga Vest S
+Diablos Mail S
+Diablos Vest S
+Tigrex Mail S
+Tigrex Vest S
+Agnaktor Mail S
+Agnaktor Vest S
+Doboru Mail S
+Doboru Vest S
+Qurupeco Mail U
+Qurupeco Vest U
+Ludroth Mail U
+Ludroth Vest U
+Barroth Mail U
+Barroth Vest U
+Nebula Mail U
+Nebula Vest U
+Narga Mail U
+Narga Vest U
+Barioth Mail U
+Barioth Vest U
+Uragaan Mail U
+Uragaan Vest U
+Diablos Mail U
+Diablos Vest U
+Tigrex Mail U
+Tigrex Vest U
+Agnaktor Mail U
+Agnaktor Vest U
+Golden Moon Mail
+Golden Moon Vest
+Silver Sol Mail
+Silver Sol Vest
+Vangis Mail
+Vangis Vest
+Ranger Tunic
+Scout Tunic
+Guild Bard Suit S
+Guild Bard Vest S
+Scholar Suit S
+Scholar Vest S
+Nightmare Toronko S
+Nightmare Toronko S
+Nightmare Shtam S
+Nightmare Shtam S
+Viking Mail S
+Viking Vest S
+Rouage Petto S
+Rouage Pectus S
+Falmer Petto S
+Falmer Pectus S
+Atea Mail S
+Atea Vest S
+Dianthus Blouse
+Bellflower Blouse
+Damascus Mail
+Damascus Vest
+Hi Yamato Plate
+Hi Courtier Plate
+Hi Solar Plate
+Hi Divine Plate
+Dark Akantor Aegis
+Dark Akantor Plate
+Ukanlos Aegis
+Ukanlos Plate
+Escadora Soul
+Escadora Seele
+Storm Wrap
+Sky Cover
+Zuwaro Cloak S
+Zuwaro Cape S
+Luxury Bath Towel
+Acorn Mail S
+Acorn Vest S
+Crystal Necklace
+Warfront Jacket
+Warfront Rider
+Hunter Jacket
+Hunter Rider
+Jolly Roger Suit
+Jolly Roger Jacket
+Snake Suit
+Snake Body
+The Boss Suit
+The Boss Body
+Uniqlo Blazer
+Uniqlo Jacket
+Street Jacket
+Street Jumper
+Street Jacket
+Street Jumper
+MH Jacket
+MH Jersey

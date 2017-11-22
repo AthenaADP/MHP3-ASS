@@ -1,0 +1,213 @@
+﻿Obi Yukumo
+Ceinture en cuir
+Ceinture en maille
+Tassettes de chasseur
+Taille de chasseur
+Boucle Loc Lac
+Tassettes d'os
+Tunique d'os_
+Tassettes haut-métal
+Tunique haut-métal_
+Boucle Bnahabra
+Taille Bnahabra
+Tassettes Rhenoplos
+Taille Rhenoplos
+Tassettes Jaggi
+Taille Jaggi
+Tassettes Aoashira
+Taille Aoashira
+Tassettes d'acier
+Tassettes Froggi
+Taille Froggi
+Tassettes Urukususu
+Taille Urukususu
+Tassettes Qurupeco
+Taille Qurupeco
+Tassettes Ludroth
+Taille Ludroth
+Tassettes Barroth
+Taille Barroth 
+Tassettes lingot
+Taille lingot
+Tassettes Baggi
+Taille Baggi
+Tassettes Ranguro
+Taille Ranguro
+Tassettes Rathian
+Taille Rathian
+Tassettes Hapurubokka
+Taille Hapurubokka
+Tassettes Gigginox
+Taille Gigginox
+Tassettes Nargacuga
+Taille Nargacuga
+Tassettes Barioth
+Taille Barioth
+Tassettes Rathalos
+Taille Rathalos
+Tassettes Uragaan
+Taille Uragaan
+Tassettes Jinouga
+Taille Jinouga
+Tassettes Diablos
+Taille Diablos
+Tassettes Tigrex
+Taille Tigrex
+Tassettes Agnaktor
+Taille Agnaktor
+Tassettes Doboru
+Taille Doboru
+Taille de la guilde
+Kilt de la guilde
+Boucle de la guilde
+Jupe de la guilde
+Boucle sorcière
+Boucle sorcière
+Taille sorcière
+Taille sorcière
+Tassettes motard
+Taille motard
+Anca nécrologie
+Cocusa nécrologie
+Anca papillon
+Cocusa papillon
+Tassettes Yamato
+Tassettes Mutsu
+Tassettes Hinata
+Tassettes Amagi
+Obi Yukumo ciel
+Obi Yukumo terre
+Tassettes en cuir S
+Taille en cuir S
+Tass. en maille S
+Taille en maille S
+Tass. de chasseur S
+Taille de chasseur S
+Boucle Loc Lac S
+Taille Loc Lac S
+Tassettes d'os S
+Taille d'os S
+Tass. haut-métal S
+Taille haut-métal S
+Boucle Bnahabra S
+Taille Bnahabra S
+Tass. Rhenoplos S
+Taille Rhenoplos S
+Tassettes Jaggi S
+Taille Jaggi S
+Tassettes Aoashira S
+Taille Aoashira S
+Tassettes d'acier S
+Tassettes Froggi S
+Taille Froggi S
+Tass. Urukususu S
+Taille Urukususu S
+Tassettes Qurupeco S
+Taille Qurupeco S
+Tassettes Ludroth S
+Taille Ludroth S
+Tassettes Barroth S
+Taille Barroth S
+Tassettes lingot S
+Taille lingot S
+Tassettes Baggi S
+Taille Baggi S
+Tassettes Ranguro S
+Taille Ranguro S
+Tassettes Rathian S
+Taille Rathian S
+Tass. Hapurubokka S
+Taille Hapurubokka S
+Tassettes Gigginox S
+Taille Gigginox S
+Tass. Nargacuga S
+Taille Nargacuga S
+Tassettes Barioth S
+Taille Barioth S
+Tassettes Rathalos S
+Taille Rathalos S
+Tassettes Uragaan S
+Taille Uragaan S
+Tassettes Dober
+Taille Dober
+Tassettes Jinouga S
+Taille Jinouga S
+Tassettes Diablos S
+Taille Diablos S
+Tassettes Tigrex S
+Taille Tigrex S
+Tassettes Agnaktor S
+Taille Agnaktor S
+Tassettes Doboru S
+Taille Doboru S
+Tassettes Qurupeco U
+Taille Qurupeco U
+Tassettes Ludroth U
+Taille Ludroth U
+Tassettes Barroth U
+Taille Barroth U
+Tassettes Gigginox U
+Taille Gigginox U
+Tass. Nargacuga U
+Taille Nargacuga U
+Tassettes Barioth U
+Taille Barioth U
+Tassettes Uragaan U
+Taille Uragaan U
+Tassettes Diablos U
+Taille Diablos U
+Tassettes Tigrex U
+Taille Tigrex U
+Tassettes Agnaktor U
+Taille Agnaktor U
+Tassettes lune dorée
+Taille lune dorée
+Tass. sol argenté
+Taille sol argenté
+Tassettes Vangis
+Taille Vangis
+Ceint. g. citadelle
+Ceint. arc citadelle
+Taille de guilde S
+Kilt de guilde S
+Boucle de guilde S
+Jupe de guilde S
+Boucle sorcière S
+Boucle sorcière S
+Taille sorcière S
+Taille sorcière S
+Tassettes motard S
+Taille motard S
+Anca necrologie S
+Cocusa necrologie S
+Anca papillon S
+Cocusa papillon S
+Boucle Dianthus
+Boucle Kikyo
+Tassettes Damascus
+Taille Damascus
+Tassettes Yamato S
+Tassettes Mutsu S
+Tassettes Hinata S
+Tassettes Amagi S
+Sangle Akantor sombre
+Ceint. Akantor sombre
+Sangle Ukanlos sombre
+Ceint. Ukanlos sombre
+Dos Escadora
+Ecailles Escadora
+Boucle tempête
+Boucle ciel bleu
+Ceinture trois yeux
+Boucle pirate J
+Taille pirate J
+Ceinture Snake
+Bande Snake
+Ceinture the Boss
+Bande the Boss
+Ceinture UNIQLO
+Boucle UNIQLO
+Ceinture Ya Kid
+Boucle Ya Kid
+Ceinture Ya Kid
+Boucle Ya Kid

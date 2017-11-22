@@ -1,0 +1,311 @@
+﻿#ordered
+Tail. aug.
+Poison
+Paralysie
+Sommeil
+Étourd.
+Neige/boue
+Ninja
+Santé
+Vit. récup.
+Épée aig. 
+Artisan 
+Escrime
+Expert
+Aig. augm.
+Garde
+Garde +
+Garde auto
+Vit. rech.
+Recul
+Mn norm.au.
+Mn perc.au.
+Mn plmb au.
+Mn norm. +
+Mn perc. +
+Mn plomb +
+Mn expl. +
+Mn Frag +
+Statut
+Élement
+Bombardier
+Faim
+Glouton
+Att. augm.
+Def. augm.
+Protection
+Prot. aud.
+Vol ineff.
+Zone
+Routard
+Rés. feu
+Rés. eau
+Rés. fdr
+Rés. glc
+Rés. drgn
+Rés. chaud
+Rés. froid
+Press. vent
+Collecte
+Cllcte rap.
+Lubie
+Destin
+Clairvoy.
+Récup.
+Réuss.combo
+Alchimie
+Evasion
+Potentiel
+TpsObjAugm.
+Coureur
+Recharge
+Précision
+Repas rap.
+Dépeçage
+Rés.trmbl
+Dist.évas.
+Critiques
+Inst.rap.
+Constit.
+Capture
+Percept.
+Chrg rap.
+Tir asso.
+Rés.fléaux
+Survivant
+Tir rap.
+ExpBmbBou.
+Anti-bact.
+End.psn
+End.par.
+End.som.
+End.éner.
+En.b.port.
+Cor
+Artilleur
+Sérieux
+Chasseur
+Prot.déf.
+AtEl. feu
+AtEl. eau
+AtEl. fdr
+AtEl. glc
+AtEl. drg
+MnTranAjt
+End. Sup.
+Pique
+Assaut lourd
+KO
+At.horiz.
+Dégainage
+RétVigAug.
+
+Poison annulé
+Tps poison doublé
+Paralysie annulée
+Tps para. doublé
+Sommeil annulé
+Tps somm. doublé
+Étourdissement 
+Étourdis. annulé
+Tps étour. doubl.
+Annule neige/boue
+Furtivité
+Provocation
+Santé +20
+Santé +50
+Santé -10
+Santé -30
+Vitesse récup. +1
+Vitesse récup. +2
+Vitesse récup. -1
+Vitesse récup. -2
+Epée aiguisée
+Émoussé
+Tranchant +1
+PSI
+Oeil critique +1
+Oeil critique +2
+Oeil critique +3
+Oeil critique -1
+Oeil critique -2
+Oeil critique -3
+Aiguis. rapide
+Aiguis. lent
+Garde +1
+Garde +2
+Garde -1
+Garde expert
+Garde auto.
+Vit. Recharg. +1
+Vit. Recharg. +2
+Vit. Recharg. +3
+Vit. Recharg. -1
+Vit. Recharg. -2
+Vit. Recharg. -3
+Recul +1
+Recul +2
+Recul +3
+Recul -1
+Recul -2
+Recul -3
+Flèche +
+Flèche perç. +
+Flèche difus. +
+Ttes mn normales
+Mn perçante LV1
+Ttes mn perçantes 
+Mn plomb LV1
+Ttes mn plomb
+Mn explosive LV1
+Ttes mn explosives
+Mn frag LV1
+Ttes mn frag.
+Att.stat.anorm. +1
+Att.stat.anorm. +2
+Att. ano. diminuée
+Att. él. augmentée
+Att. él. diminuée
+Poseur de bombes
+Faim moitié
+Faim annulée
+Faim dim. (pt)
+Faim dim. (gd)
+Gourmand
+Gourmet
+Att. augm. (pt)
+Att. augm. (myn)
+Att. augm. (gd)
+Att. dimi. (pt)
+Att. dimi. (my)
+Att. dimi. (gd)
+Déf. augm. (pt)
+Déf. augm. (my)
+Déf. augm. (gd)
+Déf. dimi. (pt)
+Déf. dimi. (my)
+Déf. dimi. (gd)
+Protection divine
+Prot. démoniaque
+Bouchon d'oreille
+Bch oreille top
+Anti-vol
+Etendu +1
+Etendu +2
+Expert Routard
+Rés. feu aug.(pt)
+Rés. feu aug.(gd)
+Rés. feu dimin.
+Rés. eau aug.(pt)
+Rés. eau aug.(gd)
+Rés. eau diminuée
+Rés. fdr aug.(pt)
+Rés. fdr aug.(gd)
+Rés. fdr dimin.
+Rés. glc aug.(pt)
+Rés. glc aug.(gd)
+Rés. glc dimin.
+Rés. drg aug.(pt)
+Rés. drg aug.(gd)
+Rés. drg dimin.
+Chaleur annulée
+Chaleur doublée
+Froid annulé 
+Froid doublé
+Réduction du vent
+Annulation du vent
+Collecte +1
+Collecte +2
+Collecte -1
+Collecte rapide
+Lubie esprit
+Lubie divine
+Lubie du spectre
+Lubie du démon
+Destin +1
+Destin +2
+Destin -1
+Destin -2
+Détection
+Traqueur auto
+Récup. augmentée
+Récup. diminuée
+Combo +20%
+Combo +45%
+Combo -10%
+Combo -20%
+Alchimiste
+Évasion +1
+Évasion +2
+Évasion diminuée 
+Adrénaline +1
+Adrénaline +2
+Adrénaline -1
+Tps obj augmenté
+Déclin usage objet
+Marathonien
+Pieds lourds
+Munition +1
+Précision +1
+Précision +2
+Précision -1
+Précision -2
+Repas rapide +1
+Repas rapide +2
+Repas lent
+Dépeceur
+Rés. tremblements
+Dist. évas. aug.  
+Art épée [tch]
+Maître des pièges
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Pro de la capture
+Expert capture
+Gourou capture
+Concentration
+Distrait
+Art épée [vigueur]
+Anti-fléaux
+Fortification
+Tir bonus
+Expert bmb bouse
+Anti-Bactéries
+Enduits poison +
+Enduits paralysie +
+Enduits sommeil +
+Enduits énergie +
+End. b. portant +
+Ef.CorDeCh. augm.
+Tir de maître
+Tir de roi
+Vigueur +1
+Vigueur +2
+Vie de chasseur
+Rusticité
+Élément feu +1
+Élément feu +2
+Élém.feu diminué
+Élément eau +1
+Élément eau +2
+Élément eau dim.
+Élément foudre +1
+Élément foudre +2
+Élé.foudre dimin.
+Élément glace +1
+Élément glace +2
+Élé.glace diminué
+Élément dragon +1
+Élément dragon +2
+Él.dragon diminué
+Mn ajouté
+Enduit sup.
+Point faible
+Roi destructeur
+Technique KO
+Endurance
+Art épée
+Rtbl. vig. rapide
+Rtbl. vig. lent

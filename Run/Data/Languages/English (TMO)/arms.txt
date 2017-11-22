@@ -1,0 +1,212 @@
+Yukumo Kote
+Leather Gloves
+Chainmail Gloves
+Hunter's Vambraces
+Hunter's Guards
+Bone Vambraces
+Bone Guards
+Alloy Vambraces
+Alloy Guards
+Bnahabra Gloves
+Bnahabra Sleeves
+Rhenoplos Vambraces
+Rhenoplos Guards
+Jaggi Vambraces
+Jaggi Guards
+Arzuros Vambraces
+Arzuros Guards
+Steel Vambraces
+Wroggi Vambraces
+Wroggi Guards
+Lagombi Vambraces
+Lagombi Guards
+Qurupeco Vambraces
+Qurupeco Guards
+Ludroth Vambraces
+Ludroth Guards
+Barroth Vambraces
+Barroth Guards
+Ingot Vambraces
+Ingot Guards
+Baggi Vambraces
+Baggi Guards
+Volvidon Vambraces
+Volvidon Guards
+Rathian Vambraces
+Rathian Guards
+Nibelsnarf Vambraces
+Nibelsnarf Guards
+Gigginox Vambraces
+Gigginox Guards
+Nargacuga Vambraces
+Nargacuga Guards
+Barioth Vambraces
+Barioth Guards
+Rathalos Vambraces
+Rathalos Guards
+Uragaan Vambraces
+Uragaan Guards
+Zinogre Vambraces
+Zinogre Guards
+Diablos Vambraces
+Diablos Guards
+Tigrex Vambraces
+Tigrex Guards
+Agnaktor Vambraces
+Agnaktor Guards
+Duramboros Vambraces
+Duramboros Guards
+Guild Bard Braces
+Guild Bard Sleeves
+Scholar's Gloves
+Scholar's Sleeves
+Mosgharl Creeper
+Mosgharl Creeper
+Mosgharl Tendril
+Mosgharl Tendril
+Viking Vambraces
+Viking Guards
+Aelucanth Brachia
+Aelucanth Manus
+Rhopessa Brachia
+Rhopessa Manus
+Artian Vambraces
+Artian Guards
+Yamato Kote
+Mutsu Kote
+Hyuga Kote
+Anagi Kote
+Sweatbands
+Yukumo Sky Kote
+Yukumo Land Kote
+Leather Vambraces S
+Leather Guards S
+Chainmail Vambraces S
+Chainmail Guards S
+Hunter's Vambraces S
+Hunter's Guards S
+Bone Vambraces S
+Bone Guards S
+Alloy Vambraces S
+Alloy Guards S
+Bnahabra Gloves S
+Bnahabra Sleeves S
+Rhenoplos Vambraces S
+Rhenoplos Guards S
+Jaggi Vambraces S
+Jaggi Guards S
+Arzuros Vambraces S
+Arzuros Guards S
+Steel Vambraces S
+Wroggi Vambraces S
+Wroggi Guards S
+Lagombi Vambraces S
+Lagombi Guards S
+Qurupeco Vambraces S
+Qurupeco Guards S
+Ludroth Vambraces S
+Ludroth Guards S
+Barroth Vambraces S
+Barroth Guards S
+Ingot Vambraces S
+Ingot Guards S
+Baggi Vambraces S
+Baggi Guards S
+Volvidon Vambraces S
+Volvidon Guards S
+Rathian Vambraces S
+Rathian Guards S
+Nibelsnarf Vambraces S
+Nibelsnarf Guards S
+Gigginox Vambraces S
+Gigginox Guards S
+Nargacuga Vambraces S
+Nargacuga Guards S
+Barioth Vambraces S
+Barioth Guards S
+Rathalos Vambraces S
+Rathalos Guards S
+Uragaan Vambraces S
+Uragaan Guards S
+Dober Vambraces
+Dober Guards
+Zinogre Vambraces S
+Zinogre Guards S
+Diablos Vambraces S
+Diablos Guards S
+Tigrex Vambraces S
+Tigrex Guards S
+Agnaktor Vambraces S
+Agnaktor Guards S
+Duramboros Vambraces S
+Duramboros Guards S
+Qurupeco Vambraces U
+Qurupeco Guards U
+Ludroth Vambraces U
+Ludroth Guards U
+Barroth Vambraces U
+Barroth Guards U
+Gigginox Vambraces U
+Gigginox Guards U
+Nargacuga Vambraces U
+Nargacuga Guards U
+Barioth Vambraces U
+Barioth Guards U
+Uragaan Vambraces U
+Uragaan Guards U
+Diablos Vambraces U
+Diablos Guards U
+Tigrex Vambraces U
+Tigrex Guards U
+Agnaktor Vambraces U
+Agnaktor Guards U
+Golden Lunebraces
+Golden Luneguards
+Silver Solbraces
+Silver Solguards
+Vangis Vambraces
+Vangis Guards
+Ranger's Gauntlets
+Archer's Gauntlets
+Guild Bard Braces S
+Guild Bard Sleeves S
+Scholar's Gloves S
+Scholar's Sleeves S
+Mosgharl Creeper S
+Mosgharl Creeper S
+Mosgharl Tendril S
+Mosgharl Tendril S
+Viking Vambraces S
+Viking Guards S
+Aelucanth Brachia S
+Aelucanth Manus S
+Rhopessa Brachia S
+Rhopessa Manus S
+Artian Vambraces S
+Artian Guards S
+Dianthus Sleeves
+Bellflower Sleeves
+Damascus Vambraces
+Damascus Guards
+Grand Yamato Kote
+Grand Mutsu Kote
+Grand Hyuga Kote
+Grand Amagi Kote
+Dark Akantor Claw
+Dark Akantor Gauntlet
+Ukanlos Claw
+Ukanlos Gauntlet
+Escadora Arms
+Escadora Arma
+Storm Sleeves
+Sky Sleeves
+Luxury Sweatbands
+Chakra Bracelet
+Pirate J Gloves
+Pirate J Cuffs
+Snake Gloves
+Snake Arms
+The Boss Gloves
+The Boss Arms
+UNIQLO Gloves
+UNIQLO Cuffs

@@ -1,0 +1,212 @@
+﻿Yukumono-Kote
+Leder-Handschuhe
+Ketten-Handschuhe
+Jäger-Armschienen
+Jäger-Armschutz
+Knochen-Armschienen
+Knochen-Armschutz
+Legier.-Armschienen
+Legierungs-Armschutz
+Bnahabra-Handschuhe
+Bnahabra-Ärmel
+Rhenopl.-Armschienen
+Rhenoplos-Armschutz
+Jaggi-Armschienen
+Jaggi-Armschutz
+Aoashira-Armschienen
+Aoashira-Armschutz
+Stahl-Armschienen
+Froggi-Armschienen
+Froggi-Armschutz
+Ulkusus-Armschienen
+Ulkusus-Armschutz
+Qurupeco-Armschienen
+Qurupeco-Armschutz
+Ludroth-Armschienen
+Ludroth-Armschutz
+Barroth-Armschienen
+Barroth-Armschutz
+Guss-Armschienen
+Guss-Armschutz
+Baggi-Armschienen
+Baggi-Armschutz
+Langrot.-Armschienen
+Langrotora-Armschutz
+Rathian-Armschienen
+Rathian-Armschutz
+Hapulb.-Armschienen
+Hapulbokka-Armschutz
+Gigginox-Armschienen
+Gigginox-Armschutz
+Nargacu.-Armschienen
+Nargacuga-Armschutz
+Barioth-Armschienen
+Barioth-Armschutz
+Rathalos-Armschienen
+Rathalos-Armschutz
+Uragaan-Armschienen
+Uragaan-Armschutz
+Jinouga-Armschienen
+Jinouga-Armschutz
+Diablos-Armschienen
+Diablos-Armschutz
+Tigrex-Armschienen
+Tigrex-Armschutz
+Agnaktor-Armschienen
+Agnaktor-Armschutz
+Dobolb.-Armschienen
+Dobolbelk-Armschutz
+Gildenb.-Armschienen
+Gildenbarden-Ärmel
+Gelehrten-Handschuhe
+Gelehrten-Ärmel
+Magier-Rameau
+Magier-Rameau
+Magier-Ast
+Magier-Ast
+Vaiku-Armschienen
+Vaiku-Armschutz
+Rowagga-Mano
+Rowagga-Brasso
+Falmir-Mano
+Falmir-Brasso
+Attia-Armschienen
+Attia-Armschutz
+Yamato-Kote
+Mutsu-Kote
+Hinata-Kote
+Amagi-Kote
+Badhandgelenk
+Yukumono-Kote Himmel
+Yukumono-Kote Erde
+Leder-Armschienen S
+Leder-Armschutz S
+Ketten-Armschienen S
+Ketten-Armschutz S
+Jäger-Armschienen S
+Jäger-Armschutz S
+Knochen-ArmschienenS
+Knochen-Armschutz S
+Legier.-ArmschienenS
+Legier.-Armschutz S
+Bnahabra-HandschuheS
+Bnahabra-Ärmel S
+Rhenop.-ArmschienenS
+Rhenoplos-ArmschutzS
+Jaggi-Armschienen S
+Jaggi-Armschutz S
+AoashiraArmschienenS
+Aoashira-Armschutz S
+Stahl-Armschienen S
+Froggi-Armschienen S
+Froggi-Armschutz S
+Ulkusus-ArmschienenS
+Ulkusus-Armschutz S
+QurupecoArmschienenS
+Qurupeco-Armschutz S
+Ludroth-ArmschienenS
+Ludroth-Armschutz S
+Barroth-ArmschienenS
+Barroth-Armschutz S
+Guss-Armschienen S
+Guss-Armschutz S
+Baggi-Armschienen S
+Baggi-Armschutz S
+Langro.-ArmschienenS
+LangrotoraArmschutzS
+Rathian-ArmschienenS
+Rathian-Armschutz S
+Hapulb.-ArmschienenS
+Hapulb.-Armschutz S
+GigginoxArmschienenS
+Gigginox-Armschutz S
+Nargac.-ArmschienenS
+Nargacuga-ArmschutzS
+Barioth-ArmschienenS
+Barioth-Armschutz S
+RathalosArmschienenS
+Rathalos-Armschutz S
+Uragaan-ArmschienenS
+Uragaan-Armschutz S
+Dober-Armschienen
+Dober-Armschutz
+Jinouga-ArmschienenS
+Jinouga-Armschutz S
+Diablos-ArmschienenS
+Diablos-Armschutz S
+Tigrex-Armschienen S
+Tigrex-Armschutz S
+AgnaktorArmschienenS
+Agnaktor-Armschutz S
+Dobolb.-ArmschienenS
+Dobolbelk-ArmschutzS
+QurupecoArmschienenU
+Qurupeco-Armschutz U
+Ludroth-ArmschienenU
+Ludroth-Armschutz U
+Barroth-ArmschienenU
+Barroth-Armschutz U
+GigginoxArmschienenU
+Gigginox-Armschutz U
+Nargac.-ArmschienenU
+Nargacuga-ArmschutzU
+Barioth-ArmschienenU
+Barioth-Armschutz U
+Uragaan-ArmschienenU
+Uragaan-Armschutz U
+Diablos-ArmschienenU
+Diablos-Armschutz U
+Tigrex-Armschienen U
+Tigrex-Armschutz U
+AgnaktorArmschienenU
+Agnaktor-Armschutz U
+Goldmond-Armschienen
+Goldmond-Armschutz
+Silbers.-Armschienen
+Silbers.-Armschutz
+Vangis-Armschienen
+Vangis-Armschutz
+Ran.-Panzerhandschuh
+Bog.-Panzerhandschuh
+Gild.-Armschienen S
+Gildenbarden-Ärmel S
+GelehrtenHandschuheS
+Gelehrten-Ärmel S
+Magier-Rameau S
+Magier-Rameau S
+Magier-Ast S
+Magier-Ast S
+Vaiku-Armschienen S
+Vaiku-Armschutz S
+Rowagga-Mano S
+Rowagga-Brasso S
+Falmir-Mano S
+Falmir-Brasso S
+Attia-Armschienen S
+Attia-Armschutz S
+Nelken-Ärmel
+Glockenblumen-Ärmel
+Damaskus-Armschienen
+Damaskus-Armschutz
+Yamato-Kote S
+Mutsu-Kote S
+Hinata-Kote S
+Amagi-Kote S
+SchwarzAkantor Klaue
+SchwarzAkantorSchutz
+SchwarzUkanlos Klaue
+SchwarzUkanlosSchutz
+Escadora-Waffe
+Escadora-Arma
+Unwetter-Ärmel
+Azurhimmel-Ärmel
+Badhandgelenk S
+Chakra-Armband
+Piraten-Handschuhe J
+Piraten-Ärmel J
+Snake-Handschuhe
+Snake-Armschienen
+The Boss-Handschuhe
+The Boss-Armschienen
+UNIQLO-Ärmel
+UNIQLO-Handschuhe

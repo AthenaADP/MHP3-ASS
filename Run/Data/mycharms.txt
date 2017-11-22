@@ -1,0 +1,260 @@
+#Format: NumSlots,Skill1,Points1,Skill2,Points2
+0,Cold Res,10,,
+0,Anti-Theft,10,,
+2,ClustS Add,2,Paralysis,-4
+0,Precision,6,Hunger,10
+0,Water Res,2,Gathering,13
+0,Protection,7,Health,8
+0,Evasion,5,Heat Res,10
+0,Will Recov,5,Precision,8
+0,Sleep,5,Gunnery,8
+0,Evade Dist,5,Wide Area,4
+0,Status,1,NormalSAdd,8
+0,Expert,4,Shot Mix,10
+0,Potential,3,Combo Rate,13
+1,Rec Speed,6,Psychic,1
+0,PelletSAdd,4,SleepCAdd,9
+0,Gunnery,1,PelletSAdd,9
+0,Water Atk,6,DungMaster,2
+2,Rec Speed,5,Backpackng,-7
+0,Attack,4,Quake Res,5
+0,Ice Attack,7,SpeedSetup,1
+0,Dragon Atk,6,Health,6
+0,Gunnery,3,Gluttony,10
+2,Quake Res,5,,
+1,Ice Attack,5,CutterSAdd,-5
+0,Will Recov,6,Antiseptic,-9
+0,Attack,4,BombStrUp,3
+0,Gunnery,2,Expert,5
+0,SpeedSetup,1,Psychic,10
+0,ClustS Add,5,Dragon Res,8
+0,Evade Dist,4,Ice Res,5
+0,Thundr Atk,7,Fire Res,9
+1,Constitutn,5,,
+0,Ice Attack,1,Expert,5
+0,ClustS Add,5,BombStrUp,2
+0,Reload Spd,2,BombStrUp,8
+0,Reload Spd,2,Dragon Res,10
+0,Thundr Atk,6,Defense,7
+0,Quake Res,6,BombStrUp,7
+0,WindPress,3,Gunnery,6
+0,Fire Atk,7,NormalSAdd,4
+1,Rec Speed,7,,
+0,FatigueAtk,6,Expert,2
+0,Water Atk,2,ClustS Add,7
+0,Dragon Atk,3,HiSpdGathr,9
+0,Evasion,3,Combo Rate,11
+0,BombStrUp,6,Precision,8
+0,Sheathe,4,Wide Area,8
+0,Hunger,8,CutterSAdd,7
+0,Evade Dist,5,Fire Res,9
+0,Crag S Add,5,Whim,13
+0,Poison,4,CutterSAdd,9
+0,Thundr Atk,7,Status,4
+0,Status,3,PowerCAdd,6
+0,NormalSAdd,6,PowerCAdd,1
+0,Water Atk,6,Shot Mix,6
+0,Dragon Atk,5,CutterSAdd,5
+0,NormalSAdd,3,Wide Area,10
+0,BombStrUp,4,PowerCAdd,10
+0,Water Atk,6,Health,2
+0,CutterSAdd,2,Crag S Add,9
+0,Potential,6,PowerCAdd,4
+0,Mud/Snow,6,Attack,6
+0,Thundr Atk,7,SleepCAdd,7
+1,Sheathe,2,Wide Area,8
+0,Dragon Res,5,ClustS Add,9
+0,Expert,4,Stun,10
+0,Thundr Atk,7,PierceSAdd,10
+0,Dragon Atk,6,Water Res,8
+0,Water Atk,4,Combo Rate,12
+2,Dragon Atk,6,,
+0,Mud/Snow,6,Expert,7
+0,Constitutn,6,Ice Res,6
+0,Status,3,Expert,7
+0,Wide Area,7,Backpackng,2
+0,Rec Speed,1,ClustS Add,10
+0,ClustS Add,4,Perception,10
+1,Evade Dist,3,Shot Mix,1
+0,Precision,3,SpeedSetup,10
+0,Psychic,3,SleepCAdd,7
+0,Defense,1,SleepCAdd,6
+0,Status,4,Perception,8
+0,CutterSAdd,2,HiSpdGathr,9
+0,Reload Spd,1,FatigeCAdd,10
+0,ThunderRes,1,Expert,7
+2,Fortitude,4,,
+0,Protection,7,Psychic,1
+0,Evade Dist,6,DungMaster,8
+0,Dragon Atk,5,SpeedSetup,9
+0,Potential,6,Crag S Add,8
+1,Dragon Atk,7,,
+0,Hunger,6,LastingPwr,7
+0,Psychic,8,Shot Mix,7
+0,Constitutn,4,Whim,11
+0,Will Recov,6,ThunderRes,-7
+0,Expert,4,PoisonCAdd,7
+0,Rec Speed,7,Crag S Add,8
+0,Paralysis,1,SleepCAdd,10
+0,Eating,2,HiSpdGathr,9
+0,Fire Res,2,CutterSAdd,7
+1,KO,6,,
+0,Poison,3,Fire Res,10
+0,Stun,1,PoisonCAdd,9
+1,Fire Atk,7,RazorCAdd,-2
+2,Evasion,5,,
+1,Water Atk,6,Horn,4
+1,Backpackng,6,,
+3,Rec Level,1,Sheathe,-1
+2,Artisan,1,BombStrUp,-5
+0,Reload Spd,4,Psychic,1
+1,Elemental,2,,
+3,Thundr Atk,1,Rec Level,-1
+0,Rewards,1,Carving,1
+3,Evade Dist,1,,
+2,Water Atk,3,Awaken,1
+0,Sharpness,4,Fire Atk,1
+3,Thundr Atk,3,Rewards,-2
+0,FastCharge,3,Artisan,2
+1,Carving,5,,
+1,Crit Draw,5,Dragon Res,-4
+0,Rapid Fire,5,,
+3,Stamina,1,Ice Res,-8
+2,Constitutn,2,Rec Speed,2
+2,Evade Dist,3,Health,-1
+1,FastCharge,4,,
+0,Carving,1,Gunnery,9
+0,Sheathe,1,Water Atk,6
+2,WindPress,4,,
+0,Carving,1,Dragon Res,13
+1,Loading,6,Debilitate,-3
+0,Fate,5,Attack,-5
+3,Loading,2,,
+2,Sharpness,2,Blight Res,1
+0,Elemental,3,Wide Area,5
+2,PunishDraw,3,,
+2,Fencing,4,,
+1,Eating,4,,
+2,Rewards,2,Thundr Atk,-2
+0,Sheathe,4,Expert,3
+0,Dragon Atk,5,Protection,2
+0,Blight Res,5,,
+0,PelletS Up,5,Crit Draw,-3
+0,Protection,3,Rec Speed,6
+2,Sheathe,5,NormalS Up,-1
+1,Fate,4,,
+0,Elemental,5,Fire Res,-9
+2,HearProtct,1,Artisan,1
+0,Dragon Atk,2,NormalS Up,3
+0,Blight Res,3,Rapid Fire,2
+0,KO,5,Evasion,1
+1,Artisan,4,,
+0,Reload Spd,5,Water Res,1
+0,Reload Spd,6,,
+0,Crit Draw,4,Water Res,1
+0,Blight Res,3,PelletS Up,1
+2,Reload Spd,5,,
+0,Guard,1,Water Atk,9
+3,Potential,4,Guard Up,-2
+1,Evasion,6,WindPress,-7
+0,Elemental,5,Ice Res,-1
+3,Rec Level,3,FastCharge,-3
+3,Fire Atk,2,Wide Area,-1
+0,Crit Draw,2,Fire Atk,6
+0,Eating,5,,
+3,Debilitate,1,Fire Res,-9
+0,PelletS Up,5,Status,-1
+1,Thundr Atk,6,Eating,-2
+0,PelletS Up,5,PierceS Up,-2
+0,Slam,5,,
+1,Stamina,3,Thundr Atk,4
+0,Ice Attack,5,Guard,1
+0,Carving,4,Fire Res,4
+0,Elemental,5,Rewards,-3
+0,Status,6,,
+2,Eating,2,NormalS Up,-1
+1,Slam,4,,
+0,Will Recov,6,NormalS Up,-3
+2,Recoil,2,,
+0,Rapid Fire,2,PelletS Up,2
+0,Evasion,2,Health,12
+2,Guard Up,3,,
+2,PelletS Up,3,,
+0,PierceS Up,3,Evasion,1
+0,Loading,2,Fate,2
+0,Dragon Atk,4,Gunnery,4
+1,PierceS Up,4,,
+0,PunishDraw,5,,
+0,Debilitate,2,HearProtct,2
+0,Crit Draw,5,Evade Dist,-2
+0,Awaken,6,Stun,2
+0,FastCharge,5,,
+1,Awaken,4,Evasion,-1
+1,Loading,3,Attack,5
+2,Debilitate,4,,
+1,Guard Up,6,,
+2,Guard,4,Fencing,-2
+3,Status,4,Evasion,-3
+2,Rapid Fire,3,,
+0,NormalS Up,5,Thundr Atk,4
+0,Awaken,6,Evade Dist,2
+0,WindPress,4,Artisan,3
+0,Sharpness,5,Expert,5
+0,Will Recov,5,BombStrUp,8
+0,Thundr Atk,5,Awaken,4
+0,WindPress,4,Attack,7
+0,Debilitate,5,Will Recov,3
+0,Rapid Fire,4,Defense,9
+1,Evade Dist,4,Sharpener,5
+0,HearProtct,5,Thundr Atk,3
+0,PierceS Up,5,Defense,4
+0,Guard Up,4,PunishDraw,3
+0,Awaken,3,Hunger,8
+0,Rapid Fire,3,Awaken,4
+0,KO,2,Dragon Atk,9
+1,Will Recov,5,Blight Res,2
+0,Debilitate,2,Carving,3
+0,Reload Spd,4,HearProtct,3
+1,Evasion,1,Eating,3
+0,FastCharge,4,ThunderRes,12
+0,Potential,6,Hunger,9
+0,Carving,5,Defense,5
+0,Artisan,3,BombStrUp,10
+0,Artisan,5,Loading,2
+0,Fire Atk,7,Loading,2
+0,HearProtct,2,Evade Dist,4
+0,Ice Attack,6,Sharpener,4
+0,FatigueAtk,5,Stun,11
+0,NormalS Up,5,HearProtct,3
+0,Rewards,5,Fate,2
+0,Reload Spd,3,KO,4
+0,Carving,3,Guard,3
+0,Fencing,5,Stamina,3
+0,Reload Spd,4,Ice Attack,6
+0,Thundr Atk,3,WindPress,3
+0,WindPress,5,Awaken,3
+0,PierceS Up,4,Sharpener,8
+0,Evade Dist,5,Stamina,2
+0,PierceS Up,5,Attack,4
+0,NormalS Up,5,Water Res,4
+0,KO,3,Slam,3
+0,KO,5,ThunderRes,11
+0,Sheathe,6,Crit Draw,1
+0,FastCharge,2,PelletS Up,3
+0,Fate,4,PunishDraw,3
+0,Status,5,Constitutn,3
+0,Potential,4,HearProtct,3
+0,Stamina,5,Slam,2
+0,NormalS Up,3,Defense,7
+0,Artisan,5,Carving,2
+0,Artisan,5,KO,3
+0,Protection,4,Sharpness,3
+0,Dragon Atk,6,Ice Res,10
+0,HearProtct,4,Slam,3
+0,Guard Up,3,Ice Res,12
+0,Debilitate,5,Loading,2
+0,Loading,6,Thundr Atk,3
+0,Guard Up,5,Sharpness,3
+0,Guard,6,Fate,1
+3,NormalS Up,4,,
+3,PierceS Up,3,Artisan,1

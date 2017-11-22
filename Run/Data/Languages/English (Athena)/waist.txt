@@ -1,0 +1,213 @@
+Yukumo Sash
+Leather Belt
+Chain Belt
+Hunter's Tasset
+Hunter's Coat
+Loc Lac Coil
+Bone Tasset
+Bone Coat
+Alloy Coil
+Alloy Coat
+Bnahabra Coil
+Bnahabra Coat
+Rhenoplos Coil
+Rhenoplos Coat
+Jaggi Tasset
+Jaggi Coat
+Aoashira Tasset
+Aoashira Coat
+Steel Belt
+Froggi Tasset
+Froggi Coat
+Urcusis Tasset
+Urcusis Coat
+Qurupeco Coil
+Qurupeco Coat
+Ludroth Tasset
+Ludroth Coat
+Barroth Tasset
+Barroth Coat
+Ingot Coil
+Ingot Coat
+Baggi Coil
+Baggi Coat
+Ranguro Tasset
+Ranguro Coat
+Rathian Tasset
+Rathian Coat
+Hapuru Tasset
+Hapuru Coat
+Nebula Tasset
+Nebula Coat
+Narga Tasset
+Narga Coat
+Barioth Tasset
+Barioth Coat
+Rathalos Tasset
+Rathalos Coat
+Uragaan Tasset
+Uragaan Coat
+Jinouga Tasset
+Jinouga Coat
+Diablos Coil
+Diablos Coat
+Tigrex Tasset
+Tigrex Coat
+Agnaktor Tasset
+Agnaktor Coat
+Doboru Tasset
+Doboru Coat
+Guild Bard Coil
+Guild Bard Coat
+Scholar Skirt
+Scholar Frills
+Nightmare Oha
+Nightmare Oha
+Nightmare Buratto
+Nightmare Buratto
+Viking Tasset
+Viking Coat
+Rouage Anca
+Rouage Cocusa
+Falmer Anca
+Falmer Cocusa
+Yamato Waistcoat
+Courtier Waistcoat
+Solar Waistcoat
+Divine Waistcoat
+Yukumo Sash [Ten]
+Yukumo Sash [Chi]
+Leather Tasset S
+Leather Coat S
+Chain Tasset S
+Chain Coat S
+Hunter's Tasset S
+Hunter's Coat S
+Loc Lac Coil S
+Loc Lac Coat S
+Bone Tasset S
+Bone Coat S
+Alloy Coil S
+Alloy Coat S
+Bnahabra Coil S
+Bnahabra Coat S
+Rhenoplos Coil S
+Rhenoplos Coat S
+Jaggi Tasset S
+Jaggi Coat S
+Grove Tasset S
+Grove Coat S
+Steel Belt S
+Froggi Tasset S
+Froggi Coat S
+Urcusis Tasset S
+Urcusis Coat S
+Qurupeco Coil S
+Qurupeco Coat S
+Ludroth Tasset S
+Ludroth Coat S
+Barroth Tasset S
+Barroth Coat S
+Ingot Coil S
+Ingot Coat S
+Baggi Coil S
+Baggi Coat S
+Ranguro Tasset S
+Rangura Coat S
+Rathian Tasset S
+Rathian Coat S
+Hapuru Tasset S
+Hapuru Coat S
+Nebula Tasset S
+Nebula Coat S
+Narga Tasset S
+Narga Coat S
+Barioth Tasset S
+Barioth Coat S
+Rathalos Tasset S
+Rathalos Coat S
+Uragaan Tasset S
+Uragaan Coat S
+Dober Coil
+Dober Coat
+Jinouga Tasset S
+Jinouga Coat S
+Diablos Coil S
+Diablos Coat S
+Tigrex Tasset S
+Tigrex Coat S
+Agnaktor Tasset S
+Agnaktor Coat S
+Doboru Tasset S
+Doboru Coat S
+Qurupeco Coil U
+Qurupeco Coat U
+Ludroth Tasset U
+Ludroth Coat U
+Barroth Tasset U
+Barroth Coat U
+Nebula Tasset U
+Nebula Coat U
+Narga Tasset U
+Narga Coat U
+Barioth Tasset U
+Barioth Coat U
+Uragaan Tasset U
+Uragaan Coat U
+Diablos Coil U
+Diablos Coat U
+Tigrex Tasset U
+Tigrex Coat U
+Agnaktor Tasset U
+Agnaktor Coat U
+Golden Moon Tasset
+Golden Moon Coat
+Silver Sol Tasset
+Silver Sol Coat
+Vangis Tasset
+Vangis Coat
+Ranger Belt
+Scout Belt
+Guild Bard Coil S
+Guild Bard Coat S
+Scholar Skirt S
+Scholar Frills S
+Nightmare Oha S
+Nightmare Oha S
+Nightmare Buratto S
+Nightmare Buratto S
+Viking Tasset S
+Viking Coat S
+Rouage Anca S
+Rouage Cocusa S
+Falmer Anca S
+Falmer Cocusa S
+Dianthus Skirt
+Bellflower Skirt
+Damascus Coil
+Damascus Coat
+Hi Yamato Waistcoat
+Hi Courtier Waistcoat
+Hi Solar Waistcoat
+Hi Divine Waistcoat
+DarkAkantor Cincture
+Dark Akantor Sash
+Ukanlos Cincture
+Ukanlos Sash
+Escadora Might
+Escadora Force
+Storm Waist
+Sky Sash
+Crystal Sash
+Jolly Roger Coil
+Jolly Roger Skirt
+Snake Belt
+Snake Band
+The Boss Belt
+The Boss Band
+Uniqlo Belt
+Uniqlo Pouch
+Street Belt
+Street Buckle
+Street Belt
+Street Buckle

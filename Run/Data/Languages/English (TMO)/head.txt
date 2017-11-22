@@ -1,0 +1,230 @@
+Yukumo Kasa
+Leather Headgear
+Chainmail Headgear
+Hunter's Helm
+Hunter's Cap
+Bone Helm
+Bone Cap
+Alloy Helm
+Alloy Cap
+Bnahabra Hat
+Bnahabra Headpiece
+Rhenoplos Helm
+Rhenoplos Cap
+Jaggi Helm
+Jaggi Cap
+Arzuros Helm
+Arzuros Cap
+Wroggi Helm
+Wroggi Cap
+Lagombi Helm
+Lagombi Cap
+Qurupeco Helm
+Qurupeco Cap
+Ludroth Helm
+Ludroth Cap
+Barroth Helm
+Barroth Cap
+Ingot Helm
+Ingot Cap
+Baggi Helm
+Baggi Cap
+Volvidon Helm
+Volvidon Cap
+Rathian Helm
+Rathian Cap
+Nibelsnarf Helm
+Nibelsnarf Cap
+Gigginox Helm
+Gigginox Cap
+Nargacuga Helm
+Nargacuga Cap
+Barioth Helm
+Barioth Cap
+Rathalos Helm
+Rathalos Cap
+Uragaan Helm
+Uragaan Cap
+Zinogre Helm
+Zinogre Cap
+Diablos Helm
+Diablos Cap
+Tigrex Helm
+Tigrex Cap
+Agnaktor Helm
+Agnaktor Cap
+Duramboros Helm
+Duramboros Cap
+Guild Bard Lobos
+Guild Bard Hat
+Scholar's Beret
+Scholar's Cap
+Mosgharl Visor
+Mosgharl Visor
+Mosgharl Brim
+Mosgharl Brim
+Viking Helm
+Viking Cap
+Aelucanth Vertex
+Aelucanth Clypeus
+Rhopessa Vertex
+Rhopessa Clypeus
+Yamato Kabuto
+Mutsu Eboshi
+Hyuga Hachigane
+Amagi Hachigane
+Gargwa Mask
+Slagtoth Hood
+Slagtoth Cowl
+Jaggi Mask
+Bullfango Mask
+Skull Mask
+Head Towel
+Acorn Helm
+Glass Earring
+Yukumo Sky Kasa
+Yukumo Land Kasa
+Leather Helm S
+Leather Cap S
+Chainmail Helm S
+Chainmail Cap S
+Hunter's Helm S
+Hunter's Cap S
+Bone Helm S
+Bone Cap S
+Alloy Helm S
+Alloy Cap S
+Bnahabra Hat S
+Bnahabra Headpiece S
+Rhenoplos Helm S
+Rhenoplos Cap S
+Jaggi Helm S
+Jaggi Cap S
+Arzuros Helm S
+Arzuros Cap S
+Wroggi Helm S
+Wroggi Cap S
+Lagombi Helm S
+Lagombi Cap S
+Qurupeco Helm S
+Qurupeco Cap S
+Ludroth Helm S
+Ludroth Cap S
+Barroth Helm S
+Barroth Cap S
+Ingot Helm S
+Ingot Cap S
+Baggi Helm S
+Baggi Cap S
+Volvidon Helm S
+Volvidon Cap S
+Rathian Helm S
+Rathian Cap S
+Nibelsnarf Helm S
+Nibelsnarf Cap S
+Gigginox Helm S
+Gigginox Cap S
+Nargacuga Helm S
+Nargacuga Cap S
+Barioth Helm S
+Barioth Cap S
+Rathalos Helm S
+Rathalos Cap S
+Uragaan Helm S
+Uragaan Cap S
+Dober Helm
+Dober Cap
+Zinogre Helm S
+Zinogre Cap S
+Diablos Helm S
+Diablos Cap S
+Tigrex Helm S
+Tigrex Cap S
+Agnaktor Helm S
+Agnaktor Cap S
+Duramboros Helm S
+Duramboros Cap S
+Qurupeco Helm U
+Qurupeco Cap U
+Ludroth Helm U
+Ludroth Cap U
+Barroth Helm U
+Barroth Cap U
+Gigginox Helm U
+Gigginox Cap U
+Nargacuga Helm U
+Nargacuga Cap U
+Barioth Helm U
+Barioth Cap U
+Uragaan Helm U
+Uragaan Cap U
+Diablos Helm U
+Diablos Cap U
+Tigrex Helm U
+Tigrex Cap U
+Agnaktor Helm U
+Agnaktor Cap U
+Golden Lunehelm
+Golden Lunecap
+Silver Solhelm
+Silver Solcap
+Vangis Helm
+Vangis Cap
+Ranger's Headgear
+Archer's Turban
+Guild Bard Lobos S
+Guild Bard Hat S
+Scholar's Beret S
+Scholar's Cap S
+Mosgharl Visor S
+Mosgharl Visor S
+Mosgharl Brim S
+Mosgharl Brim S
+Viking Helm S
+Viking Cap S
+Aelucanth Vertex S
+Aelucanth Clypeus S
+Rhopessa Vertex S
+Rhopessa Clypeus S
+Dianthus Cappa
+Bellflower Hat
+Damascus Helm
+Damascus Cap
+Grand Yamato Kabuto
+Grand Mutsu Eboshi
+Grand H. Hachigane
+Grand A. Hachigane
+Dark Akantor Mask
+Dark Akantor Fangs
+Ukanlos Mask
+Ukanlos Fangs
+Escadora Wisdom
+Escadora Sagesse
+Storm Crown
+Sky Circlet
+Gargwa Mask S
+Gargwa Visage S
+Slagtoth Hood S
+Slagtoth Cowl S
+Jaggi Mask S
+Jaggi Visage S
+Bullfango Mask S
+Bullfango Visage S
+Skull Mask S
+Skull Visage S
+Wyvernking Eyepatch
+Luxury Head Towel
+Acorn Helm S
+Acorn Cap S
+Chakra Earring
+Shadow Shades
+Pirate J Hat
+Pirate J Cap
+Snake Face
+Snake Mask
+The Boss Face
+The Boss Mask
+UNIQLO Knit Hat
+UNIQLO Headphones
+Sword Saint Earring
+Barrage Earring

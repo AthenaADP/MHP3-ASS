@@ -1,0 +1,213 @@
+Yukumo Obi
+Leather Belt
+Chainmail Belt
+Hunter's Faulds
+Hunter's Coat
+Loc Lac Kilt
+Bone Faulds
+Bone Coat
+Alloy Coil
+Alloy Coat
+Bnahabra Coil
+Bnahabra Coat
+Rhenoplos Coil
+Rhenoplos Coat
+Jaggi Faulds
+Jaggi Coat
+Arzuros Faulds
+Arzuros Coat
+Steel Belt
+Wroggi Faulds
+Wroggi Coat
+Lagombi Faulds
+Lagombi Coat
+Qurupeco Coil
+Qurupeco Coat
+Ludroth Faulds
+Ludroth Coat
+Barroth Faulds
+Barroth Coat
+Ingot Coil
+Ingot Coat
+Baggi Coil
+Baggi Coat
+Volvidon Faulds
+Volvidon Coat
+Rathian Faulds
+Rathian Coat
+Nibelsnarf Faulds
+Nibelsnarf Coat
+Gigginox Faulds
+Gigginox Coat
+Nargacuga Faulds
+Nargacuga Coat
+Barioth Faulds
+Barioth Coat
+Rathalos Faulds
+Rathalos Coat
+Uragaan Faulds
+Uragaan Coat
+Zinogre Faulds
+Zinogre Coat
+Diablos Coil
+Diablos Coat
+Tigrex Faulds
+Tigrex Coat
+Agnaktor Faulds
+Agnaktor Coat
+Duramboros Faulds
+Duramboros Coat
+Guild Bard Coil
+Guild Bard Coat
+Scholar's Skirt
+Scholar's Mini
+Mosgharl Folia
+Mosgharl Folia
+Mosgharl Fronds
+Mosgharl Fronds
+Viking Faulds
+Viking Coat
+Aelucanth Elytra
+Aelucanth Alae
+Rhopessa Elytra
+Rhopessa Alae
+Yamato Koshiate
+Mutsu Koshiate
+Hyuga Koshiate
+Amagi Koshiate
+Yukumo Sky Obi
+Yukumo Land Obi
+Leather Faulds S
+Leather Coat S
+Chainmail Faulds S
+Chainmail Coat S
+Hunter's Faulds S
+Hunter's Coat S
+Loc Lac Kilt S
+Loc Lac Coat S
+Bone Faulds S
+Bone Coat S
+Alloy Coil S
+Alloy Coat S
+Bnahabra Coil S
+Bnahabra Coat S
+Rhenoplos Coil S
+Rhenoplos Coat S
+Jaggi Faulds S
+Jaggi Coat S
+Arzuros Faulds S
+Arzuros Coat S
+Steel Belt S
+Wroggi Faulds S
+Wroggi Coat S
+Lagombi Faulds S
+Lagombi Coat S
+Qurupeco Coil S
+Qurupeco Coat S
+Ludroth Faulds S
+Ludroth Coat S
+Barroth Faulds S
+Barroth Coat S
+Ingot Coil S
+Ingot Coat S
+Baggi Coil S
+Baggi Coat S
+Volvidon Faulds S
+Rangura Coat S
+Rathian Faulds S
+Rathian Coat S
+Nibelsnarf Faulds S
+Nibelsnarf Coat S
+Gigginox Faulds S
+Gigginox Coat S
+Nargacuga Faulds S
+Nargacuga Coat S
+Barioth Faulds S
+Barioth Coat S
+Rathalos Faulds S
+Rathalos Coat S
+Uragaan Faulds S
+Uragaan Coat S
+Dober Coil
+Dober Coat
+Zinogre Faulds S
+Zinogre Coat S
+Diablos Coil S
+Diablos Coat S
+Tigrex Faulds S
+Tigrex Coat S
+Agnaktor Faulds S
+Agnaktor Coat S
+Duramboros Faulds S
+Duramboros Coat S
+Qurupeco Coil U
+Qurupeco Coat U
+Ludroth Faulds U
+Ludroth Coat U
+Barroth Faulds U
+Barroth Coat U
+Gigginox Faulds U
+Gigginox Coat U
+Nargacuga Faulds U
+Nargacuga Coat U
+Barioth Faulds U
+Barioth Coat U
+Uragaan Faulds U
+Uragaan Coat U
+Diablos Coil U
+Diablos Coat U
+Tigrex Faulds U
+Tigrex Coat U
+Agnaktor Faulds U
+Agnaktor Coat U
+Golden Lunecoil
+Golden Lunecoat
+Silver Solcoil
+Silver Solcoat
+Vangis Coil
+Vangis Coat
+Ranger's Sash
+Archer's Belt
+Guild Bard Coil S
+Guild Bard Coat S
+Scholar's Skirt S
+Scholar's Mini S
+Mosgharl Folia S
+Mosgharl Folia S
+Mosgharl Fronds S
+Mosgharl Fronds S
+Viking Faulds S
+Viking Coat S
+Aelucanth Elytra S
+Aelucanth Alae S
+Rhopessa Elytra S
+Rhopessa Alae S
+Dianthus Skirt
+Bellflower Skirt
+Damascus Coil
+Damascus Coat
+Grand Y. Koshiate
+Grand Mutsu Koshiate
+Grand Hyuga Koshiate
+Grand Amagi Koshiate
+Dark A. Cincture
+Dark Akantor Sash
+Ukanlos Cincture
+Ukanlos Sash
+Escadora Might
+Escadora Force
+Storm Waist
+Sky Sash
+Chakra Waistlet
+Pirate J Coil
+Pirate J Skirt
+Snake Belt
+Snake Band
+The Boss Belt
+The Boss Band
+UNIQLO Belt
+UNIQLO Pouch
+Bouya's Belt
+Bouya's Buckle
+Bouya's Belt
+Bouya's Buckle

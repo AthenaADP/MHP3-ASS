@@ -1,0 +1,87 @@
+﻿&Archivo
+&Opciones
+&Idioma
+&Ayuda
+&Abrir
+&Guardar
+S&alir
+&Quitar Todo
+Permitir &Habilidades Negativas
+Permitir &Piercings
+Permitir &Armaduras de Evento
+Permitir &Armadura de Bajo Rango
+Revisar &Actualizaciones
+&Acerca de
+&Mis Amuletos
+&Importar
+&Búsqueda Rápida
+&Búsqueda Avanzada
+&Cancelar
+&Predet.
+&Ninguna
+&Buscar
+Q. &Todos
+M. &Mejores
+&Agregar
+El&iminar
+Eliminar &Todos
+Mover &Arriba
+Mover &Abajo
+&Cerrar
+&Buscar Siguiente
+HR
+Misiones de Villa
+Ranuras en Arma
+Hombre
+Mujer
+Filtrar Resultados por Amuleto
+Ordenar por...
+Todos
+Res Dragón
+Res Fuego
+Res Hielo
+Res Trueno
+Res Agua
+Defensa Min
+Defensa Max
+Dificultad
+Rareza
+Ranuras Libres
+Amuletos
+No Usar Amuletos
+Usar Solo Mis Amuletos
+Usar Amuletos Con Ranuras
+Usar Amuletos Con 1 Habilidad
+Usar Amuletos Con 2 Habilidades
+Habilidades
+Filtros de Habilidades
+M. Espada
+Artillero
+Seleccionar Armadura
+Imp. am. del Savedata
+Personajes
+Eliminar Amuletos Existentes
+Datos de Personaje no Encontrados
+Amuletos no Encontrados
+Ran.
+(Ninguna)
+Ranura Libre
+Ranuras Libres
+(O Cualquiera Con
+Ranura)
+(O Cualquiera Con
+Ranuras)
+(O Cualquiera Con Torso Inc)
+Soluciones Encontradas:
+Mostrando las Primeras 
+Soluciones:
+MHP3rd Save Data
+Datos No Válidos.
+Versión
+Encontrar
+Tramposo, Tú Lo Sabes.
+Error
+a
+Defensa
+Tabla
+Resultados

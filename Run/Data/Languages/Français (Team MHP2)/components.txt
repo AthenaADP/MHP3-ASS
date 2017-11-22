@@ -1,0 +1,814 @@
+﻿Tome de Combi 1
+Tome de Combi 2
+Tome de Combi 3
+Tome de Combi 4
+Tome de Combi 5
+Mag.organisateur
+Mag. explorateur
+Potion
+Méga potion
+Nutriments
+Méga nutriments
+Antidote
+Phyto-médicament
+Immunisateur
+Breuvage énergie
+Jus d'énergie
+Méga jus
+Drogue du démon
+Méga drogue
+Pilule pouvoir
+Peau armure
+Méga peau armure
+Pilule armure
+Breuvage frais
+Breuvage chaud
+Agent nettoyant
+Déodorant
+Sérum psy
+Potion max
+Potion antique
+Cristaux de vie
+Poudre de vie
+Catalyseur
+Tranquillisant
+Charme pouvoir
+Griffe pouvoir
+Charme armure
+Griffe armure
+Viande crue
+Viande poison
+Viande infectée
+Viande droguée
+Steak saignant
+Steak à point
+Viande brûlée
+Viande froide
+Viande chaude
+Poisson mal cuit
+Poisson gourmet
+Poisson brûlé
+Oeuf de Yukumo
+Boomerang
+Cout. de lancer
+Couteau poison
+Cout. somnifère
+Cout. paralysant
+Cout. tranq.
+Composant bombe
+Marqueur
+Bombe flash
+Bombe sonique
+Bouse
+Crotte de Wyvern
+Bombe de bouse
+Bombe de fumée
+Bombe de poison
+Transporteur
+Bombe tranq
+Toile d'araignée
+Filet
+Pose-piège
+Fosse piégée
+Piège à choc
+Poudre
+Petit baril
+Grand baril
+Pt bombe baril
+Gd bombe baril
+Gd bombe barilG
+Bombe rebond
+Bombe Felvine
+Jolly bombe
+Polly bombe
+Vieille pioche
+Pioche de fer
+Méga pioche
+Vieux Filinsecte
+Filinsecte
+Méga Filinsecte
+Broche BBQ
+Aiguisoir
+Baie-coque
+Coque en os
+Mn Normale Nv1
+Mn Normale Nv2
+Mn Normale Nv3
+Mn Perçante Nv1
+Mn Perçante Nv2
+Mn Perçante Nv3
+Mn Plomb Nv1
+Mn Plomb Nv2
+Mn Plomb Nv3
+Mn Explosive Nv1
+Mn Explosive Nv2
+Mn Explosive Nv3
+Mn Fragment Nv1
+Mn Fragment Nv2
+Mn Fragment Nv3
+Mn Enflammée
+Mn Eau
+Mn Foudre
+Mn Gel
+Mn Dragon
+Mn Tranchante
+Mn Poison Nv1
+Mn Poison Nv2
+Mn Para Nv1
+Mn Para Nv2
+Mn Sommeil Nv1
+Mn Sommeil Nv2
+Mn Assommoir Nv1
+Mn Assommoir Nv2
+Mn Guérison Nv1
+Mn Guérison Nv2
+Mn Démon
+Mn Armure
+Mn Tranq
+Mn Marqueur
+Pas d'Enduit
+Bouteille vide
+Enduit énergie
+End b. portant
+Enduit de poison
+Enduit paralysie
+Enduit sommeil
+Enduit assommoir
+Enduit peinture
+Ver
+Luciole
+Appât Poissondor
+Méga mouche
+Grenouille
+Jumelles
+Déchet
+Flûte
+Flûte de Santé
+Flûte antidote
+Flûte du démon
+Flûte armure
+Miel
+Herbe
+Herbe antidote
+Herbe de feu
+Herbe de glace
+Lierre
+Herbe sommeil
+Plante à sève
+Felvine
+Fleur de cactus
+Piment fort
+Herbe rare
+Champi bleu
+Champinitro
+Champaralysie
+Champi vénéneux
+Champexciteur
+Champi vigueur
+Champi dragon
+Gros Champara.
+Champi pioche
+Baie-peinture
+Graine pouvoir
+Graine armure
+Baie-absorbante
+Graine dragon
+Frag-noix
+Baiguille
+Baie-aconit
+Bombaie
+Graine rouge
+Graine verte
+Pépin citrouille
+Bois de Yukumo
+Bois de Yukumo+
+Cendre
+Makro couteau
+Sushipoisson
+Somnipoisson
+Pointhon
+Gargousson
+Frag-poisson
+Arrowana éclat
+Arrowana bombe
+Pt Poissondor
+Sardine
+Poisson ancien
+Lg pois. cloche
+Conque
+Alose
+Peau requin
+Coque d'insecte
+Insecte sonore
+Insecte sauteur
+Larve-serpent
+Insecte-dieu
+Amerinsecte
+Flashinsecte
+Foudrinsecte
+Charpentinsecte
+Scarabée tueur
+Hercudrome
+Insecte tonnerre
+Roi scarabée
+Scarabée rare
+Criquet sonore
+Grand machaon
+Pierre
+Minerai de fer
+Cristal de terre
+Miner. Machalite
+Mine. Pelagicite
+Minerai Béalite
+Isisium
+Cristal lumière
+Miner. Dragonite
+Bloc de lave
+Pierre-feu
+Miner. Carbalite
+Miner. Bathycite
+Minerai union
+Gracium
+Pierre-lave
+Cristal glacé
+Minerai arc-en-c
+Os mystère
+Crâne inconnu
+Os
+Os monstre petit
+Os monstre moyen
+Os monstre grand
+Os de monstre+
+Os monstre dur
+Os monstre lourd
+Os Wyvern aviaire
+Os de géant
+Os résistant
+Relique os dragon
+Croc de wyvern
+Griffe de wyvern
+P. wyv. aviaire
+Pierre wyvern
+Sang Anc. dragon
+Hurleur
+Poche de poison
+Poche de toxine
+Poche paralysie
+Poche immobilis.
+Poche somnifère
+Poche de coma
+Poche de flamme
+Poche infernale
+Poche d'eau
+Poche aqueuse
+Poche de foudre
+Poche de glace
+Poche de givre
+Extrait pouvoir
+Extrait pâle
+Fluide monstre
+Brouet monstre
+Plume Gagua
+Corne Kelbi
+Fourrure chaude
+Peau gde qualité
+Bois d'Anteka
+Carap. Rhenoplos
+Cuira. Rhenoplos
+Scalp Rhenoplos
+Peau Zuwaroposu
+Peau Zuwaroposu+
+Grande nageoire
+Nag. de qualité
+Croc aiguisé
+Cuir feutré
+Carap. Bnahabra
+Cuira. Bnahabra
+Aile Bnahabra
+Dard Bnahabra
+Mach. Altaroth
+Estomac Altaroth
+Poche de qualité
+Peau Bullfango
+Tête Bullfango
+Peau Bulldrome
+Peau Bulldrome+
+Déf. Bulldrome
+Ecaille Jaggi
+Ecaille Jaggi+
+Cuir Jaggi
+CrocWyv. aviaire
+Cuir grand Jaggi
+Cuir gd Jaggi+
+Griffe gd Jaggi
+Grif. gd Jaggi+
+Collerette roi
+Tête grand Jaggi
+Ecaille Froggi
+Ecaille Froggi+
+Cuir Froggi
+Croc Froggi
+Cuir gd. Froggi
+Cuir gd. Froggi+
+Carap. gd Froggi
+Cuira. gd Froggi
+Sac venin solide
+Ecaille Baggi
+Ecaille Baggi+
+Cuir Baggi
+Cuir grand Baggi
+Cuir gd Baggi+
+Griffe gd Baggi
+Griffe gd Baggi+
+Crête gd. Baggi
+Four. Aoashira
+Four. Aoashira+
+Carap. Aoashira
+Cuira. Aoashira
+Carap. bras Aoa
+Carap. bras Aoa+
+Four. Urukususu
+Four. Urukususu+
+Oreil. Urukususu
+Or. Urukususu+
+Plastron Urukusu
+Plast. Urukusu+
+Griffe Urukususu
+Grif. Urukususu+
+Carapace Ranguro
+Cuirasse Ranguro
+Griffe Ranguro
+Griffe Ranguro+
+Sacrum Ranguro
+Ecaille Qurupeco
+Ecail. Qurupeco+
+Plume Qurupeco
+Aile Qurupeco
+Plume vive Peco
+Bec étrange
+Bec magnifique
+Silex
+Eca. Peco rouge
+Aile Peco rouge
+Pierre étincelle
+Cuir aquatique
+Cuir aquatique+
+Éponge Immature
+Cuir spongieux
+Cuir spongieux+
+Ecaille Lud roy
+Ecaille Lud roy+
+Griffe Lud royal
+Griffe Lud roy+
+Crinière Lud roy
+Crin. Lud roy+
+Queue Lud roy
+Peau Lud violet
+Ecaille Lud vio.
+Grif. Lud violet
+Carapace Barroth
+Cuirasse Barroth
+Vertèb. Barroth
+Vertèb. Barroth+
+Griffe Barroth
+Griffe Barroth+
+Scalp Barroth
+Queue Barroth
+Boue fertile
+Car. Barroth glc
+Vert.Barroth glc
+Grif.Barroth glc
+Scalp Barr. glc
+Queue Barr. glc
+Mucus gelé
+Cara.Hapurubokka
+Cuir.Hapurubokka
+Peau Hapurubokka
+Pe. Hapurubokka+
+Grif.Hapurubokka
+Gri.Hapurubokka+
+Sca. Hapurubokka
+Fluide clair
+Fluide coloré
+Peau Gigginox
+Peau Gigginox+
+Peau étrange
+Peau étrange+
+Griffe Gigginox
+Griffe Gigginox+
+Gueule terrifiante
+Gl. poison sini.
+Gl. venin sini.
+Pe. Gigginox fdr
+Griffe Giggi fdr
+Ecaille Rathian
+Ecaille Rathian+
+Carapace Rathian
+Cuirasse Rathian
+Palmure Rathian
+Pointe Rathian
+Pointe Rathian+
+Plaque Rathian
+Rubis Rathian
+Ecai. Rath. or
+Carap. Rath. or
+Epine Rathian or
+Ecaille Rathalos
+Ecail. Rathalos+
+Carapa. Rathalos
+Cuiras. Rathalos
+Palmure Rathalos
+Queue Rathalos
+Plate Rathalos
+Rubis Rathalos
+Eca.Rathal.argt
+Cara.Rathal.argt
+Queu.Rathal.argt
+Griffe Wyv. feu
+Moelle Wyv. feu
+Cerveau Wyv. feu
+Fluide Wyv. feu
+Carapace Jinouga
+Cuirasse Jinouga
+Fourrure Jinouga
+Fourrure Jinou.+
+Corne Jinouga
+Corne Jinouga+
+Griffe Jinouga
+Griffe Jinouga+
+Queue Jinouga
+Pier. fdre Jin
+Pier. fdre Jin+
+Plate Jinouga
+Joyau Jinouga
+Ecaille Narga
+Ecaille Narga+
+Peau Narga noir
+Peau Narga +
+Queue Nargacuga
+Pte queu. narga
+Aile Nargacuga
+Aile acér. Narga
+Croc Nargacuga
+Croc Nargacuga+
+Moelle Narga
+Cerveau Narga
+Ecai. Narga vert 
+Peau Narga vert
+Aile Narga vert
+Croc Narga vert
+Carap. Barioth
+Cuira. Barioth
+Fourrure Barioth
+Fourru. Barioth+
+Griffe Barioth
+Griffe Barioth+
+Pointe Barioth
+Queue Barioth
+Défense Ambre
+Défense Ambre +
+Car.Barioth vent
+Pe. Barioth vent
+Gri.Barioth vent
+Que.Barioth vent
+Croc Ultra-marin
+Membrane Pleural
+Écaille Uragaan
+Écaille Uragaan+
+Carapace Uragaan
+Cuirasse Uragaan
+Mâchoire Uragaan
+Scrutum Uragaan
+Moelle Uragaan
+Rubis Uragaan
+Éc.Uragaan acier
+Cuir. Ura. acier
+Mâch. Ura. acier
+Scru. Ura. acier
+Carapace Doboru
+Cuirasse Doboru
+Mousse Doboru
+Mousse Doboru+
+Bloc Doboru
+Queue Doboru
+Queue Doboru+
+Corne Doboru
+Corne Doboru+
+Os Queue Doboru
+Sacrum Doboru
+Écaille Tigrex
+Écaille Tigrex+
+Carapace Tigrex
+Cuirasse Tigrex
+Queue Tigrex
+Griffe Tigrex
+Griffe Tigrex+
+Croc Tigrex
+Croc Tigrex+
+Scalp Tigrex
+Agito Tigrex
+Éc. Tigrex noir
+Car. Tigrex noir
+Gri. Tigrex Noir
+Croc Tigrex Noir
+Carapace Diablos
+Cuirasse Diablos
+Vertèb. Diablos
+Vertèb. Diablos+
+Ca.Queue Diablos
+Croc Diablos
+Corne Tordue
+Corn.Majestueuse
+Moelle Diablos
+Cerveau Diablos
+Cuir. Diab. noir
+Vert. Diab. noir
+Corne Diab. noir
+Ecaille Uroktor
+Écaille Uroktor+
+Écaille Agnaktor
+Carap. Agnaktor
+Cuira. Agnaktor
+Peau Agnaktor
+Peau Agnaktor+
+Griffe Agnaktor
+Griffe Agnaktor+
+Nageo. Agnaktor
+Nageo. Agnaktor+
+Bec Agnaktor
+Queue Agnaktor
+Car. Trs Fusion
+Cuir. Trs Fusion
+Cara.Agna. gelée
+P.Agnaktor gelée
+Gr.Agnaktor gel.
+Nag. Agna. gelée
+Bec Agna. gelée
+Queue Agna.gelée
+Car. Trs Humide
+Car. Jhen Mohran
+Cuir.Jhen Mohran
+Écaille Jhen M.
+Écaille Jhen M.+
+Attache Jhen M.
+Attache Jhen M.+
+Croc Solide
+Croc Solide+
+Gemme Drgn terr.
+Écaille Deviljho
+Peau Deviljho
+Croc Deviljho
+Griffe Deviljho
+Scalp Deviljho
+Queue Deviljho
+Salive Deviljho
+Gemme Deviljho
+Écaille Akantor
+Carapace Akantor
+Queue Akantor
+Griffe Akantor
+Croc Akantor
+Pique Akantor
+Gemme Akantor
+Carapace Ukanlos
+Écaille Ukanlos
+Queue Ukanlos
+Griffe Ukanlos
+Mâchoire Ukanlos
+Nageoire Ukanlos
+Gemme Ukanlos
+Scrutum Alatreon
+Plaque Alatreon
+Griffe Alatreon
+Palmure Alatreon
+Queue Alatreon
+Perce-Ciel Brisé
+Perce-Ciel
+Gemme Drgn Azure
+Cuirasse Amatsu
+Palmure Amatsu
+Corne Amatsu
+Griffe Amatsu
+Queue Amatsu
+Cara.poit.Amatsu
+Réservoir Tonne.
+Gemme Drgn Divin
+Tesson rouillé
+Tesson ancien
+Pièce rouillée
+Gd pièce ancien.
+Pt pièce ancien.
+Longue P.ancien.
+Œuf d'acier
+Œuf d'argent
+Œuf d'or
+Récompense
+Récompense G
+Sc.Patte de chat
+Ticket Yukumo
+Ticket boisson
+Tckt so. chaudes
+Ticket compagnon
+Tckt légume
+Tckt légume+
+Tckt lég. bronze
+Tckt lég. argent
+Tckt lég. or
+Codex arme
+Cod. fusarbalète
+Codex épée
+Invit. aux armes
+Preuve force Sol
+Preuve force Lis
+Croc mys. ancien
+Livre Épé.secret
+P.Garçon Détect.
+Contrat Negima
+Ticket Magasine
+Ticket Trésor J
+Ticket Pirate J
+Ticket Légende J
+Pièce Pirate J
+Ticket Famitsu
+Famitsu ST
+Famitsu GT
+Famitsu PT
+Pièce Famitsu
+Ticket Dangeki
+Ticket Dengeki G
+Titre de Big Boss
+Carnet bord sec.
+Ticket UNIQLO
+Tckt Gemme noir
+Tckt Corb. blanc
+Tckt Drag. noir
+Ticket Mafumofu
+Journal ardent
+Notification MH
+Inf. wyv. rapide
+Inf. Coléoptères
+Inf Ichtyosaures
+Info Herbivores
+Inf Wyv. Avi.[1]
+Inf Wyv. Avi.[2]
+Inf Wyv. Dentés
+Inf Dragons [1]
+Inf Dragons [2]
+Inf Doboru
+Inf Deviljho
+Inf Drg Marin[1]
+Inf Drg Marin[2]
+Infos Hapurubokka
+Infos Wyvern [1]
+Infos Wyvern [2]
+Infos Akantor
+Infos Ukanlos
+Infos Jinouga
+Inf Jhen Mohran
+Inf Amatsumagat.
+Infos Alatreon
+Carte
+Premiers soins
+Ration
+Broche portable
+Mini aiguisoir
+Ticket Passechat
+Piège choc port.
+Flash bmb four.
+Bombe sonique F.
+Potion max four.
+Fosse piég.four.
+Gd bmb brl four.
+Bombe anti-dragon
+Mn Baliste
+Bal. agglomérante
+Lien élastique
+Miel Royal
+Champi-unique
+Champi-sélection
+Champi. affiné
+Champi. délicat
+Pousse de bambou
+Plante aurore
+Baie poivrée
+Poissondor
+Poisson d'argent
+Poisson bocart
+Pssn bocart royal
+Rhino royal
+Rhino divin
+Insecte d'argent
+Insecte d'or
+Morceau d'or
+Pépite d'or
+Bou. Min. Fleuri
+Morc.Min. Fleuri
+Os de cristal
+Os doré
+Pierre sang
+Pr sang profonde
+Charbon
+Charbon dur
+Mun. canon
+Œuf de wyvern
+Œuf d'herbivore
+Œuf Gagua
+Œuf Gagua doré
+Minerai de suie
+Pierre-poudre
+Bouse Gagua
+Foie blanc
+Huile Zuposu
+Langue de Popo
+Bourse secrète
+Gland attirant
+Poche propre
+Poche brillante
+Extrait Giggi
+Boyau monstre
+Larme wyvern
+Pleurs wyvern
+Larme bestiale
+Pleurs bestiaux
+Chutes bois
+Chutes bois+
+Chutes citrouille
+Chutes minerai
+Chutes minerai+
+Chutes os
+Chutes os+
+Chutes fourrure
+Chutes fourrure+
+Chutes Rhenoplos
+Chutes Rhenoplos+
+Chutes Zuposu
+Chutes Zuposu+
+Chutes Altaroth
+Chutes Altaroth+
+Chutes insecte
+Chutes insecte+
+Chutes Bulldrome
+Chutes Bulldrome+
+Chutes Jaggi
+Chutes Jaggi+
+Chutes Froggi
+Chutes Froggi+
+Chutes Baggi
+Chutes Baggi+
+Chutes Aoashira
+Chutes Aoashira+
+Chutes Urukususu
+Chutes Urukususu+
+Chutes Ranguro
+Chutes Ranguro+
+Chutes Peco
+Chutes Peco+
+Chutes Ludroth
+Chutes Ludroth+
+Chutes Barroth
+Chutes Barroth+
+Chutes Hapu
+Chutes Hapu+
+Chutes Gigginox
+Chutes Gigginox+
+Chutes Rathian
+Chutes Rathian+
+Chutes Rathalos
+Chutes Rathalos+
+Chutes Jinouga
+Chutes Jinouga+
+Chutes Narga
+Chutes Narga+
+Chutes Barioth
+Chutes Barioth+
+Chutes Uragaan
+Chutes Uragaan+
+Chutes Doboru
+Chutes Doboru+
+Chutes Tigrex
+Chutes Tigrex+
+Chutes Diablos
+Chutes Diablos+
+Chutes Agnaktor
+Chutes Agnaktor+
+Chutes Jhen Mo.
+Chutes Jhen Mo.+
+Chutes Deviljho
+Chutes Akantor
+Chutes Ukanlos
+Chutes Alatreon
+Chutes Amatsu
+Chutes courage
+Chutes courage+
+Pierre d'armure
+Sphère armure
+Sphère armure+
+Sph armure dure
+Sph armure lrde
+Charme mystère
+Charme brillant
+Charme Vétuste
+Joyau lueur aqua
+Joyau flch soleil
+Joyau sang
+Joyau Lazurite

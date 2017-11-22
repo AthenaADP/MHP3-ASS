@@ -1,0 +1,211 @@
+﻿#eng-name,Skill,eng-ability,Skill-Tree,Points,Type(0=Both, 1=Blademaster, 2=Gunner),tag,order
+Attack Up [Sm],攻撃力UP【小】,Attack,攻撃,10,0,Offensive,32
+Attack Up [Med],攻撃力UP【中】,Attack,攻撃,15,0
+Attack Up [Lg],攻撃力UP【大】,Attack,攻撃,20,0
+Attack Down [Sm],攻撃力DOWN【小】,Attack,攻撃,-10,0
+Attack Down [Med],攻撃力DOWN【中】,Attack,攻撃,-15,0
+Attack Down [Lg],攻撃力DOWN【大】,Attack,攻撃,-20,0
+Reckless Abandon +1,見切り+1,Expert,達人,10,0,Offensive,12
+Reckless Abandon +2,見切り+2,Expert,達人,15,0
+Reckless Abandon +3,見切り+3,Expert,達人,20,0
+Reckless Abandon -1,見切り-1,Expert,達人,-10,0
+Reckless Abandon -2,見切り-2,Expert,達人,-15,0
+Reckless Abandon -3,見切り-3,Expert,達人,-20,0
+Sharp Sword,業物,Sharpness,斬れ味,10,1,Blademaster,9
+Blunt,なまくら,Sharpness,斬れ味,-10,1
+Speed Sharpening,砥石使用高速化,Sharpener,研ぎ師,10,1,Blademaster,13
+Slow Sharpening,砥石使用低速化,Sharpener,研ぎ師,-10,1
+Sharpness +1,斬れ味レベル+1,Artisan,匠,15,1,Blademaster,10
+Unsheathe Stun,抜刀術【力】,PunishDraw,抜刀減気,10,1,Blademaster,71
+Unsheathe Critical,抜刀術【技】,Crit Draw,抜刀会心,10,1,Blademaster,65
+Concentration,集中,FastCharge,溜め短縮,10,0,Offensive,70
+Distraction,雑念,FastCharge,溜め短縮,-10,0
+ESP,心眼,Fencing,剣術,10,1,Blademaster,11
+Exploiter,弱点特効,Debilitate,痛撃,10,0,Offensive,94
+Ruiner,破壊王,Slam,重撃,10,0,Farming,95
+Improved KO,KO術,KO,KO,10,0,,96
+Enfeebler,スタミナ奪取,FatigueAtk,減気攻撃,10,0,,97
+Flute Expert,笛吹き名人,Horn,笛,10,0,Blademaster,82
+Gunnery Master,砲術師,Gunnery,砲術,10,0,Offensive,83
+Gunnery King,砲術王,Gunnery,砲術,15,0
+Unleashed +1,力の解放+1,Awaken,本気,10,0,Offensive,84
+Unleashed +2,力の解放+2,Awaken,本気,15,0
+Adrenaline +1,火事場力+1,Potential,底力,10,0,Offensive,56
+Adrenaline +2,火事場力+2,Potential,底力,15,0
+Worry,心配性,Potential,底力,-10,0
+Resilience,不屈,Adversity,逆境,10,0,Offensive,73
+Load Up,装填数UP,Loading,装填数,15,0,Offensive,59
+Rapid Shot +1,連発数+1,Rapid Fire,速射,10,2,Bow/Gunner,74
+Reload Speed +1,装填速度+1,Reload Spd,装填速度,10,2,Bow/Gunner,17
+Reload Speed +2,装填速度+2,Reload Spd,装填速度,15,2
+Reload Speed +3,装填速度+3,Reload Spd,装填速度,20,2
+Reload Speed -1,装填速度-1,Reload Spd,装填速度,-10,2
+Reload Speed -2,装填速度-2,Reload Spd,装填速度,-15,2
+Reload Speed -3,装填速度-3,Reload Spd,装填速度,-20,2
+Recoil Reduction +1,反動軽減+1,Recoil,反動,10,2,Bow/Gunner,18
+Recoil Reduction +2,反動軽減+2,Recoil,反動,15,2
+Recoil Reduction +3,反動軽減+3,Recoil,反動,20,2
+Recoil Reduction -1,反動軽減-1,Recoil,反動,-10,2
+Recoil Reduction -2,反動軽減-2,Recoil,反動,-15,2
+Recoil Reduction -3,反動軽減-3,Recoil,反動,-20,2
+Accuracy+1,ブレ抑制+1,Precision,精密射撃,10,2,Bow/Gunner,60
+Accuracy+2,ブレ抑制+2,Precision,精密射撃,15,2
+Accuracy-1,ブレ抑制-1,Precision,精密射撃,-10,2
+Accuracy-2,ブレ抑制-2,Precision,精密射撃,-15,2
+NormalS/RapidBowUp,通常弾・連射矢UP,NormalS Up,通常弾強化,10,2,Bow/Gunner,19
+PierceS/PierceBowUp,貫通弾・貫通矢UP,PierceS Up,貫通弾強化,10,2,Bow/Gunner,20
+PelletS/ScatterBowUp,散弾・拡散矢UP,PelletS Up,散弾強化,10,2,Bow/Gunner,21
+Normal S All Add,通常弾全LV追加,NormalSAdd,通常弾追加,10,2,Bow/Gunner,22
+Pierce S LV1 Add,貫通弾LV1追加,PierceSAdd,貫通弾追加,10,2,Bow/Gunner,23
+Pierce S All Add,貫通弾全LV追加,PierceSAdd,貫通弾追加,15,2
+Pellet S LV1 Add,散弾LV1追加,PelletSAdd,散弾追加,10,2,Bow/Gunner,24
+Pellet S All Add,散弾全LV追加,PelletSAdd,散弾追加,15,2
+Crag S LV1 Add,徹甲榴弾LV1追加,Crag S Add,榴弾追加,10,2,Bow/Gunner,25
+Crag S All Add,徹甲榴弾全LV追加,Crag S Add,榴弾追加,15,2
+Clust S LV1 Add,拡散弾LV1追加,ClustS Add,拡散弾追加,10,2,Bow/Gunner,26
+Clust S All Add,拡散弾全LV追加,ClustS Add,拡散弾追加,15,2
+Cutter S Add,斬裂弾追加,CutterSAdd,斬裂弾追加,10,2,Bow/Gunner,92
+Poison Coating Add,毒ビン追加,PoisonCAdd,毒瓶追加,10,2,Bow/Gunner,77
+Parlysis Coating Add,麻痺ビン追加,ParalyCAdd,麻痺瓶追加,10,2,Bow/Gunner,78
+Sleep Coating Add,睡眠ビン追加,SleepCAdd,睡眠瓶追加,10,2,Bow/Gunner,79
+Power Coating Add,強撃ビン追加,PowerCAdd,強撃瓶追加,10,2,Bow/Gunner,80
+Close Range Coating Add,接撃ビン追加,RazorCAdd,接撃瓶追加,10,2,Bow/Gunner,81
+Fatigue Coating Add,減気ビン追加,FatigeCAdd,減気瓶追加,10,2,Bow/Gunner,93
+Abnormal Status Atk +1,状態異常攻撃+1,Status,特殊攻撃,10,0,Offensive,27
+Abnormal Status Atk +2,状態異常攻撃+2,Status,特殊攻撃,15,0
+Abnormal Status Atk Down,状態異常攻撃弱化,Status,特殊攻撃,-10,0
+Element Atk Up,属性攻撃強化,Elemental,属性攻撃,10,0,Offensive,28
+Elemnt Atk Down,属性攻撃弱化,Elemental,属性攻撃,-10,0
+Fire Element +1,火属性攻撃強化+1,Fire Atk,火属性攻撃,10,0,Offensive,87
+Fire Element +2,火属性攻撃強化+2,Fire Atk,火属性攻撃,15,0
+Fire Elment Down,火属性攻撃弱化,Fire Atk,火属性攻撃,-10,0
+Water Element +1,水属性攻撃強化+1,Water Atk,水属性攻撃,10,0,Offensive,88
+Water Element +2,水属性攻撃強化+2,Water Atk,水属性攻撃,15,0
+Water Element Down,水属性攻撃弱化,Water Atk,水属性攻撃,-10,0
+Thunder Element +1,雷属性攻撃強化+1,Thundr Atk,雷属性攻撃,10,0,Offensive,89
+Thunder Element +2,雷属性攻撃強化+2,Thundr Atk,雷属性攻撃,15,0
+Thunder Element Down,雷属性攻撃弱化,Thundr Atk,雷属性攻撃,-10,0
+Ice Element +1,氷属性攻撃強化+1,Ice Attack,氷属性攻撃,10,0,Offensive,90
+Ice Element +2,氷属性攻撃強化+2,Ice Attack,氷属性攻撃,15,0
+Ice Element Down,氷属性攻撃弱化,Ice Attack,氷属性攻撃,-10,0
+Dragon Element +1,龍属性攻撃強化+1,Dragon Atk,龍属性攻撃,10,0,Offensive,91
+Dragon Element +2,龍属性攻撃強化+2,Dragon Atk,龍属性攻撃,15,0
+Dragon Element Down,龍属性攻撃弱化,Dragon Atk,龍属性攻撃,-10,0
+Constitution +1,体術+1,Constitutn,体術,10,0,Defensive,67
+Constitution +2,体術+2,Constitutn,体術,15,0
+Constitution -1,体術-1,Constitutn,体術,-10,0
+Constitution -2,体術-2,Constitutn,体術,-15,0
+Runner,ランナー,Stamina,スタミナ,10,0,Defensive,58
+Flat Footed,鈍足,Stamina,スタミナ,-10,0
+Stamina Recov Up,スタミナ急速回復,Will Recov,気力回復,10,0,Defensive,99
+Stamina Recov Down,スタミナ回復遅延,Will Recov,気力回復,-10,0
+Hunger Halved,腹減り半減,Hunger,腹減り,10,0,,30
+Hunger Negated,腹減り無効,Hunger,腹減り,15,0
+Hunger Inc [Lo],腹減り倍加【小】,Hunger,腹減り,-10,0
+Hunger Inc [Hi],腹減り倍加【大】,Hunger,腹減り,-15,0
+Evade +1,回避性能+1,Evasion,回避性能,10,0,Defensive,55
+Evade +2,回避性能+2,Evasion,回避性能,15,0
+Evade Down,回避性能DOWN,Evasion,回避性能,-10,0
+Evasion Up,回避距離UP,Evade Dist,回避距離,15,0,Defensive,64
+Fast Sheathe,納刀術,Sheathe,納刀,10,0,Defensive,98
+Sneak,隠密,Sense,気配,10,0,Defensive,6
+Taunt,挑発,Sense,気配,-10,0
+Recovery Speed +1,回復速度+1,Rec Speed,回復速度,10,0,Defensive,8
+Recovery Speed +2,回復速度+2,Rec Speed,回復速度,15,0
+Recovery Spd -1,回復速度-1,Rec Speed,回復速度,-10,0
+Recovery Spd -2,回復速度-2,Rec Speed,回復速度,-15,0
+Guard +1,ガード性能+1,Guard,ガード性能,10,1,Defensive,14
+Guard +2,ガード性能+2,Guard,ガード性能,15,1
+Guard -1,ガード性能-1,Guard,ガード性能,-10,1
+Guard Inc,ガード強化,Guard Up,ガード強化,10,0,Defensive,15
+Auto-Guard,オートガード,Auto-Guard,自動防御,10,0,Defensive,16
+Divine Protection,精霊の加護,Protection,加護,10,0,Defensive,34
+Demonic Protection,悪霊の加護,Protection,加護,-10,0
+Poison Negated,毒無効,Poison,毒,10,0,Resistance,1
+Poison [x2],毒倍加,Poison,毒,-10,0
+Parlysis Negated,麻痺無効,Paralysis,麻痺,10,0,Resistance,2
+Paralysis [x2],麻痺倍加,Paralysis,麻痺,-10,0
+Sleep Negated,睡眠無効,Sleep,睡眠,10,0,Resistance,3
+Sleep [x2],睡眠倍加,Sleep,睡眠,-10,0
+Stun Halved,気絶確率半減,Stun,気絶,10,0,Resistance,4
+Stun Negated,気絶無効,Stun,気絶,15,0
+Stun [x2],気絶倍加,Stun,気絶,-10,0
+Mud/Snow Res,泥＆雪無効,Mud/Snow,耐泥耐雪,10,0,Resistance,5
+Quake Res,耐震,Quake Res,耐震,10,0,Resistance,63
+Wind Breaker,風圧無効,WindPress,風圧,10,0,Resistance,46
+Wind Anchor,風圧完全無効,WindPress,風圧,15,0
+Antiseptic,抗菌,Antiseptic,抗菌,10,0,Resistance,76
+Steal No Effect,盗み無効,Anti-Theft,盗み無効,10,0,Resistance,36
+Blightproof,属性やられ無効,Blight Res,属性耐性,10,0,Resistance,72
+Def Down Negate,鉄面皮,Fortitude,対防御DOWN,10,0,Resistance,86
+Earplug,耳栓,HearProtct,聴覚保護,10,0,Defensive,35
+HighGradeEarplug,高級耳栓,HearProtct,聴覚保護,15,0
+Health +20,体力+20,Health,体力,10,0,Defensive,7
+Health +50,体力+50,Health,体力,15,0
+Health -10,体力-10,Health,体力,-10,0
+Health -30,体力-30,Health,体力,-15,0
+Def Up (S),防御力UP【小】,Defense,防御,10,0,Defensive,33
+Def Up (M),防御力UP【中】,Defense,防御,15,0
+Def Up (L),防御力UP【大】,Defense,防御,20,0
+Def Down (S),防御力DOWN【小】,Defense,防御,-10,0
+Def Down (M),防御力DOWN【中】,Defense,防御,-15,0
+Def Down (L),防御力DOWN【大】,Defense,防御,-20,0
+Fire Res (S),火耐性【小】,Fire Res,火耐性,10,0,Resistance,39
+Fire Res (L),火耐性【大】,Fire Res,火耐性,15,0
+Fire Res Weakened,火耐性弱化,Fire Res,火耐性,-10,0
+Water Res (S),水耐性【小】,Water Res,水耐性,10,0,Resistance,40
+Water Res (L),水耐性【大】,Water Res,水耐性,15,0
+Water Res Weakened,水耐性弱化,Water Res,水耐性,-10,0
+Thunder Res (S),雷耐性【小】,ThunderRes,雷耐性,10,0,Resistance,41
+Thunder Res (L),雷耐性【大】,ThunderRes,雷耐性,15,0
+Thunder Res Weakened,雷耐性弱化,ThunderRes,雷耐性,-10,0
+Ice Res (S),氷耐性【小】,Ice Res,氷耐性,10,0,Resistance, 42
+Ice Res (L),氷耐性【大】,Ice Res,氷耐性,15,0
+Ice Res Weakened,氷耐性弱化,Ice Res,氷耐性,-10,0
+Dragon Res (S),龍耐性【小】,Dragon Res,龍耐性,10,0,Resistance, 43
+Dragon Res (L),龍耐性【大】,Dragon Res,龍耐性,15,0
+Dragon Res Weakened,龍耐性弱化,Dragon Res,龍耐性,-10,0
+Wide Area +1,広域化+1,Wide Area,広域,10,0,,37
+Wide Area +2,広域化+2,Wide Area,広域,20,0
+Bombardier,ボマー,BombStrUp,爆弾強化,10,0,Offensive,29
+Trap Master,罠師,SpeedSetup,高速設置,10,0,,66
+Trnquilizr Guru,捕獲の見極め,Perception,観察眼,10,0,Farming,69
+Detect,探知,Psychic,千里眼,10,0,,51
+Autotracker,自動マーキング,Psychic,千里眼,15,0
+DungBombExpert,こやし玉名人,DungMaster,こやし,10,0,,75
+Recovery Up,体力回復量UP,Rec Level,回復量,10,0,Defensive,52
+Recovery Down,体力回復量DOWN,Rec Level,回復量,-10,0
+Item Use Up,アイテム使用強化,LastingPwr,効果持続,10,0,,57
+Item Use Down,アイテム使用弱化,LastingPwr,効果持続,-10,0
+Filled Up,まんぷく,Gluttony,食いしん坊,10,0,,31
+Picky Eater,拾い食い,Gluttony,食いしん坊,15,0
+Quick Eating +1,早食い+1,Eating,食事,10,0,,61
+Quick Eating +2,早食い+2,Eating,食事,15,0
+Slow Life,スローライフ,Eating,食事,-10,0
+Huntsman's Life,ハンター生活,Huntsman,狩人,10,0,,85
+Backpacking Expert,運搬の達人,Backpackng,運搬,10,0,Farming,38
+Heat Cancel,暑さ無効,Heat Res,耐暑,10,0,Resistance,44
+Heat Inc,暑さ倍加,Heat Res,耐暑,-10,0
+Cold Eliminate,寒さ無効,Cold Res,耐寒,10,0,Resistance,45
+Cold Increase,寒さ倍加,Cold Res,耐寒,-10,0
+Gathering +1,採取+1,Gathering,採取,10,0,Farming,47
+Gathering +2,採取+2,Gathering,採取,15,0
+Gathering -1,採取-1,Gathering,採取,-10,0
+Hi-SpdGathering,高速収集,HiSpdGathr,高速収集,10,0,Farming,48
+Spirit's Whim,精霊の気まぐれ,Whim,気まぐれ,10,0,Farming,49
+Divine Whim,神の気まぐれ,Whim,気まぐれ,15,0
+Spectre's Whim,悪霊の気まぐれ,Whim,気まぐれ,-10,0
+Devil's Whim,悪魔の気まぐれ,Whim,気まぐれ,-15,0
+Good Luck,幸運,Fate,運気,10,0,Farming,50
+Luck Booster,激運,Fate,運気,15,0
+Bad Luck,不運,Fate,運気,-10,0
+Calamity,災難,Fate,運気,-15,0
+Carving Expert,剥ぎ取り達人,Carving,剥ぎ取り,15,0,Farming,62
+Rewards Expert,捕獲達人,Rewards,捕獲,10,0,Farming,68
+Rewards Celeb,捕獲名人,Rewards,捕獲,15,0
+Combine Success +20%,調合成功率+20%,Combo Rate,調合成功率,10,0,,53
+Combine Success+45%,調合成功率+45%,Combo Rate,調合成功率,15,0
+Combine Success -10%,調合成功率-10%,Combo Rate,調合成功率,-10,0
+Combine Success-20%,調合成功率-20%,Combo Rate,調合成功率,-15,0
+Bullet Limit,最大数生産,Shot Mix,調合数,10,0,Bow/Gunner,54
+Torso Inc,胴系統複製,,,,,,0

@@ -1,0 +1,87 @@
+&File
+&Options
+&Language
+&Help
+&Load
+&Save
+E&xit
+&Clear Settings
+Allow &Bad Skills
+Allow &Piercings
+Allow &Event Armor
+Allow &Low Rank Armor
+Check for &Updates
+&About
+&My Charms
+&Import
+&Quick Search
+&Advanced Search
+&Cancel
+&Default
+&None
+&Search
+Select &None
+Select &Best
+&Add New
+De&lete
+Delete &All
+Move &Up
+Move &Down
+&Close
+&Find Next
+HR
+Village Quests
+Max Weapon Slots
+Male
+Female
+Filter Results by Charm
+Sort Results By
+All
+Dragon res
+Fire res
+Ice res
+Thunder res
+Water res
+Base Defence
+Max Defence
+Difficulty
+Rarity
+Slots Spare
+Charms
+Use no charms
+Use only my charms
+Use only slotted charms
+Use up to one skill charms
+Use only two skill charms
+Skills
+Skill Filters
+Blademaster
+Gunner
+Select Armor
+Import Charms from Save Data
+Characters
+Delete Existing Charms
+No character data found
+No charms found
+Slots
+(none)
+slot spare
+slots spare
+(or anything with
+slot)
+(or anything with
+slots)
+(or anything with Torso Inc)
+Solutions found:
+Showing first
+solutions only:
+MHP3rd Save Data
+Not a valid MHP3rd save file.
+Version
+Find
+You cheater, you.
+Error
+to
+Defence
+Table
+Results

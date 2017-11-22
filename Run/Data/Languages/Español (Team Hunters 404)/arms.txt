@@ -1,0 +1,212 @@
+﻿Kote Yukumo
+Guantes Cuero
+Guantes Malla
+Brazales Cazador
+Guardab. Cazador
+Brazales Hueso
+Guardab. Hueso
+Brazales Aleación
+Guardab. Aleación
+Guantes Bnahabra
+Mangas Bnahabra
+Brazales Rhenoplos
+Guardab. Rhenoplos
+Brazales Jaggi
+Guardab. Jaggi
+Brazales Aoashira
+Guardab. Aoashira
+Brazales acero
+Brazales Furogi
+Guardab. Furogi
+Brazales Urukususu
+Guardab. Urukususu
+Brazales Qurupeco
+Guardab. Qurupeco
+Brazales Ludroth
+Guardab. Ludroth
+Brazales Barroth
+Guardab. Barroth
+Brazales Lingote
+Guardab. Lingote
+Brazales Baggi
+Guardab. Baggi
+Brazales Rangu.
+Guardab. Rangu.
+Brazales Rathian
+Guardab. Rathian
+Brazales Hapuru
+Guardab. Hapuru
+Brazales Gigginox
+Guardab. Gigginox
+Brazales Naruga
+Guardab. Naruga
+Brazales Barioth
+Guardab. Barioth
+Brazales Rathalos
+Guardab. Rathalos
+Brazales Uragaan
+Guardab. Uragaan
+Brazales Jinouga
+Guardab. Jinouga
+Brazales Diablos
+Guardab. Diablos
+Brazales Tigrex
+Guardab. Tigrex
+Brazales Agnaktor
+Guardab. Agnaktor
+Brazales Doboru
+Guradab. Doboru
+Gua. guard. Gremio
+Man. guard. Gremio
+Guantes Colegiala
+Mangas Colegiala
+Rama Calabaza (Maestro Espada)
+Rama Calabaza (Maestro Espada)
+Rama Calabaza (Artillero)
+Rama Calabaza (Artillero)
+Brazales Pescado
+Guardab. Pescado
+Brazales Escarabajo
+Guardab. Escarabajo
+Brazales Mariposa
+Guardab. Mariposa
+Brazales Atia
+Guardab. Atia
+Kote Yamato
+Kote Mutsu
+Kote Hyuga
+Kote Amagi
+Banda Yuami
+Kote Yukumo・Cielo
+Kote Yukumo・Tierra
+Brazales Cuero S
+Guardab. Cuero S
+Braza. Cota Malla S
+Guardab. Malla S
+Braza. cazador S
+Guardab. cazador S
+Brazales hueso S
+Guardab. hueso S
+Brazales Aleación S
+Guardab. Aleación S
+Guantes Bnahabra S
+Mangas Bnahabra S
+Brazales Rhenop. S
+Guardab. Rhenop. S
+Brazales Jaggi S
+Guardab. Jaggi S
+Brazales Aoashira S
+Guardab. Aoashira S
+Brazales acero S
+Brazales Furogi S
+Guardab. Furogi S
+Brazales Urukusu. S
+Guardab. Urukusu. S
+Brazales Qurupeco S
+Guardab. Qurupeco S
+Brazales Ludroth S
+Guardab. Ludroth S
+Brazales Barroth S
+Guardab. Barroth S
+Brazales Lingote S
+Guardab. Lingote S
+Brazales Baggi S
+Guardab. Baggi S
+Brazales Rangu. S
+Guardab. Rangu. S
+Brazales Rathian S
+Guardab. Rathian S
+Brazales Hapuru S
+Guardab. Hapuru S
+Brazales Gigginox S
+Guardab. Gigginox S
+Brazales Naruga S
+Guardab. Naruga S
+Brazales Barioth S
+Guardab. Barioth S
+Brazal. Rathalos S
+Guard. Rathalos S
+Brazales Uragaan S
+Guardab. Uragaan S
+Brazales Dober
+Guardab. Dober
+Brazales Jinouga S
+Guardab. Jinouga S
+Brazal. Diablos S
+Guardab. Diablos S
+Brazales Tigrex S
+Guardab. Tigrex S
+Brazales Agnaktor S
+Guardab. Agnaktor S
+Brazales Doboru S
+Guardab. Doboru S
+Brazales Qurupeco U
+Guardab. Qurupeco U
+Brazales Ludroth U
+Guardab. Ludroth U
+Brazales Barroth U
+Guardab. Barroth U
+Brazales Gigginox U
+Guardab. Gigginox U
+Brazales Naruga U
+Guardab. Naruga U
+Brazales Barioth U
+Guardab. Barioth U
+Brazales Uragaan U
+Guardab. Uragaan U
+Brazales Diablos U
+Guardab. Diablos U
+Brazales Tigrex U
+Guardab. Tigrex U
+Brazales Agnaktor U
+GUardab. Agnaktor U
+Brazales Luna Dor.
+Guardab. Luna Dor.
+Brazales Sol Plat.
+Guardab. Sol Plat.
+Brazales Vangis
+Guardab. Vangis
+Guanteletes Soldado (Maestro Espada)
+Guanteletes Soldado (Artillero)
+Braz. cab. Gremio S
+Manga cab. Gremio S
+Guantes Colegiala S
+Mangas Colegiala S
+Rama Calabaza S (Maestro Espada)
+Rama Calabaza S (Maestro Espada)
+Rama Calabaza S (Artillero)
+Rama Calabaza S (Artillero)
+Brazales Pescado S
+Guardab. Pescado S
+Brazal. Escarabajo S
+Guard. Escarabajo S
+Brazales Mariposa S
+Guardab. Mariposa S
+Brazales Atia S
+Guardab. Atia S
+Mangas Dianthus
+Mangas Kikyo
+Brazales Damasco
+Guardab. Damasco
+Kote Yamato・Supremo
+Kote Mutsu・Supremo
+Kote Hyuga・Supremo
+Kote Amagi・Supremo
+Garra Akantor Oscu.
+Guante Akantor Osc.
+Garra Ukanlos
+Guant. Ukanlos
+Brazos Escadora
+Aruma Escadora
+Manga Tormenta
+Manga Cielo Azul
+Banda de lujo Yuami
+Anillos Trinidad
+Guantes Jolly Roger
+Puños de Jolly Roger
+Guantes de Snake
+Brazales de Snake
+Guantes The Boss
+Brazales The Boss
+Guantes UNIQLO (Maestro Espada)
+Guantes UNIQLO (Artillero)

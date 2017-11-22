@@ -1,0 +1,230 @@
+﻿Kasa Yukumo
+Casque en cuir
+Casque en maille
+Casque de chasseur
+Heaume de chasseur
+Casque d'os
+Heaume d'os
+Casque haut-métal
+Heaume haut-métal
+Masque Bnahabra
+Visage Bnahabra
+Casque Rhenoplos
+Heaume Rhenoplos
+Casque Jaggi
+Heaume Jaggi
+Casque Aoashira
+Heaume Aoashira
+Casque Froggi
+Heaume Froggi
+Casque Urukususu
+Heaume Urukususu
+Casque Qurupeco
+Heaume Qurupeco
+Casque Ludroth
+Heaume Ludroth
+Casque Barroth
+Heaume Barroth
+Casque lingot
+Heaume lingot
+Casque Baggi
+Heaume Baggi
+Casque Ranguro
+Heaume Ranguro
+Casque Rathian
+Heaume Rathian
+Casque Hapurubokka
+Heaume Hapurubokka
+Casque Gigginox
+Heaume Gigginox
+Casque Nargacuga
+Heaume Nargacuga
+Casque Barioth
+Heaume Barioth
+Casque Rathalos
+Heaume Rathalos
+Casque Uragaan
+Heaume Uragaan
+Casque Jinouga
+Heaume Jinouga
+Casque Diablos
+Heaume Diablos
+Casque Tigrex
+Heaume Tigrex
+Casque Agnaktor
+Heaume Agnaktor
+Casque Doboru
+Heaume Doboru
+Plume de la guilde
+Masque de la guilde
+Béret de la guilde
+Chapeau de la guilde
+Masque sorcière
+Masque sorcière
+Visage sorcière
+Visage sorcière
+Casque motard
+Heaume motard
+Testa nécrologie
+Caput nécrologie
+Testa papillon
+Caput papillon
+Casque Yamato
+Casque Mutsu
+Casque Hinata
+Casque Amagi
+Masque Gagua
+Masque Zuposu
+Tête Zuposu
+Masque Jaggi
+Masque Bullfango
+Tête de mort
+Bonnet des bains
+Casque de gland
+Deux yeux percants
+Kasa Yukumo ciel
+Kasa Yukumo terre
+Casque en cuir S
+Heaume en cuir S
+Casque en maille S
+Heaume en maille S
+Casque de chasseur S
+Heaume de chasseur S
+Casque d'os S
+Heaume d'os S
+Casque haut-métal S
+Heaume haut-métal S
+Masque Bnahabra S
+Visage Bnahabra S
+Casque Rhenoplos S
+Heaume Rhenoplos S
+Casque Jaggi S
+Heaume Jaggi S
+Casque Aoashira S
+Heaume Aoashira S
+Casque Froggi S
+Heaume Froggi S
+Casque Urukususu S
+Heaume Urukususu S
+Casque Qurupeco S
+Heaume Qurupeco S
+Casque Ludroth S
+Heaume Ludroth S
+Casque Barroth S
+Heaume Barroth S
+Casque lingot S
+Heaume lingot S
+Casque Baggi S
+Heaume Baggi S
+Casque Ranguro S
+Heaume Ranguro S
+Casque Rathian S
+Heaume Rathian S
+Casque Hapurubokka S
+Heaume Hapurubokka S
+Casque Gigginox S
+Heaume Gigginox S
+Casque Nargacuga S
+Heaume Nargacuga S
+Casque Barioth S
+Heaume Barioth S
+Casque Rathalos S
+Heaume Rathalos S
+Casque Uragaan S
+Heaume Uragaan S
+Casque Dober
+Heaume Dober
+Casque Jinouga S
+Heaume Jinouga S
+Casque Diablos S
+Heaume Diablos S
+Casque Tigrex S
+Heaume Tigrex S
+Casque Agnaktor S
+Heaume Agnaktor S
+Casque Doboru S
+Heaume Doboru S
+Casque Qurupeco U
+Heaume Qurupeco U
+Casque Ludroth U
+Heaume Ludroth U
+Casque Barroth U
+Heaume Barroth U
+Casque Gigginox U
+Heaume Gigginox U
+Casque Nargacuga U
+Heaume Nargacuga U
+Casque Barioth U
+Heaume Barioth U
+Casque Uragaan U
+Heaume Uragaan U
+Casque Diablos U
+Heaume Diablos U
+Casque Tigrex U
+Heaume Tigrex U
+Casque Agnaktor U
+Heaume Agnaktor U
+Casque lune dorée
+Heaume lune dorée
+Casque sol argenté
+Heaume sol argenté
+Casque Vangis
+Heaume Vangis
+Masque g. citadelle
+Masque arc citadelle
+Plume de la guilde S
+Masque de la guilde S
+Béret de la guilde S
+Chapeau guilde S
+Masque sorcière S
+Masque sorcière S
+Visage sorcière S
+Visage sorcière S
+Casque motard S
+Heaume motard S
+Testa nécrologie S
+Caput nécrologie S
+Testa papillon S
+Caput papillon S
+Casque Dianthus
+Casque Kikyo
+Casque Damascus
+Heaume Damascus
+Casque Yamato S
+Casque Mutsu S
+Casque Hinata S
+Casque Amagi S
+Masque Akantor sombre
+Crocs Akantor sombre
+Masque Ukanlos sombre
+Crocs Ukanlos sombre
+Tête Escadora
+Gueule Escadora
+Couronne tempête
+Couronne ciel bleu
+Masque Gagua S
+Tete Gagua S
+Masque Zuposu S
+Tête Zuposu S
+Masque Jaggi S
+Tête Jaggi S
+Masque Bullfango S
+Tête Bullfango S
+Masque de mort S
+Tête de mort S
+Cache-oeil roi wyvern
+Bonnet de bain
+Casque de gland S
+Heaume de gland S
+Bcl d'or. troix yeux
+Ombre a paupières
+Chapeau pirate J
+Masque pirate J
+Tête Snake
+Masque Snake
+Tête the Boss
+Masque the Boss
+Bonnet UNIQLO
+Casque UNIQLO
+Piercing sainte épée
+Piercing barrage

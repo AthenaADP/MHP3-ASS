@@ -1,0 +1,310 @@
+Angriff
+Experte
+Schärfe
+Schärfer
+Handwerk
+StrafHieb
+KritHieb
+Schn. lad.
+Fechten
+HartSchlag
+SchrSchlag
+KO
+ErmüdSchlg
+Horn
+Schießerei
+Entbädigen
+Potenzial
+Überleben
+Kapazität
+Schnellfeu
+NachlGesch
+Rückstoß
+Präzision
+Norml Hoch
+PierceHoch
+SchrotHoch
+NormlSzufü
+PiercSzufü
+SchrtSzufü
+CragSzufüg
+StreuSzfüg
+SchntSHinz
+GiftBschHz
+LähmBschHz
+ShlfBschHz
+KrftBschHz
+KmboBschHz
+ErmdBschHz
+Status
+Element
+FeurAngHch
+WssrAngHch
+DnnrAngHch
+EisAngrHch
+DrchAngHch
+Konstitutn
+Ausdauer
+Willenskft
+Hunger
+Ausweichen
+Asweichdst
+Armieren
+Spürsinn
+ErholGschw
+Block
+Block hoch
+Autoblock
+Schutz
+Gift
+Lähmung
+Schlaf
+Betäuben
+Schl/Schn.
+Bebenabw.
+Windabwehr
+Antiseptik
+Anti-Dieb
+Brandabw.
+Eigenbrödl
+Gehör
+Gesundheit
+Verteidig.
+Feuerabw.
+Wasserabw.
+Donnerabw.
+Eisabwehr
+Drachenabw
+Großraum
+BombStärk.
+SchnllAufb
+Wahrnehmen
+Vision
+Dungmeist.
+ErholStufe
+Immerwährd
+Schlemmen
+Essen
+Jäger
+Rucksack
+Hitzeabw.
+Kälteabw.
+Sammeln
+SchnllSamm
+Laune
+Schicksal
+Zerlegen
+Beruhigung
+Kombi-Rate
+KombiBonus
+RumpfVerst
+
+Angriff +
+Angriff ++
+Angriff +++
+Angriff -
+Angriff --
+Angriff ---
+Krit. Auge +1
+Krit. Auge +2
+Krit. Auge +3
+Krit. Auge -1
+Krit. Auge -2
+Krit. Auge -3
+Scharfschwert
+Stumpf
+Schn. Schärfen
+Langs. Schärfen
+Schärfe +1
+Strafender Hieb
+Kritischer Hieb
+Fokus
+Ablenkung
+Übersinnl. Kraft
+SwchstellnWirkng
+Zerrütungs-König
+KO-Technik
+Ausdauer-Technik
+Hornexperte
+Schießmeister
+Schießkönig
+Entbändigung +1
+Entbändigung +2
+Adrenalin +1
+Adrenalin +2
+Pessimist
+Kräftigen
+Kapazität hoch
+Bonus-Schuss
+NachlGesch +1
+NachlGesch +2
+NachlGesch +3
+NachlGesch -1
+NachlGesch -2
+NachlGesch -3
+Rück. runter +1
+Rück. runter +2
+Rück. runter +3
+Rück. runter -1
+Rück. runter -2
+Rück. runter -3
+Ruhige Hand +1
+Ruhige Hand +2
+Ruhige Hand -1
+Ruhige Hand -2
+Norml/SchnllBg h
+Pierc/PierceBg h
+Schrot/ScttrBg h
+NormS alleSt zuf
+Pierce S St1 zuf
+PierS alleSt zuf
+Schrot S St1 zuf
+SchrS alleSt zuf
+Crag S St1 zuf
+CragS alleSt zuf
+Streu S St1 zuf
+StreuS alleStzuf
+Schnitt S zufüg
+GiftBeschHinzufg
+LähmBeschHinzufg
+SchlafBeschHinzu
+KraftBeschHinzu
+KomboBeschHinzu
+ErmüdBeschHinzu
+Statusangr. +1
+Statusangr. +2
+Statusa. runter
+Elementang. hoch
+Elementa. runter
+Feuer Angriff +1
+Feuer Angriff +2
+Feuer Angriff -1
+Wasser Angriff+1
+Wasser Angriff+2
+Wasser Angriff-1
+Donner Angriff+1
+Donner Angriff+2
+Donner Angriff-1
+Eis Angriff +1
+Eis Angriff +2
+Eis Angriff -1
+Drach. Angriff+1
+Drach. Angriff+2
+Drach. Angriff-1
+Konstitution +1
+Konstitution +2
+Konstitution -1
+Konstitution -2
+Läufer
+Sprinter
+AusdauerRegenrt+
+AusdauerRegenrt-
+Halber Hunger
+Hunger nichtig
+Mehr Hunger
+Doppelter Hunger
+Ausweichen +1
+Ausweichen +2
+Ausweichen runter
+AusweichDist hoch
+Armieren-Technik
+Schleichen
+Provokation
+ErholGeschw +1
+ErholGeschw +2
+ErholGeschw -1
+ErholGeschw -2
+Block +1
+Block +2
+Block -1
+Blockstärkung
+Autoblock
+Göttl. Schutz
+Dämon. Schutz
+Gift nichtig
+Doppeltes Gift
+Lähmung nichtig
+Doppelte Lähmung
+Schlaf nichtig
+Doppelter Schlaf
+Halbes Betäuben
+Betäuben nichtig
+Dopp. Betäuben
+Schl/Schn nicht.
+Bebensicher
+Wind beenden
+Wind nichtig
+Antiseptik
+Anti-Dieb
+Brandsicher
+Arroganz
+Ohrstöpsel
+Best. Ohrstöpsel
+Gesundheit +20
+Gesundheit +50
+Gesundheit -10
+Gesundheit -30
+Verteidigung +
+Verteidigung ++
+Verteidigung +++
+Verteidigung -
+Verteidigung --
+Verteidigung ---
+Feuerabwehr +
+Feuerabwehr ++
+Feuerabw. Runter
+Wasserabwehr +
+Wasserabwehr ++
+Wasserabw.Runter
+Donnerabwehr +
+Donnerabwehr ++
+Donnerabw.Runter
+Eisabwehr +
+Eisabwehr ++
+Eisabw. Runter
+Drachenabwehr +
+Drachenabwehr ++
+DrachenabwRunter
+Großraum +1
+Großraum +2
+Bombardier
+Fallenmeister
+Fang-Meister
+Aufspüren
+Auto-Aufspürer
+Dungbomben-Exp.
+Erholung hoch
+Erholung runter
+Objktntzng hoch
+Objktntzng runt.
+Feinschmecker
+Allesfresser
+Schnellessen +1
+Schnellessen +2
+Langsamer Esser
+Jägerleben
+Rucksackexperte
+Hitze beenden
+Hitze verdoppelt
+Kälte beenden
+Kälte verdoppelt
+Sammeln +1
+Sammeln +2
+Sammeln -1
+Schnellsammler
+Seelenlaune
+Göttliche Laune
+Gespensterlaune
+Teufelslaune
+Glück
+Glücksverstärker
+Pech
+Unglück
+Zerleger-Profi
+Fang-Star
+Fang-Guru
+Kombination +20%
+Kombination +45%
+Kombination -10%
+Kombination -20%
+Kombi-Profi

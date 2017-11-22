@@ -1,0 +1,232 @@
+﻿Dougi Yukumo
+Armure en cuir
+Cotte en maille
+Cotte de chasseur
+Tunique de chasseur
+Costume Loc Lac
+Cotte d'os
+Tunique d'os
+Cotte haut-métal
+Tunique haut-métal
+Costume Bnahabra
+Veste Bnahabra
+Cotte Rhenoplos
+Tunique Rhenoplos
+Cotte Jaggi
+Tunique Jaggi
+Cotte Aoashira
+Tunique Aoashira
+Cotte d'acier
+Cotte Froggi
+Tunique Froggi
+Cotte Urukususu
+Tunique Urukususu
+Cotte Qurupeco
+Tunique Qurupeco
+Cotte Ludroth
+Tunique Ludroth
+Cotte Barroth
+Tunique Barroth
+Cotte lingot
+Tunique lingot
+Cotte Baggi
+Tunique Baggi
+Cotte Ranguro
+Tunique Ranguro
+Cotte Rathian
+Tunique Rathian
+Cotte Hapurubokka
+Tunique Hapurubokka
+Cotte Gigginox
+Tunique Gigginox
+Cotte Nargacuga
+Tunique Nargacuga
+Cotte Barioth
+Tunique Barioth
+Cotte Rathalos
+Tunique Rathalos
+Cotte Uragaan
+Tunique Uragaan
+Cotte Jinouga
+Tunique Jinouga
+Cotte Diablos
+Tunique Diablos
+Cotte Tigrex
+Tunique Tigrex
+Cotte Agnaktor
+Tunique Agnaktor
+Cotte Doboru
+Tunique Doboru
+Veste de la guilde
+Tunique de la guilde
+Blouse de la guilde
+Gilet de la guilde
+Costume sorcière
+Costume sorcière
+Gilet sorcière
+Gilet sorcière
+Cotte motard
+Tunique motard
+Petto nécrologie
+Pectus nécrologie
+Petto papillon
+Pectus papillon
+Cotte Atia
+Tunique Atia
+Plastron Yamato
+Plastron Mutsu
+Plastron Hinata
+Plastron Amagi
+Manteau Zuposu
+Cape Zuposu
+Serviette des bains
+Cotte de gland
+Haori Yukumo ciel
+Haori Yukumo terre
+Cotte en cuir S
+Tunique en cuir S
+Cotte en maille S
+Tunique en maille S
+Cotte de chasseur S
+Tun. de chasseur S
+Costume Loc Lac S
+Gilet Loc Lac S
+Cotte d'os S
+Tunique d'os S
+Cotte haut-métal S
+Tunique haut-métal S
+Costume Bnahabra S
+Gilet Bnahabra S
+Cotte Rhenoplos S
+Tunique Rhenoplos S
+Cotte Jaggi S
+Tunique Jaggi S
+Cotte Aoashira S
+Tunique Aoashira S
+Cotte d'acier S
+Cotte Froggi S
+Tunique Froggi S
+Cotte Urukususu S
+Tunique Urukususu S
+Cotte Qurupeco S
+Tunique Qurupeco S
+Cotte Ludroth S
+Tunique Ludroth S
+Cotte Barroth S
+Tunique Barroth S
+Cotte lingot S
+Tunique lingot S
+Cotte Baggi S
+Tunique Baggi S
+Cotte Ranguro S
+Tunique Ranguro S
+Cotte Rathian S
+Tunique Rathian S
+Cotte Hapurubokka S
+Tun. Hapurubokka S
+Cotte Gigginox S
+Tunique Gigginox S
+Cotte Nargacuga S
+Tunique Nargacuga S
+Cotte Barioth S
+Tunique Barioth S
+Cotte Rathalos S
+Tunique Rathalos S
+Cotte Uragaan S
+Tunique Uragaan S
+Cotte Dober
+Tunique Dober
+Cotte Jinouga S
+Tunique Jinouga S
+Cotte Diablos S
+Tunique Diablos S
+Cotte Tigrex S
+Tunique Tigrex S
+Cotte Agnaktor S
+Tunique Agnaktor S
+Cotte Doboru S
+Tunique Doboru S
+Cotte Qurupeco U
+Tunique Qurupeco U
+Cotte Ludroth U
+Tunique Ludroth U
+Cotte Barroth U
+Tunique Barroth U
+Cotte Gigginox U
+Tunique Gigginox U
+Cotte Nargacuga U
+Tunique Nargacuga U
+Cotte Barioth U
+Tunique Barioth U
+Cotte Uragaan U
+Tunique Uragaan U
+Cotte Diablos U
+Tunique Diablos U
+Cotte Tigrex U
+Tunique Tigrex U
+Cotte Agnaktor U
+Tunique Agnaktor U
+Cotte lune dorée
+Tunique lune dorée
+Cotte sol argenté
+Tunique sol argenté
+Cotte Vangis
+Tunique Vangis
+Plast. g. citadelle
+Plast. arc citadelle
+Costume de guilde S
+Tunique de guilde S
+Blouse de guilde S
+Gilet de guilde S
+Costume sorcière S
+Costume sorcière S
+Gilet sorcière S
+Gilet sorcière S
+Cotte motard S
+Tunique motard S
+Petto nécrologie S
+Pectus nécrologie S
+Petto papillon S
+Pectus papillon S
+Cotte Atia S
+Tunique Atia S
+Vêtement Dianthus
+Vêtement Kikyo
+Cotte Damascus
+Tunique Damascus
+Plastron Yamato S
+Plastron Mutsu S
+Plastron Hinata S
+Plastron Amagi S
+Aegis Akantor sombre
+Plas. Akantor sombre
+Aegis Ukanlos sombre
+Plas. Ukanlos sombre
+Cuir Escadora
+Peau Escadora
+Vêtement tempete
+Vêtement ciel bleu
+Manteau Zuposu S
+Cape Zuposu S
+Serviette de bain
+Cotte de gland S
+Tunique de gland S
+Collier trois yeux
+Veste d'armée
+Blouson d'armée
+Veste de chasse
+Blouson de chasse
+Manteau pirate J
+Cape pirate J
+Costume Snake
+Veste Snake
+Costume the Boss
+Veste the Boss
+Costume UNIQLO
+Veste UNIQLO
+Veste Ya Kid
+Blouson Ya Kid
+Veste Ya Kid
+Blouson Ya Kid
+Veste Monster Hunter
+Jersey Monster Hunter

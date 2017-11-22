@@ -1,0 +1,87 @@
+&Datei
+&Optionen
+&Sprache
+&Hilfe
+&Laden
+&Speichern
+B&eenden
+&Zurücksetzen
+Erlaube &Negativfähigkeiten
+Erlaube &Piercings
+Erlaube &Event Rüstungen
+Erlaube &Low Rank Rüstungen
+Auf &Updates überprüfen
+&Über
+&Eigene
+&Importieren
+&Schnellsuche
+&Erweiterte Suche
+&Abbrechen
+&Standard
+&Keine
+&Suchen
+&Keine auswählen
+&Beste auswählen
+&Eintragen
+Lö&schen
+&Alle löschen
+&Hoch
+&Runter
+&Schließen
+&Nächste
+Jägerrang
+Dorfstufe
+Max. Waffenslots
+Mann
+Frau
+Nach Talisman filtern
+Sortieren nach
+Alle
+Drachenabwehr
+Feuerabwehr
+Eisabwehr
+Donnerabwehr
+Wasserabwehr
+Ausgangsverteidigung
+Maximalverteidigung
+Schwierigkeit
+Seltenheit
+Freien Slots
+Talisman
+Kein Talisman
+Eigene Talismane
+Talismane mit Slot
+Talismane mit einer Fähigkeit
+Talismane mit zwei Fähigkeiten
+Fähigkeiten
+Filter
+Klingenmeister
+Schütze
+Rüstung wählen
+Talismane importieren
+Charaktere
+Vorhandene löschen
+Kein Charakter vorhanden
+Kein Talisman vorhanden
+Slots
+(kein)
+Slot frei
+Slots frei
+(oder sonstiges mit
+Slot)
+(oder sonstiges mit
+Slots)
+(oder sonstiges mit Rumpf verst.)
+Gefundene Sets:
+Zeige nur die ersten
+Sets:
+MHP3rd Spielstand
+Ungültige Datei.
+Version
+Suchen
+Du Cheatwurst! =O
+Fehler
+bis
+Verteidigung
+Table
+Ergebnisse

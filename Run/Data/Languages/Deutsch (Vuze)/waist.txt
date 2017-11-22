@@ -1,0 +1,213 @@
+﻿Yukumono-Obi
+Leder-Gürtel
+Ketten-Gürtel
+Jäger-Beinzeug
+Jäger-Waffenrock
+Loc-Lac-Kilt
+Knochen-Beinzeug
+Knochen-Waffenrock
+Legierungs-Hüftring
+LegierungsWaffenrock
+Bnahabra-Hüftring
+Bnahabra-Waffenrock
+Rhenoplos-Hüftring
+Rhenoplos-Waffenrock
+Jaggi-Beinzeug
+Jaggi-Waffenrock
+Aoashira-Beinzeug
+Aoashira-Waffenrock
+Stahl-Beinzeug
+Froggi-Beinzeug
+Froggi-Waffenrock
+Ulkusus-Beinzeug
+Ulkusus-Waffenrock
+Qurupeco-Hüftring
+Qurupeco-Waffenrock
+Ludroth-Beinzeug
+Ludroth-Waffenrock
+Barroth-Beinzeug
+Barroth-Waffenrock
+Guss-Hüftring
+Guss-Waffenrock
+Baggi-Hüftring
+Baggi-Waffenrock
+Langrotora-Beinzeug
+LangrotoraWaffenrock
+Rathian-Beinzeug
+Rathian-Waffenrock
+Hapulbokka-Beinzeug
+HapulbokkaWaffenrock
+Gigginox-Beinzeug
+Gigginox-Waffenrock
+Nargacuga-Beinzeug
+Nargacuga-Waffenrock
+Barioth-Beinzeug
+Barioth-Waffenrock
+Rathalos-Beinzeug
+Rathalos-Waffenrock
+Uragaan-Beinzeug
+Uragaan-Waffenrock
+Jinouga-Beinzeug
+Jinouga-Waffenrock
+Diablos-Hüftring
+Diablos-Waffenrock
+Tigrex-Beinzeug
+Tigrex-Waffenrock
+Agnaktor-Beinzeug
+Agnaktor-Waffenrock
+Dobolbelk-Beinzeug
+Dobolbelk-Waffenrock
+GildenbardenHüftring
+Gildenb.-Waffenrock
+Gelehrten-Rock
+Gelehrten-Minirock
+Magier-Feuille
+Magier-Feuille
+Magier-Blatt
+Magier-Blatt
+Vaiku-Beinzeug
+Vaiku-Waffenrock
+Rowagga-Anka
+Rowagga-Cocusa
+Falmir-Anka
+Falmir-Cocusa
+Yamato-Koshiate
+Mutsu-Koshiate
+Hinata-Koshiate
+Amagi-Koshiate
+Yukumono-Obi Himmel
+Yukumono-Obi Erde
+Leder-Beinzeug S
+Leder-Waffenrock S
+Ketten-Beinzeug S
+Ketten-Waffenrock S
+Jäger-Beinzeug S
+Jäger-Waffenrock S
+Loc-Lac-Kilt S
+Loc-Lac-Waffenrock S
+Knochen-Beinzeug S
+Knochen-Waffenrock S
+Legierungs-HüftringS
+LegierungWaffenrockS
+Bnahabra-Hüftring S
+Bnahabra-WaffenrockS
+Rhenoplos-Hüftring S
+RhenoplosWaffenrockS
+Jaggi-Beinzeug S
+Jaggi-Waffenrock S
+Aoashira-Beinzeug S
+Aoashira-WaffenrockS
+Stahl-Hüftring S
+Froggi-Beinzeug S
+Froggi-Waffenrock S
+Ulkusus-Beinzeug S
+Ulkusus-Waffenrock S
+Qurupeco-Hüftring S
+Qurupeco-WaffenrockS
+Ludroth-Beinzeug S
+Ludroth-Waffenrock S
+Barroth-Beinzeug S
+Barroth-Waffenrock S
+Guss-Hüftring S
+Guss-Waffenrock S
+Baggi-Hüftring S
+Baggi-Waffenrock S
+Langrotora-BeinzeugS
+Langrot.-WaffenrockS
+Rathian-Beinzeug S
+Rathian-Waffenrock S
+Hapulbokka-BeinzeugS
+Hapulb.-Waffenrock S
+Gigginox-Beinzeug S
+Gigginox-WaffenrockS
+Nargacuga-Beinzeug S
+NargacugaWaffenrockS
+Barioth-Beinzeug S
+Barioth-Waffenrock S
+Rathalos-Beinzeug S
+Rathalos-WaffenrockS
+Uragaan-Beinzeug S
+Uragaan-Waffenrock S
+Dober-Hüftring
+Dober-Waffenrock
+Jinouga-Beinzeug S
+Jinouga-Waffenrock S
+Diablos-Hüftring S
+Diablos-Waffenrock S
+Tigrex-Beinzeug S
+Tigrex-Waffenrock S
+Agnaktor-Beinzeug S
+Agnaktor-WaffenrockS
+Dobolbelk-Beinzeug S
+DobolbelkWaffenrockS
+Qurupeco-Hüftring U
+Qurupeco-WaffenrockU
+Ludroth-Beinzeug U
+Ludroth-Waffenrock U
+Barroth-Beinzeug U
+Barroth-Waffenrock U
+Gigginox-Beinzeug U
+Gigginox-WaffenrockU
+Nargacuga-Beinzeug U
+NargacugaWaffenrockU
+Barioth-Beinzeug U
+Barioth-Waffenrock U
+Uragaan-Beinzeug U
+Uragaan-Waffenrock U
+Diablos-Hüftring U
+Diablos-Waffenrock U
+Tigrex-Beinzeug U
+Tigrex-Waffenrock U
+Agnaktor-Beinzeug U
+Agnaktor-WaffenrockU
+Goldmond-Hüftring
+Goldmond-Waffenrock
+SilbersonnenHüftring
+Silberso.-Waffenrock
+Vangis-Hüftring
+Vangis-Waffenrock
+Ranger-Beinzeug
+Bog.-Munitionsgurt
+GildenbardenHüftrngS
+Gildenb.-WaffenrockS
+Gelehrten-Rock S
+Gelehrten-Minirock S
+Magier-Feuille S
+Magier-Feuille S
+Magier-Blatt S
+Magier-Blatt S
+Vaiku-Beinzeug S
+Vaiku-Waffenrock S
+Rowagga-Anka S
+Rowagga-Cocusa S
+Falmir-Anka S
+Falmir-Cocusa S
+Nelken-Rock
+Glockenblumen-Rock
+Damaskus-Hüftring
+Damaskus-Waffenrock
+Yamato-Koshiate S
+Mutsu-Koshiate S
+Hinata-Koshiate S
+Amagi-Koshiate S
+SchwAkantor Gürtel
+SchwAkantor Schärpe
+SchwUkanlos Gürtel
+SchwUkanlos Schärpe
+Escadora-Macht
+Escadora-Kraft
+Unwetter-Rock
+Azurhimmel-Rock
+Chakra-Beintasche
+Piraten-Kilt J
+Piraten-Rock J
+Snake-Gürtel
+Snake-Band
+The Boss-Gürtel
+The Boss-Band
+UNIQLO-Bauchgürtel
+UNIQLO-Tasche
+Boy-Gürtel
+Boy-Schnalle
+Boy-Gürtel
+Boy-Schnalle

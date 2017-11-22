@@ -1,0 +1,219 @@
+﻿Hakama Yukumo
+Pantalones Cuero
+Pantalones Malla
+Grebas Cazador
+Calzas Cazador
+Botas Loc Lac
+Grebas hueso
+Calzas hueso
+Grebas Aleación
+Calzas Aleación
+Botas Bnahabra
+Calzado Bnahabra
+Grebas Rhenoplos
+Calzas Rhenoplos
+Grebas Jaggi
+Calzas Jaggi
+Grebas Aoashira
+Calzas Aoashira
+Grebas Furogi
+Calzas Furogi
+Grebas Urukususu
+Calzas Urukususu
+Grebas Qurupeco
+Calzas Qurupeco
+Grebas Ludroth
+Calzas Ludroth
+Grebas Barroth
+Calzas Barroth
+Grebas Lingote
+Calzas Lingote
+Grebas Baggi
+Calzas Baggi
+Grebas Rangurotora
+Calzas Rangurotora
+Grebas Rathian
+Calzas Rathian
+Grebas Hapuru
+Calzas Hapuru
+Grebas Gigginox
+Calzas Gigginox
+Grebas Naruga
+Calzas Naruga
+Grebas Barioth
+Calzas Barioth
+Grebas Rathalos
+Calzas Rathalos
+Grebas Uragaan
+Calzas Uragaan
+Grebas Jinuoga
+Calzas Jinuoga
+Grebas Diablos
+Calzas Diablos
+Grebas Tigrex
+Calzas Tigrex
+Grebas Agnaktor
+Calzas Agnaktor
+Grebas Doboru
+Calzas Doboru
+Botas cab. Gremio
+Leotardos cab. Grem.
+Calcetines Colegiala
+Sandalias Colegiala
+Raíz Calabaza (Maestro Espada)
+Raíz Calabaza (Maestro Espada)
+Raíz Calabaza (Artillero)
+Raíz Calabaza (Artillero)
+Grebas Pescado
+Calzas Pescado
+Grebas Escarabajo
+Calzas Escarabajo
+Grebas Mariposa
+Calzas Mariposa
+Grebas Atia
+Calzas Atia
+Grebas Yamato
+Grebas Mutsu
+Hakama Hyuga
+Hakama Amagi
+Sandalias Yuami
+Hakama Yukumo・Cielo
+Hakama Yukumo・Tierr
+Grebas Cuero S
+Calzas Cuero S
+Grebas de Malla S
+Calzas de Malla S
+Grebas cazador S
+Calzas cazador S
+Botas Loc Lac S
+Calzado Loc Lac S
+Grebas hueso S
+Calzas hueso S
+Grebas Aleación S
+Calzas Aleación S
+Botas Bnahabra S
+Calzado Bnahabra S
+Grebas Rhenoplos S
+Calzas Rhenoplos S
+Grebas Jaggi S
+Calzas Jaggi S
+Grebas Aoashira S
+Calzas Aoashira S
+Grebas Furogi S
+Calzas Furogi S
+Grebas Urukususu S
+Calzas Urukususu S
+Grebas Qurupeco S
+Calzas Qurupeco S
+Grebas Ludroth S
+Calzas Ludroth S
+Grebas Barroth S
+Calzas Barroth S
+Grebas Lingote S
+Calzas Lingote S
+Grebas Baggi S
+Calzas Baggi S
+Grebas Rangu. S
+Calzas Rangu. S
+Grebas Rathian S
+Calzas Rathian S
+Grebas Hapuru S
+Calzas Hapuru S
+Grebas Gigginox S
+Calzas Gigginox S
+Grebas Naruga S
+Calzas Naruga S
+Grebas Barioth S
+Calzas Barioth S
+Grebas Rathalos S
+Calzas Rathalos S
+Grebas Uragaan S
+Calzas Uragaan S
+Grebas Dober
+Calzas Dober
+Grebas Jinuoga S
+Calzas Jinuoga S
+Grebas Diablos S
+Calzas Diablos S
+Grebas Tigrex S
+Calzas Tigrex S
+Grebas Agnaktor S
+Calzas Agnaktor S
+Grebas Doboru S
+Calzas Doboru S
+Grebas Qurupeco U
+Calzas Qurupeco U
+Grebas Ludroth U
+Calzas Ludroth U
+Greabs Barroth U
+Calzas Barroth U
+Grebas Gigginox U
+Calzas Gigginox U
+Grebas Naruga U
+Calzas Naruga U
+Grebas Barioth U
+Calzas Barioth U
+Grebas Uragaan U
+Calzas Uragaan U
+Grebas Diablos U
+Calzas Diablos U
+Grebas Tigrex U
+Calzas Tigrex U
+Grebas Agnaktor U
+Calzas Agnaktor U
+Grebas Luna Dorada
+Calzas Luna Dorada
+Grebas Sol Plateada
+Calzas Sol Plateada
+Grebas Vangis
+Calzas Vangis
+Alpargatas Soldado (Maestro Espada)
+Alpargatas Soldado (Artillero)
+Bot. guar. Gremio S
+Leo. guar. Gremio S
+Calcet. Colegiala S
+Sandal. Colegiala S
+Raíz Calabaza S (Maestro Espada)
+Raíz Calabaza S (Maestro Espada)
+Raíz Calabaza S (Artillero)
+Raíz Calabaza S (Artillero)
+Grebas Pescado S
+Calzas Pescado S
+Grebas Escarabajo S
+Calzas Escarabajo S
+Grebas Mariposa S
+Calzas Mariposa S
+Grebas Atia S
+Calzas Atia S
+Hakama Dianthus
+Hakama Kikyo
+Grebas Damasco
+Calzas Damasco
+Grebas Yamato・Supr
+Grebas Mutsu・Supr.
+Hakama Hyuga・Supr.
+Hakama Amagi・Supr.
+Dobl. Akantor Osc.
+Botas Akantor Osc.
+Dobl. Ukanlos
+Botas Ukanlos
+Escama Escadora
+Suhcre Escadora
+Hakama Tormenta
+Hakama Cielo Azul
+Sand. de lujo Yuami
+Tobilleras Trinidad
+Pantal. negr. cuero (Maestro Espada)
+Pantal. negr. cuero (Artillero)
+Botas de Jolly Roger
+Pant. de Jolly Roger
+Botas de Snake
+Calzado de Snake
+Botas The Boss
+Calzado The Boss
+Pant. carga UNIQLO
+Pant. corte UNIQLO
+Jeans Inf. Cazador
+Dril Inf. Cazador
+Jeans Alma Cazador
+Dril Alma Cazador

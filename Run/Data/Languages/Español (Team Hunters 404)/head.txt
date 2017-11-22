@@ -1,0 +1,230 @@
+﻿Kasa Yukumo
+Cubrecabeza Cuero
+Cubrecabeza Malla
+Casco Cazador
+Gorro Cazador
+Casco Hueso
+Gorro Hueso
+Casco Aleación
+Gorro Aleación
+Sombrero Bnahabra
+Gorro Bnahabra
+Casco Rhenoplos
+Gorro Rhenoplos
+Casco Jaggi
+Gorro Jaggi
+Casco Aoashira
+Gorro Aoashira
+Casco Furogi
+Gorro Furogi
+Casco Urukususu
+Gorro Urukususu
+Casco Qurupeco
+Gorro Qurupeco
+Casco Ludroth
+Gorro Ludroth
+Casco Barroth
+Gorro Barroth
+Casco Lingote
+Gorro Lingote
+Casco Baggi
+Gorro Baggi
+Casco Rangurotora
+Gorro Rangurotora
+Casco Rathian
+Gorro Rathian
+Casco Hapuru
+Gorro Hapuru
+Casco Gigginox
+Gorro Gigginox
+Casco Naruga
+Gorro Naruga
+Casco Barioth
+Gorro Barioth
+Casco Rathalos
+Gorro Rathalos
+Casco Uragaan
+Gorro Uragaan
+Casco Jinouga
+Gorro Jinouga
+Casco Diablos
+Gorro Diablos
+Casco Tigrex
+Gorro Tigrex
+Casco Agnaktor
+Gorro Agnaktor
+Casco Doboru
+Gorro Doboru
+Pluma caball. Gremio
+Sombrero cab. Gremio
+Gorro de Colegiala
+Birrete de Colegiala
+Flor Calabaza (Maestro Espada)
+Flor Calabaza (Maestro Espada)
+Flor Calabaza (Artillero)
+Flor Calabaza (Artillero)
+Casco Pescado
+Gorro Pescado
+Casco Escarabajo
+Gorro Escarabajo
+Casco Mariposa
+Gorro Mariposa
+Kabuto Yamato
+Sombrero Mutsu
+Hachigane Hyuga
+Hachigane Amagi
+Cabeza Gagua
+Capucha Zuwaro
+Boina Zuwaro
+Cabeza Jaggi
+Cabeza Bullfango
+Cabeza Calavera
+Toalla Yuami
+Casco Bellota
+Ojos penetrantes
+Kasa Yukumo・Cielo
+Kasa Yukumo・Tierra
+Casco Cuero S
+Gorro Cuero S
+Casco Cota Malla S
+Gorro Malla S
+Casco Cazador S
+Gorro Cazador S
+Casco Hueso S
+Gorro Hueso S
+Casco Aleación S
+Gorro Aleación S
+Sombrero Bnahabra S
+Gorro Bnahabra S
+Casco Rhenoplos S
+Gorro Rhenoplos S
+Casco Jaggi S
+Gorro Jaggi S
+Casco Aoashira S
+Gorro Aoashira S
+Casco Furogi S
+Gorro Furogi S
+Casco Urukususu S
+Gorro Urukususu S
+Casco Qurupeco S
+Gorro Qurupeco S
+Casco Ludroth S
+Gorro Ludroth S
+Casco Barroth S
+Gorro Barroth S
+Casco Lingote S
+Gorro Lingote S
+Casco Baggi S
+Gorro Baggi S
+Casco Rangurotora S
+Gorro Rangurotora S
+Casco Rathian S
+Gorro Rathian S
+Casco Hapuru S
+Gorro Hapuru S
+Casco Gigginox S
+Gorro Gigginox S
+Casco Naruga S
+Gorro Naruga S
+Casco Barioth S
+Gorro Barioth S
+Casco Rathalos S
+Gorro Rathalos S
+Casco Uragaan S
+Gorro Uragaan S
+Casco Dober
+Gorro Dober
+Casco Jinouga S
+Gorro Jinouga S
+Casco Diablos S
+Gorro Diablos S
+Casco Tigrex S
+Gorro Tigrex S
+Casco Agnaktor S
+Gorro Agnaktor S
+Casco Doboru S
+Gorro Doboru S
+Casco Qurupeco U
+Gorro Qurupeco U
+Casco Ludroth U
+Gorro Ludroth U
+Casco Barroth U
+Gorro Barroth U
+Casco Gigginox U
+Gorro Gigginox U
+Casco Naruga U
+Gorro Naruga U
+Casco Barioth U
+Gorro Barioth U
+Casco Uragaan U
+Gorro Uragaan U
+Casco Diablos U
+Gorro Diablos U
+Casco Tigrex U
+Gorro Tigrex U
+Casco Agnaktor U
+Gorro Agnaktor U
+Casco Luna Dorada
+Gorro Luna Dorada
+Casco Sol Plateado
+Gorro Sol Plateado
+Casco Vangis
+Gorro Vangis
+Cubrecabeza Soldado (Maestro Espada)
+Cubrecabeza Soldado (Artillero)
+Gorro Gremio S
+Sombrero Gremio S
+Gorro Colegiala S
+Birrete Colegiala S
+Flor Calabaza S (Maestro Espada)
+Flor Calabaza S (Maestro Espada)
+Flor Calabaza S (Artillero)
+Flor Calabaza S (Artillero)
+Casco Pescado S
+Gorro Pescado S
+Casco Escarabajo S
+Gorro Escarabajo S
+Casco Mariposa S
+Gorro Mariposa S
+Paño cabeza Dianthus
+Paño cabeza Kikyo
+Casco Damasco
+Gorro Damasco
+Kabuto Yamato・Supr.
+Kabuto Mutsu・Supr
+Hachigane Hyuga・Spr
+Hachigane Amagi・Spr
+Másc. Akantor oscur.
+Colmillo Akan. oscu.
+Máscara Ukanlos
+Colmillo Ukanlos
+Sapiencia Escadora
+Sajesu Escadora
+Corona Tormenta
+Corona Cielo Azul
+Mascara Gagua S
+Cabeza Gagua S
+Capucha Zuwaro S
+Boina Zuwaro S
+Mascara Jaggi S
+Cabeza Jaggi S
+Mascara Bullfango S
+Cabeza Bullfango S
+Cara calavera S
+Cabeza calavera S
+Parche Rey Wyvern
+Toalla de Lujo Yuami
+Casco Bellota S
+Gorro Bellota S
+Piercing Trinidad (Cabeza)
+Gafas sombrias
+Sombrero Jolly Roger
+Gorro de Jolly Roger
+Mascara de Snake
+Mascara Snake
+Mascara The Boss (Maestro Espada)
+Mascara The Boss (Artillero)
+Sombrero tej. UNIQLO
+Audifonos UNIQLO
+Piercing Espada
+Piercing Artillería

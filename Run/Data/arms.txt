@@ -1,0 +1,213 @@
+﻿#engname,名前,"性別(0=両,1=男,2=女)","タイプ(0=両方,1=剣士,2=ガンナー)",レア度,スロット数,入手時期／HR（99=集会場入手不可）,入手時期／村☆（99=村入手不可）,初期防御力,最終防御力,火耐性,水耐性,氷耐性,雷耐性,龍耐性,スキル系統1,スキル値1,スキル系統2,スキル値2,スキル系統3,スキル値3,スキル系統4,スキル値4,スキル系統5,スキル値5,生産素材1,個数,生産素材2,個数,生産素材3,個数,生産素材4,個数
+Yukumo Armband,ユクモノコテ,0,0,1,1,1,1,1,21,0,0,0,3,0,Protection,2,Whim,2,Expert,1,,,,,Yukumo Wood,2,Ivy,1,,,,,
+Leather Vambraces,レザーグラブ,0,0,1,1,1,1,1,21,-1,0,0,0,1,HiSpdGathr,3,Gathering,3,Whim,1,,,,,Warm Pelt,2,,,,,,,
+Chain Vambraces,チェーングラブ,0,0,1,1,1,1,2,22,2,1,1,-2,0,Health,4,Combo Rate,1,Shot Mix,2,,,,,Iron Ore,1,Yukumo Wood,2,,,,,
+Hunter's Vambraces,ハンターアーム,0,1,1,1,1,1,6,25,0,1,0,-4,0,Huntsman,2,Psychic,3,SpeedSetup,2,Poison,-2,,,Earth Crystal,1,Jaggi Scale,2,Ivy,1,,,
+Hunter's Guards,ハンターガード,0,2,1,1,1,1,3,16,1,2,0,-2,1,Huntsman,2,Psychic,3,SpeedSetup,2,Poison,-2,,,Earth Crystal,1,Jaggi Scale,2,Ivy,1,,,
+Bone Vambraces,ボーンアーム,0,1,1,1,1,2,8,27,2,0,-2,-1,0,Horn,2,Gathering,4,KO,1,Sleep,-2,,,Sm Monster Bone,3,Mystery Bone,3,Sharp Fang,2,,,
+Bone Guards,ボーンガード,0,2,1,1,1,2,4,17,4,0,-1,0,0,Horn,4,Gathering,1,KO,2,Sleep,-2,,,Sm Monster Bone,3,Mystery Bone,3,Sharp Fang,2,,,
+Alloy Vambraces,アロイアーム,0,1,1,1,1,2,8,27,-1,1,-2,-2,-1,WindPress,1,Expert,4,Sharpener,1,Gathering,-3,,,Machalite Ore,2,Bealite Ore,2,Iron Ore,4,,,
+Alloy Guards,アロイガード,0,2,1,1,1,2,4,17,0,2,-1,-1,0,PelletS Up,2,Reload Spd,2,PelletSAdd,3,Gathering,-2,,,Machalite Ore,2,Bealite Ore,2,Iron Ore,4,,,
+Bnahabra Gloves,ブナハグローブ,0,1,2,2,1,2,10,29,-5,-2,-2,2,4,Status,1,Sheathe,4,Sense,1,Attack,-1,,,Bnahabra Wing,3,Bnahabra Shell,2,Bnahabra Stingr,5,Killer Beetle,2
+Bnahabra Cuffs,ブナハカフス,0,2,2,2,1,2,5,18,-3,-1,-1,3,5,Status,1,Sheathe,3,Sense,1,Attack,-2,,,Bnahabra Wing,3,Bnahabra Shell,2,Bnahabra Stingr,5,Killer Beetle,2
+Rhenoplos Vambraces,リノプロアーム,0,1,2,1,1,3,10,29,2,-2,-2,-2,1,Will Recov,1,Gunnery,3,Ice Res,-1,Defense,4,,,Rhenoplos Shell,2,Med Mnster Bone,4,Ice Crystal,2,,,
+Rhenoplos Guards,リノプロガード,0,2,2,1,1,3,5,18,3,-1,-1,-1,2,Will Recov,1,Gunnery,2,Ice Res,-2,Defense,4,,,Rhenoplos Shell,2,Med Mnster Bone,4,Ice Crystal,2,,,
+Jaggi Vambraces,ジャギィアーム,0,1,2,1,1,2,12,31,-4,-2,-2,-2,1,Attack,3,Perception,2,Rec Speed,3,LastingPwr,-1,,,Grt Jaggi Claw,2,Grt Jaggi Hide,3,Jaggi Scale,2,Earth Crystal,2
+Jaggi Guards,ジャギィガード,0,2,2,1,1,2,6,19,-2,-1,-1,-1,2,Attack,3,Perception,2,Rec Speed,2,LastingPwr,-2,,,Grt Jaggi Claw,2,Grt Jaggi Hide,3,Jaggi Scale,2,Earth Crystal,2
+Aoashira Vamraces,アシラアーム,0,1,2,1,1,1,12,31,-3,1,-2,-1,1,Gluttony,3,Defense,3,Stun,2,Paralysis,-1,,,Aoashira Shell,2,Aoashira Arm,1,Aoashira Pelt,2,Altarth Abdomen,2
+Aoashira Guards,アシラガード,0,2,2,1,1,1,6,19,-2,2,-1,0,3,Gluttony,2,Defense,3,Stun,3,Paralysis,-1,,,Aoashira Shell,2,Aoashira Arm,1,Aoashira Pelt,2,Altarth Abdomen,2
+Steel Vambraces,スティールアーム,0,1,2,0,1,3,14,33,2,0,2,-2,0,Defense,5,Sharpener,4,Antiseptic,2,,,,,Isisium Ore,4,Lightcrystal,1,Pelagicite Ore,2,Iron Ore,5
+Froggi Vambraces,フロギィアーム,0,1,2,1,1,3,14,33,2,-2,-4,1,0,Constitutn,2,Perception,3,Poison,2,Stun,-2,,,Grt Frggi Arm,2,Grt Froggi Hide,2,Froggi Scale,2,Carpenterbug,3
+Froggi Guards,フロギィガード,0,2,2,1,1,3,7,20,4,-1,-2,2,0,Constitutn,3,Perception,2,Poison,2,Stun,-2,,,Grt Frggi Arm,2,Grt Froggi Hide,2,Froggi Scale,2,Carpenterbug,3
+Urukusu Vambraces,ウルクアーム,0,1,2,1,2,3,14,33,-4,2,2,-2,1,Evasion,1,Cold Res,4,Heat Res,-2,Sheathe,2,,,Urukusu Claw,2,Urukusu Pelt,2,Urukusu Belly,1,Glossy Hide,4
+Urukusu Guards,ウルクガード,0,2,2,1,2,3,7,20,-2,3,4,-1,3,Evasion,2,Cold Res,3,Heat Res,-2,Sheathe,2,,,Urukusu Claw,2,Urukusu Pelt,2,Urukusu Belly,1,Glossy Hide,4
+Qurupeco Vambraces,ペッコアーム,0,1,2,1,1,3,12,31,2,-2,-4,-1,2,Wide Area,1,Psychic,4,Rec Level,2,Eating,-2,,,Flintstone,1,Qurupeco Feathr,2,Qurupeco Scale,2,Thunderbug,2
+Qurupeco Guards,ペッコガード,0,2,2,1,1,3,6,19,4,-1,-3,0,4,Wide Area,2,Psychic,3,Rec Level,2,Eating,-2,,,Flintstone,1,Qurupeco Feathr,2,Qurupeco Scale,2,Thunderbug,2
+Ludroth Vambraces,ルドロスアーム,0,1,2,1,1,3,14,33,-4,2,-2,-2,1,Stamina,1,Hunger,2,ThunderRes,-2,FatigueAtk,4,,,RoyalLudrothClw,1,RoyalLudrothScl,2,Spongy Hide,2,Aqua Sac,2
+Ludroth Guards,ルドロスガード,0,2,2,1,1,3,7,20,-2,4,-1,-1,2,Stamina,1,Hunger,2,ThunderRes,-2,FatigueAtk,4,,,RoyalLudrothClw,1,RoyalLudrothScl,2,Spongy Hide,2,Aqua Sac,2
+Barroth Vambraces,ボロスアーム,0,1,2,1,1,3,16,35,-4,4,-3,2,0,Guard,1,KO,4,Constitutn,-1,Attack,3,,,Barroth Claw,2,Barroth Shell,2,Fertile Mud,2,Rhenoplos Shell,3
+Barroth Guards,ボロスガード,0,2,2,1,1,3,8,21,-4,4,-1,4,0,NormalS Up,3,Precision,2,Constitutn,-1,Attack,3,,,Barroth Claw,2,Barroth Shell,2,Fertile Mud,2,Rhenoplos Shell,3
+Ingot Vambraces,インゴットアーム,0,1,2,1,2,3,20,39,-2,-2,-2,1,0,WindPress,1,Thundr Atk,4,Whim,-1,Quake Res,3,,,Dragonite Ore,2,Lightcrystal,2,Bealite Ore,2,Machalite Ore,5
+Ingot Guards,インゴットガード,0,2,2,1,2,3,10,23,-1,-1,-1,2,0,PelletS Up,1,Thundr Atk,4,Whim,-1,PierceSAdd,3,,,Dragonite Ore,2,Lightcrystal,2,Bealite Ore,2,Machalite Ore,5
+Baggi Vambraces,バギィアーム,0,1,2,1,2,4,16,35,-4,-1,2,-1,1,Attack,3,Ice Attack,1,Rec Speed,4,Fire Res,-1,,,Grt Baggi Claw,2,Grt Baggi Hide,3,Baggi Hide,2,Isisium Ore,2
+Baggi Guards,バギィガード,0,2,2,1,2,4,8,21,-2,0,4,0,2,Attack,1,Ice Attack,4,Rec Speed,2,Fire Res,-2,,,Grt Baggi Claw,2,Grt Baggi Hide,3,Baggi Hide,2,Isisium Ore,2
+Ranguro Vambraces,ラングロアーム,0,1,2,0,2,4,16,35,2,-4,-2,-1,2,Evasion,4,Fire Res,2,Cold Res,-1,Quake Res,4,,,Rangurotora Clw,2,Rangrtora Belly,2,Giant Bone,2,Uroktor Scale,4
+Ranguro Guards,ラングロガード,0,2,2,0,2,4,8,21,4,-2,-1,0,4,Evasion,2,Fire Res,4,Cold Res,-1,Shot Mix,4,,,Rangurotora Clw,2,Rangrtora Belly,2,Giant Bone,2,Uroktor Scale,4
+Rathian Vambraces,レイアアーム,0,1,2,0,2,4,18,37,2,0,0,-2,-4,Health,2,Protection,3,Fire Atk,4,Rec Speed,-2,,,Fire Wyvern Clw,2,Rathian Shell,2,Rathian Spike,1,Dragonite Ore,3
+Rathian Guards,レイアガード,0,2,2,0,2,4,9,22,4,0,1,-1,-3,Health,3,Protection,2,Fire Atk,4,Rec Speed,-2,,,Fire Wyvern Clw,2,Rathian Shell,2,Rathian Spike,1,Dragonite Ore,3
+Hapuru Vambraces,ハプルアーム,0,1,2,1,2,4,18,37,2,-1,-3,-2,0,Eating,4,Water Atk,1,Gluttony,3,Hunger,-1,,,Hapurubokka Clw,2,Hapurubokka Shl,2,Brilliant Fluid,4,Altaroth Jaw,3
+Hapuru Guards,ハプルガード,0,2,2,1,2,4,9,22,4,0,-2,-1,0,Eating,4,Water Atk,1,Gluttony,3,Hunger,-1,,,Hapurubokka Clw,2,Hapurubokka Shl,2,Brilliant Fluid,4,Altaroth Jaw,3
+Nebula Vambraces,ネブラアーム,0,1,2,1,2,4,18,37,-4,0,3,3,-2,Status,1,ThunderRes,3,Stun,3,Health,-2,,,Gigginox Hide,4,Gigginox Claw,1,Poison Gland,3,Lg Monster Bone,3
+Nebula Guards,ネブラガード,0,2,2,1,2,4,9,22,-2,0,4,4,-1,Status,1,ThunderRes,2,Stun,3,Health,-3,,,Gigginox Hide,4,Gigginox Claw,1,Poison Gland,3,Lg Monster Bone,3
+Narga Vambraces,ナルガアーム,0,1,3,2,2,5,20,39,-3,1,0,-4,-1,Evade Dist,2,Will Recov,2,Sense,2,Attack,-1,,,Nargacuga Wing,3,Narga Scale,3,Narga Marrow,1,Aoashira Pelt,6
+Narga Guards,ナルガガード,0,2,3,2,2,5,10,23,-1,3,1,-2,0,Evade Dist,2,Will Recov,1,Sense,3,Attack,-1,,,Nargacuga Wing,3,Narga Scale,3,Narga Marrow,1,Aoashira Pelt,6
+Barioth Vambraces,ベリオアーム,0,1,3,0,2,5,20,39,-4,1,2,-3,-1,Stamina,2,Constitutn,4,Ice Attack,3,Will Recov,-2,,,Barioth Claw,1,Barioth Shell,3,Frost Sac,4,Glossy Hide,6
+Barioth Guards,ベリオガード,0,2,3,0,2,5,10,23,-2,2,4,-1,0,Stamina,1,Constitutn,3,Ice Attack,5,Will Recov,-2,,,Barioth Claw,1,Barioth Shell,3,Frost Sac,4,Glossy Hide,6
+Rathalos Vambraces,レウスアーム,0,1,3,2,3,5,22,41,2,-1,-1,-2,-4,Debilitate,2,Attack,2,Fire Atk,1,Rec Level,-2,,,Rathalos Tail,1,Fire Wyvern Clw,1,FireWyvrnMarrow,2,Dragonite Ore,3
+Rathalos Guards,レウスガード,0,2,3,2,3,5,11,24,4,0,0,-1,-2,Debilitate,2,Attack,1,Fire Atk,2,Rec Level,-2,,,Rathalos Tail,1,Fire Wyvern Clw,1,FireWyvrnMarrow,2,Dragonite Ore,3
+Uragaan Vambraces,ガンキンアーム,0,1,3,2,2,5,22,41,2,-5,-2,1,-3,PunishDraw,2,Defense,3,Fire Res,1,Water Res,-1,,,Uragaan Scale,3,Uragaan Jaw,1,Magma Shard,3,Fire Stone,1
+Uragaan Guards,ガンキンガード,0,2,3,2,2,5,11,24,4,-4,-1,2,-2,PierceS Up,2,Defense,1,Fire Res,2,Water Res,-2,,,Uragaan Scale,3,Uragaan Jaw,1,Magma Shard,3,Fire Stone,1
+Jinouga Vambraces,ジンオウアーム,0,1,3,1,3,5,22,41,-1,-2,-3,3,0,Awaken,2,Thundr Atk,3,Sharpness,3,Sense,-1,,,Jinouga Claw,3,Jinouga Plate,1,Jinouga Pelt,2,Mega Thunderbug,2
+Jinouga Guards,ジンオウガード,0,2,3,1,3,5,11,24,0,-1,-1,5,0,Awaken,2,Thundr Atk,3,NormalS Up,3,Sense,-1,,,Jinouga Claw,3,Jinouga Plate,1,Jinouga Pelt,2,Mega Thunderbug,2
+Diablos Vambraces,ディアブロアーム,0,1,3,2,3,6,24,43,2,-1,-3,-1,-1,Crit Draw,2,FatigueAtk,1,Quake Res,1,Status,-3,,,Blos Fang,3,Diablos Marrow,1,Twisted Horn,2,Rhenoplos Shell,3
+Diablos Guards,ディアブロガード,0,2,3,2,3,6,12,25,4,0,-2,0,0,PierceS Up,1,NormalSAdd,1,FatigueAtk,4,Status,-1,,,Blos Fang,3,Diablos Marrow,1,Twisted Horn,2,Rhenoplos Shell,3
+Tigrex Vambraces,レックスアーム,0,1,3,0,3,6,24,43,2,-1,0,-4,-2,HearProtct,3,Psychic,4,Gluttony,1,Protection,-3,,,Tigrex Fang,4,Tigrex Scale,3,Tigrex Claw,4,Grt Jaggi Hide,2
+Tigrex Guards,レックスガード,0,2,3,0,3,6,12,25,3,0,0,-2,-1,HearProtct,3,Psychic,3,Gluttony,2,Protection,-3,,,Tigrex Fang,4,Tigrex Scale,3,Tigrex Claw,4,Grt Jaggi Hide,2
+Agnaktor Vambraces,アグナアーム,0,1,3,2,2,5,24,43,4,-4,-2,0,-4,Guard,2,Sharpness,1,Expert,1,Potential,-3,,,Uroktor Scale,8,Med Mnster Bone,4,Magma Shard,8,Fire Stone,1
+Agnaktor Guards,アグナガード,0,2,3,2,2,5,12,25,5,-2,-1,0,-2,NormalS Up,1,PierceSAdd,1,Precision,2,Potential,-3,,,Uroktor Scale,8,Med Mnster Bone,4,Magma Shard,8,Fire Stone,1
+Doboru Vambraces,ドボルアーム,0,1,3,1,3,6,24,43,-3,1,-2,-2,0,Slam,3,Potential,1,Attack,4,Expert,-1,,,Doboru Shell,4,Doboru Tail,2,Mossy Carapace,4,Bulldrome Hide,3
+Doboru Guards,ドボルガード,0,2,3,1,3,6,12,25,-2,3,-1,-1,0,Slam,3,Potential,3,Recoil,1,Expert,-2,,,Doboru Shell,4,Doboru Tail,2,Mossy Carapace,4,Bulldrome Hide,3
+Guild Bard Vambraces,ギルドバードアーム,1,1,3,0,3,5,20,39,0,0,0,0,0,Rewards,4,Perception,2,Wide Area,3,Fate,-2,,,Commendation,1,HotSpringTicket,3,Hercudrome,5,Uragaan Shield,2
+Guild Bard Gloves,ギルドバードカフス,1,2,3,0,3,5,10,23,0,0,0,0,0,Rewards,3,Perception,4,Wide Area,1,Fate,-3,,,Commendation,1,HotSpringTicket,3,Hercudrome,5,Uragaan Shield,2
+Scholar Gloves,スカラーグラブ,2,1,3,0,3,5,20,39,0,0,0,0,0,Rewards,4,Perception,2,Wide Area,3,Fate,-2,,,Commendation,1,HotSpringTicket,3,Hercudrome,5,Uragaan Shield,2
+Scholar Cuffs,スカラーカフス,2,2,3,0,3,5,10,23,0,0,0,0,0,Rewards,3,Perception,4,Wide Area,1,Fate,-3,,,Commendation,1,HotSpringTicket,3,Hercudrome,5,Uragaan Shield,2
+Nightmare Lurama,マギュルラーマ,0,1,3,1,1,2,16,35,-4,1,2,0,0,FastCharge,3,LastingPwr,2,SpeedSetup,3,Guard,-1,,,Pepipo Pumpkin,2,Killer Beetle,2,Spikeberry,10,Hot Pepper,10
+Nightmare Lurama,マギュルラーマ,0,1,3,1,1,2,16,35,-4,1,2,0,0,FastCharge,3,LastingPwr,2,SpeedSetup,3,Guard,-1,,,Pepipo Pumpkin,2,Killer Beetle,2,Spikeberry,10,Hot Pepper,10
+Nightmare Luast,マギュルアスト,0,2,3,1,1,2,8,21,-2,2,4,0,0,FastCharge,2,LastingPwr,3,SpeedSetup,2,Precision,-2,,,Pepipo Pumpkin,2,Killer Beetle,2,Spikeberry,10,Hot Pepper,10
+Nightmare Luast,マギュルアスト,0,2,3,1,1,2,8,21,-2,2,4,0,0,FastCharge,2,LastingPwr,3,SpeedSetup,2,Precision,-2,,,Pepipo Pumpkin,2,Killer Beetle,2,Spikeberry,10,Hot Pepper,10
+Viking Vambraces,ヴァイクアーム,0,1,3,2,1,3,14,33,0,3,-2,-2,0,Sharpness,1,Rec Speed,3,Water Res,1,Sharpener,-2,,,Armord Beakfish,2,Isisium Ore,2,Scatterfish,2,Large Fin,6
+Viking Guards,ヴァイクガード,0,2,3,2,1,3,7,20,0,5,-4,-1,0,NormalS Up,2,Rec Speed,2,Water Res,1,Reload Spd,-2,,,Armord Beakfish,2,Isisium Ore,2,Scatterfish,2,Large Fin,6
+Rouage Mano,ロワーガマーノ,1,1,3,1,3,3,18,37,-5,0,-1,3,1,HearProtct,3,Expert,4,ThunderRes,1,Protection,-1,,,Swallowtail,1,Hercudrome,1,Carpenterbug,5,Bitterbug,10
+Rouage Brasso,ロワーガブラッソ,1,2,3,1,3,3,9,22,-4,0,0,5,3,HearProtct,3,Expert,3,ThunderRes,1,Protection,-2,,,Swallowtail,1,Hercudrome,1,Carpenterbug,5,Bitterbug,10
+Falmer Mano,ファルメルマーノ,2,1,3,1,3,3,18,37,-5,0,-1,3,1,HearProtct,3,Expert,4,ThunderRes,1,Protection,-1,,,Swallowtail,1,Hercudrome,1,Carpenterbug,5,Bitterbug,10
+Falmer Brasso,ファルメルブラッソ,2,2,3,1,3,3,9,22,-4,0,0,5,3,HearProtct,3,Expert,3,ThunderRes,1,Protection,-2,,,Swallowtail,1,Hercudrome,1,Carpenterbug,5,Bitterbug,10
+Atea Vambraces,アーティアアーム,0,1,3,0,3,3,20,39,0,-4,2,-4,3,Fencing,5,Guard Up,1,Sharpener,-5,,,,,Rustshard,2,Lightcrystal,2,Earth Crystal,10,Stone,16
+Atea Guards,アーティアガード,0,2,3,0,3,3,10,23,0,-2,4,-2,5,Rapid Fire,5,Recoil,1,Reload Spd,-5,,,,,Rustshard,2,Lightcrystal,2,Earth Crystal,10,Stone,16
+Yamato Bracers,大和【篭手】,1,1,3,0,3,6,26,45,3,0,-3,0,-3,Artisan,3,FastCharge,3,Expert,3,Sharpness,-2,,,Jhen Mohran Scl,6,Jhen Mhran Fang,3,Jhen Mohran Arm,2,Twisted Horn,1
+Courtier Bracers,陸奥【篭手】,1,2,3,0,3,6,13,26,5,1,-2,1,-2,Loading,3,FastCharge,4,Expert,2,Recoil,-2,,,Jhen Mohran Scl,6,Jhen Mhran Fang,3,Jhen Mohran Arm,2,Twisted Horn,1
+Solar Bracers,日向【篭手】,2,1,3,0,3,6,26,45,3,0,-3,0,-3,Artisan,3,FastCharge,3,Expert,3,Sharpness,-2,,,Jhen Mohran Scl,6,Jhen Mhran Fang,3,Jhen Mohran Arm,2,Twisted Horn,1
+Divine Bracers,天城【篭手】,2,2,3,0,3,6,13,26,5,1,-2,1,-2,Loading,3,FastCharge,4,Expert,2,Recoil,-2,,,Jhen Mohran Scl,6,Jhen Mhran Fang,3,Jhen Mohran Arm,2,Twisted Horn,1
+Sweatbands,ユアミリスト,0,0,3,1,3,5,8,28,-2,2,-2,-2,0,Fate,3,LastingPwr,2,Attack,-4,,,,,HotSpringTicket,4,Drink Ticket,2,Yukumo Ticket,1,Commendation,1
+Yukumo Armband [Ten],ユクモノコテ・天,0,1,4,2,4,6,28,60,0,0,0,3,0,Protection,3,Whim,1,Rec Level,2,Sharpener,3,,,Yukumo Wood+,2,Yukumo Wood,3,Gagua Feather,3,,,
+Yukumo Armband [Chi],ユクモノコテ・地,0,2,4,2,4,6,14,35,0,0,0,4,0,Protection,3,Whim,2,Rec Level,1,Precision,3,,,Yukumo Wood+,2,Yukumo Wood,3,Gagua Feather,3,,,
+Leather Vambraces S,レザーＳアーム,0,1,4,1,4,99,28,60,-1,0,0,0,1,HiSpdGathr,4,Gathering,1,Whim,4,Hunger,2,,,High Qualty Plt,2,Warm Pelt,2,Glossy Hide,4,,,
+Leather Guards S,レザーＳガード,0,2,4,1,4,99,14,35,0,0,0,0,2,HiSpdGathr,1,Gathering,3,Whim,4,Hunger,3,,,High Qualty Plt,2,Warm Pelt,2,Glossy Hide,4,,,
+Chain Vambraces S,チェーンＳアーム,0,1,4,2,4,6,28,60,2,1,1,-2,0,Health,4,Combo Rate,4,Shot Mix,1,,,,,Carbalite Ore,2,Isisium Ore,2,Earth Crystal,2,,,
+Chain Guards S,チェーンＳガード,0,2,4,2,4,6,14,35,3,2,2,-1,0,Health,3,Combo Rate,4,NormalSAdd,2,,,,,Carbalite Ore,2,Isisium Ore,2,Earth Crystal,2,,,
+Hunter's Vambraces S,ハンターＳアーム,0,1,4,1,4,99,30,62,0,1,0,-4,0,Huntsman,2,SpeedSetup,4,Poison,-1,Perception,4,,,Depthlite Ore,2,Jaggi Scale+,2,Earth Crystal,2,Lg Monster Bone,2
+Hunter's Guards S,ハンターＳガード,0,2,4,1,4,99,15,36,1,2,0,-2,1,Huntsman,1,SpeedSetup,4,Poison,-2,Perception,4,,,Depthlite Ore,2,Jaggi Scale+,2,Earth Crystal,2,Lg Monster Bone,2
+Bone Vambraces S,ボーンＳアーム,0,1,4,2,4,99,30,62,2,0,-2,-1,0,Rec Level,2,KO,1,Sleep,-3,Horn,3,,,Bird Wyvrn Bone,2,Lg Monster Bone,1,Sharp Fang,5,,,
+Bone Guards S,ボーンＳガード,0,2,4,2,4,99,15,36,4,0,-1,0,0,Rec Level,2,KO,3,Sleep,-1,Horn,3,,,Bird Wyvrn Bone,2,Lg Monster Bone,1,Sharp Fang,5,,,
+Alloy Vambraces S,アロイＳアーム,0,1,4,1,4,99,30,62,-1,1,-2,-2,-1,WindPress,3,Expert,5,Sharpener,2,Gathering,-1,,,Depthlite Ore,2,Carbalite Ore,3,Machalite Ore,7,Earth Crystal,7
+Alloy Guards S,アロイＳガード,0,2,4,1,4,99,15,36,0,2,-1,-1,0,PelletS Up,1,PelletSAdd,2,Expert,5,Gathering,-3,,,Depthlite Ore,2,Carbalite Ore,3,Machalite Ore,7,Earth Crystal,7
+Bnahabra Gloves S,ブナハＳグローブ,0,1,4,1,4,99,32,64,-5,-2,-2,2,4,Status,3,Fencing,2,Paralysis,2,Attack,-4,,,Bnahabra Carpce,2,Bnahabra Wing,4,Quality Abdomen,2,Monster Fluid,3
+Bnahabra Cuff S,ブナハＳカフス,0,2,4,1,4,99,16,37,-3,-1,-1,3,5,Status,1,Reload Spd,5,Paralysis,1,Attack,-4,,,Bnahabra Carpce,2,Bnahabra Wing,4,Quality Abdomen,2,Monster Fluid,3
+Rhenoplos Vambraces S,リノプロＳアーム,0,1,4,1,4,99,32,64,2,-2,-2,-2,1,Will Recov,3,Gunnery,4,Mud/Snow,2,Stun,-2,,,Rhenoplos Crpce,3,Med Mnster Bone,4,Ice Crystal,3,,,
+Rhenoplos Guards S,リノプロＳガード,0,2,4,1,4,99,16,37,3,-1,-1,-1,2,Will Recov,3,Gunnery,4,Precision,1,Stun,-3,,,Rhenoplos Crpce,3,Med Mnster Bone,4,Ice Crystal,3,,,
+Jaggi Vambraces S,ジャギィＳアーム,0,1,4,2,4,99,35,67,-4,-2,-2,-2,1,Attack,4,Expert,1,Rec Speed,2,LastingPwr,-2,,,Grt Jaggi Claw+,4,Regal Frill,1,BrdWyvern Stone,1,Pelagicite Ore,2
+Jaggi Guards S,ジャギィＳガード,0,2,4,2,4,99,18,39,-2,-1,-1,-1,2,Attack,4,Expert,1,Rec Speed,1,LastingPwr,-3,,,Grt Jaggi Claw+,4,Regal Frill,1,BrdWyvern Stone,1,Pelagicite Ore,2
+Grove Vambraces S,アシラＳアーム,0,1,4,1,4,99,35,67,-3,1,-2,-1,1,Protection,3,Defense,3,Stun,3,Paralysis,-2,,,Aoashira Carpce,3,Aoashira Arm+,3,Aoashira Pelt,3,Quality Abdomen,2
+Grove Guards S,アシラＳガード,0,2,4,1,4,99,18,39,-2,2,-1,0,3,Protection,3,Defense,2,Stun,3,Paralysis,-3,,,Aoashira Carpce,3,Aoashira Arm+,3,Aoashira Pelt,3,Quality Abdomen,2
+Steel Vambraces S,スティールＳアーム,0,1,4,2,5,99,41,71,2,0,2,-2,0,Guard,6,Sharpener,2,Antiseptic,1,,,,,Gracium Ore,1,Depthlite Ore,3,Dragonite Ore,5,Earth Crystal,10
+Froggi Vambraces S,フロギィＳアーム,0,1,4,1,4,99,38,70,2,-2,-4,1,0,Constitutn,2,Eating,4,Defense,-1,Status,4,,,Grt Frggi Arm+,3,Grt Frggi Hide+,3,Toxin Sac,4,Depthlite Ore,1
+Froggi Guards S,フロギィＳガード,0,2,4,1,4,99,20,41,4,-1,-2,2,0,Constitutn,2,Eating,2,Defense,-3,Status,4,,,Grt Frggi Arm+,3,Grt Frggi Hide+,3,Toxin Sac,4,Depthlite Ore,1
+Urukusu Vambraces S,ウルクＳアーム,0,1,4,1,5,99,38,70,-4,2,2,-2,1,Evasion,4,Attack,2,Fire Res,-2,Ice Attack,3,,,Urukusu Claw+,2,Urukusu Pelt,3,Urksu Hrd Belly,3,King Scarab,2
+Urukusu Guards S,ウルクＳガード,0,2,4,1,5,99,20,41,-2,3,4,-1,3,Evasion,3,Attack,2,Fire Res,-3,Ice Attack,3,,,Urukusu Claw+,2,Urukusu Pelt,3,Urksu Hrd Belly,3,King Scarab,2
+Qurupeco Vambraces S,ペッコＳアーム,0,1,5,0,4,99,35,67,2,-2,-4,-1,2,Wide Area,5,Psychic,5,Fire Atk,1,Ice Res,-2,,,Qurupeco Scale+,3,Flintstone,1,Qurupeco Feathr,4,King Scarab,2
+Qurupeco Guards S,ペッコＳガード,0,2,5,0,4,99,18,39,4,-1,-3,0,4,Wide Area,5,Psychic,4,Fire Atk,1,Ice Res,-3,,,Qurupeco Scale+,3,Flintstone,1,Qurupeco Feathr,4,King Scarab,2
+Ludroth Vambraces S,ルドロスＳアーム,0,1,5,1,4,99,38,70,-4,2,-2,-2,1,Stamina,3,Water Atk,1,Stun,5,Thundr Atk,-2,,,RoyalLudrthClw+,3,RoyalLudrthScl+,4,Spongy Hide+,2,Hercudrome,5
+Ludroth Guards S,ルドロスＳガード,0,2,5,1,4,99,20,41,-2,4,-1,-1,2,Stamina,2,Water Atk,2,Stun,4,Thundr Atk,-3,,,RoyalLudrthClw+,3,RoyalLudrthScl+,4,Spongy Hide+,2,Hercudrome,5
+Barroth Vambraces S,ボロスＳアーム,0,1,5,2,4,99,41,71,-4,4,-3,2,0,Guard,1,Constitutn,3,Hunger,-2,Attack,3,,,Barroth Claw+,4,Barroth Carapce,2,Monster Bone+,2,Jaggi Scale,4
+Barroth Guards S,ボロスＳガード,0,2,5,2,4,99,22,41,-4,4,-1,4,0,NormalS Up,1,Recoil,2,Hunger,-3,Attack,3,,,Barroth Claw+,4,Barroth Carapce,2,Monster Bone+,2,Jaggi Scale,4
+Ingot Vambraces S,インゴットＳアーム,0,1,5,2,5,99,47,77,-2,-2,-2,1,0,WindPress,1,Expert,2,Sharpener,4,Whim,-2,,,Union Ore,2,Gracium Ore,3,Depthlite Ore,2,Magma Shard,2
+Ingot Guards S,インゴットＳガード,0,2,5,2,5,99,26,45,-1,-1,-1,2,0,PelletS Up,2,PelletSAdd,2,Reload Spd,3,Whim,-2,,,Union Ore,2,Gracium Ore,3,Depthlite Ore,2,Magma Shard,2
+Baggi Vambraces S,バギィＳアーム,0,1,5,1,5,99,41,71,-4,-1,2,-1,1,Attack,2,Rec Level,3,Fire Res,-1,Ice Res,5,,,Grt Baggi Claw+,3,Grt Baggi Hide+,3,Coma Sac,4,Isisium Ore,4
+Baggi Guards S,バギィＳガード,0,2,5,1,5,99,22,41,-2,0,4,0,2,Attack,1,Rec Level,3,Fire Res,-2,Ice Res,5,,,Grt Baggi Claw+,3,Grt Baggi Hide+,3,Coma Sac,4,Isisium Ore,4
+Ranguro Vambraces S,ラングロＳアーム,0,1,5,2,5,99,41,71,2,-4,-2,-1,2,Evasion,4,Quake Res,1,Water Res,-1,Defense,3,,,Rangurtora Clw+,3,Torpor Sac,6,Stout Bone,3,Dragonite Ore,5
+Ranguro Guards S,ラングロＳガード,0,2,5,2,5,99,22,41,4,-2,-1,0,4,Evasion,3,NormalSAdd,1,Water Res,-2,Defense,3,,,Rangurtora Clw+,3,Torpor Sac,6,Stout Bone,3,Dragonite Ore,5
+Rathian Vambraces S,レイアＳアーム,0,1,5,1,5,99,44,74,2,0,0,-2,-4,Health,3,Fire Atk,6,Rec Speed,1,Water Atk,-1,,,Rathian Carapce,4,Fire Wyvern Clw,3,Rathian Spike,2,Firecell Stone,2
+Rathian Guards S,レイアＳガード,0,2,5,1,5,99,24,43,4,0,1,-1,-3,Health,3,Fire Atk,6,Rec Speed,1,Water Atk,-1,,,Rathian Carapce,4,Fire Wyvern Clw,3,Rathian Spike,2,Firecell Stone,2
+Hapuru Vambraces S,ハプルＳアーム,0,1,5,2,5,99,44,74,2,-1,-3,-2,0,Eating,4,Water Atk,1,Sheathe,3,Thundr Atk,-1,,,Hapurbokka Clw+,3,Hapurubokka Cpc,3,Chromatic Fluid,4,Grt Froggi Hide,5
+Hapuru Guards S,ハプルＳガード,0,2,5,2,5,99,24,43,4,0,-2,-1,0,Eating,5,Water Atk,1,Sheathe,1,Thundr Atk,-2,,,Hapurbokka Clw+,3,Hapurubokka Cpc,3,Chromatic Fluid,4,Grt Froggi Hide,5
+Nebula Vambraces S,ネブラＳアーム,0,1,5,0,5,99,44,74,-4,0,3,3,-2,Status,5,ThunderRes,5,Sharpness,2,Combo Rate,-1,,,Gigginox Hide+,5,Gigginox Claw+,2,Gigginox Claw,2,Gracium Ore,4
+Nebula Guards S,ネブラＳガード,0,2,5,0,5,99,24,43,-2,0,4,4,-1,Status,5,ThunderRes,5,PierceSAdd,1,Combo Rate,-2,,,Gigginox Hide+,5,Gigginox Claw+,2,Gigginox Claw,2,Gracium Ore,4
+Narga Vambraces S,ナルガＳアーム,0,1,5,1,5,99,47,77,-3,1,0,-4,-1,Evade Dist,3,Evasion,3,Sense,3,Stamina,-2,,,Nargacuga Wing+,3,Narga Scale+,5,Narga TailSpike,5,Zuwaropsu Hide+,5
+Narga Guards S,ナルガＳガード,0,2,5,1,5,99,26,45,-1,3,1,-2,0,Evade Dist,4,Evasion,1,Sense,4,Stamina,-2,,,Nargacuga Wing+,3,Narga Scale+,5,Narga TailSpike,5,Zuwaropsu Hide+,5
+Barioth Vambraces S,ベリオＳアーム,0,1,5,1,5,99,47,77,-4,1,2,-3,-1,Evasion,1,Constitutn,4,Ice Attack,5,Will Recov,-1,,,Barioth Claw+,2,Barioth Carapce,3,Barioth Pelt,4,Urksu Hrd Belly,3
+Barioth Guards S,ベリオＳガード,0,2,5,1,5,99,26,45,-2,2,4,-1,0,Evasion,1,Constitutn,4,Ice Attack,4,Will Recov,-2,,,Barioth Claw+,2,Barioth Carapce,3,Barioth Pelt,4,Urksu Hrd Belly,3
+Rathalos Vambraces S,レウスＳアーム,0,1,5,1,5,99,50,80,2,-1,-1,-2,-4,Debilitate,3,Sharpener,2,Rec Level,-2,Fire Atk,4,,,Rathalos Scale+,4,Fire Wyvern Clw,2,Rathalos Tail,1,Firecell Stone,2
+Rathalos Guards S,レウスＳガード,0,2,5,1,5,99,28,47,4,0,0,-1,-2,Debilitate,3,Rapid Fire,1,Rec Level,-3,Fire Atk,4,,,Rathalos Scale+,4,Fire Wyvern Clw,2,Rathalos Tail,1,Firecell Stone,2
+Uragaan Vambraces S,ガンキンＳアーム,0,1,5,0,5,99,50,80,2,-5,-2,1,-3,PunishDraw,3,Crit Draw,3,Defense,6,Water Res,-1,,,Uragaan Scale+,5,Uragaan Shield,5,Shrp Mnster Bne,3,Union Ore,3
+Uragaan Guards S,ガンキンＳガード,0,2,5,0,5,99,28,47,4,-4,-1,2,-2,PierceS Up,2,Recoil,3,Defense,5,Water Res,-3,,,Uragaan Scale+,5,Uragaan Shield,5,Shrp Mnster Bne,3,Union Ore,3
+Dober Vambraces,ドーベルアーム,0,1,6,3,6,99,50,80,-2,0,0,0,4,Dragon Atk,4,Evasion,1,Hunger,-1,Dragon Res,1,,,Ancnt Drgn Bone,3,Blk Tigrex Claw,3,EldrDragonBlood,2,Lg Monster Bone,5
+Dober Guards,ドーベルガード,0,2,6,3,6,99,28,47,-1,0,0,0,5,Dragon Atk,2,Evasion,2,Hunger,-2,Dragon Res,1,,,Ancnt Drgn Bone,3,Blk Tigrex Claw,3,EldrDragonBlood,2,Lg Monster Bone,5
+Jinouga Vambraces S,ジンオウＳアーム,0,1,5,0,6,99,53,81,-1,-2,-3,4,0,Awaken,5,Thundr Atk,2,Evade Dist,5,Sense,-1,,,Jinouga Claw+,5,LightningCarpce,4,Jinouga Pelt,3,Bulldrome Hide+,6
+Jinouga Guards S,ジンオウＳガード,0,2,5,0,6,99,30,47,0,-1,-1,5,0,Awaken,2,Thundr Atk,5,Evade Dist,4,Sense,-2,,,Jinouga Claw+,5,LightningCarpce,4,Jinouga Pelt,3,Bulldrome Hide+,6
+Diablos Vambraces S,ディアブロＳアーム,0,1,5,2,6,99,53,81,2,-1,-3,-1,-1,Crit Draw,3,Sheathe,1,Quake Res,2,Status,-3,,,Diablos Carapce,6,Blos Fang,5,Diablos Shell,6,Grt Frggi Arm,3
+Diablos Guards S,ディアブロＳガード,0,2,5,2,6,99,30,47,4,0,-2,0,0,PierceS Up,3,NormalSAdd,2,Sheathe,2,Status,-2,,,Diablos Carapce,6,Blos Fang,5,Diablos Shell,6,Grt Frggi Arm,3
+Tigrex Vambraces S,レックスＳアーム,0,1,5,2,6,99,53,81,2,-1,0,-4,-2,HearProtct,2,Stamina,1,Gluttony,4,Protection,-2,,,Tigrex Fang+,3,Tigrex Scale+,6,Hrd Mnster Bone,2,Grt Jaggi Hide,5
+Tigrex Guards S,レックスＳガード,0,2,5,2,6,99,30,47,3,0,0,-2,-1,HearProtct,2,Stamina,1,Gluttony,3,Protection,-3,,,Tigrex Fang+,3,Tigrex Scale+,6,Hrd Mnster Bone,2,Grt Jaggi Hide,5
+Agnaktor Vambraces S,アグナＳアーム,0,1,5,1,6,99,53,81,4,-4,-2,0,-4,Constitutn,2,Sharpness,2,Fire Atk,6,Water Atk,-1,,,Agnaktor Claw+,5,Agnaktor Carpce,5,Agnaktor Tail,1,Magma Shard,6
+Agnaktor Guards S,アグナＳガード,0,2,5,1,6,99,30,47,5,-2,-1,0,-2,NormalS Up,2,Fire Atk,5,Precision,1,Water Atk,-3,,,Agnaktor Claw+,5,Agnaktor Carpce,5,Agnaktor Tail,1,Magma Shard,6
+Doboru Vambraces S,ドボルＳアーム,0,1,5,2,6,99,53,81,-3,1,-2,-2,0,Slam,3,Attack,2,Expert,-2,Health,2,,,Doboru Carapace,6,Doboru Tail+,2,Mossy Carapace+,5,Zuwaropsu Hide+,6
+Doboru Guards S,ドボルＳガード,0,2,5,2,6,99,30,47,-2,3,-1,-1,0,Slam,3,Recoil,2,Expert,-1,Health,3,,,Doboru Carapace,6,Doboru Tail+,2,Mossy Carapace+,5,Zuwaropsu Hide+,6
+Qurupeco Vambraces U,ペッコＵアーム,0,1,6,3,5,99,38,70,-3,-1,-5,4,2,Wide Area,4,Eating,1,Thundr Atk,1,Ice Attack,-1,,,Piezo Crystal,3,Red Qurpeco Scl,3,Vibrant Down,2,Hercudrome,3
+Qurupeco Guards U,ペッコＵガード,0,2,6,3,5,99,20,41,-2,0,-3,5,3,Wide Area,4,Eating,1,Thundr Atk,1,Ice Attack,-1,,,Piezo Crystal,3,Red Qurpeco Scl,3,Vibrant Down,2,Hercudrome,3
+Ludroth Vambraces U,ルドロスＵアーム,0,1,6,1,4,99,41,71,-4,2,0,-2,1,Stamina,3,Status,5,Water Res,2,ThunderRes,-1,,,PurpRylLdrthClw,4,SpongyPurplHide,2,PurpRylLdrthScl,2,Hydro Sac,2
+Ludroth Guards U,ルドロスＵガード,0,2,6,1,4,99,22,41,-2,4,1,-1,2,Stamina,2,Status,5,Water Res,1,ThunderRes,-3,,,PurpRylLdrthClw,4,SpongyPurplHide,2,PurpRylLdrthScl,2,Hydro Sac,2
+Barroth Vambraces U,ボロスＵアーム,0,1,6,3,5,99,44,74,-5,2,3,-2,0,KO,1,Defense,4,Fire Atk,-1,FatigueAtk,1,,,Ice Barroth Clw,4,Ice Barroth Shl,2,Monster Bone+,3,Bulldrome Hide+,3
+Barroth Guards U,ボロスＵガード,0,2,6,3,5,99,24,43,-4,3,5,-1,0,PierceS Up,1,Ice Attack,1,Defense,4,Fire Atk,-1,,,Ice Barroth Clw,4,Ice Barroth Shl,2,Monster Bone+,3,Bulldrome Hide+,3
+Nebula Vambraces U,ネブラＵアーム,0,1,6,3,5,99,47,77,0,-4,3,4,-2,FastCharge,1,FatigueAtk,1,Ice Attack,-3,Stamina,2,,,ThndrGiggnoxClw,1,Horrific Maw,2,Shrp Mnster Bne,2,Gracium Ore,4
+Nebula Guards U,ネブラＵガード,0,2,6,3,5,99,26,45,0,-2,4,5,-1,FastCharge,2,FatigueAtk,1,Ice Attack,-2,Stamina,2,,,ThndrGiggnoxClw,1,Horrific Maw,2,Shrp Mnster Bne,2,Gracium Ore,4
+Narga Vambraces U,ナルガＵアーム,0,1,6,2,5,99,50,80,-3,1,0,-4,-1,Stamina,1,Will Recov,5,Constitutn,-1,Evasion,2,,,Grn Narga Wing,4,Green Narga Scl,5,Narga TailSpike,4,Aoashira Carpce,4
+Narga Guards U,ナルガＵガード,0,2,6,2,5,99,28,47,-1,3,1,-2,0,Stamina,1,Will Recov,4,Constitutn,-2,Evasion,2,,,Grn Narga Wing,4,Green Narga Scl,5,Narga TailSpike,4,Aoashira Carpce,4
+Barioth Vambraces U,ベリオＵアーム,0,1,6,1,5,99,50,80,2,1,-4,-3,0,Evade Dist,5,Constitutn,3,Sense,2,Evasion,-1,,,SandBariothClw,1,SandBariothShl,3,SandBariothPlt,4,Aoashira Pelt+,6
+Barioth Guards U,ベリオＵガード,0,2,6,1,5,99,28,47,4,2,-2,-1,0,Evade Dist,3,Constitutn,3,Sense,3,Evasion,-2,,,SandBariothClw,1,SandBariothShl,3,SandBariothPlt,4,Aoashira Pelt+,6
+Uragaan Vambraces U,ガンキンＵアーム,0,1,6,2,5,99,53,81,3,-5,-2,1,-3,Guard,5,Will Recov,1,BombStrUp,1,Dragon Res,-2,,,SteelUragaanScl,4,Uragaan Ruby,1,Magma Shard,5,Rangurtora Clw+,3
+Uragaan Guards U,ガンキンＵガード,0,2,6,2,5,99,30,47,5,-4,-1,2,-2,PelletS Up,1,BombStrUp,1,Dragon Res,-3,Reload Spd,4,,,SteelUragaanScl,4,Uragaan Ruby,1,Magma Shard,5,Rangurtora Clw+,3
+Diablos Vambraces U,ディアブロＵアーム,0,1,6,1,6,99,56,84,2,-1,-3,-1,-1,PunishDraw,3,KO,3,FatigueAtk,3,Dragon Atk,-2,,,Black Blos Shl,4,Blos Fang,5,Diablos Brnstm,1,Grt Jaggi Claw,4
+Diablos Guards U,ディアブロＵガード,0,2,6,1,6,99,32,49,4,0,-2,0,0,Recoil,5,Reload Spd,4,NormalSAdd,1,Dragon Atk,-1,,,Black Blos Shl,4,Blos Fang,5,Diablos Brnstm,1,Grt Jaggi Claw,4
+Tigrex Vambraces U,レックスＵアーム,0,1,6,2,6,99,56,84,2,-4,0,-2,-1,HearProtct,1,FastCharge,3,Psychic,3,Protection,-2,,,Blk Tigrex Fang,3,Blk Tigrex Scl,5,Hrd Mnster Bone,3,Uroktor Scale+,10
+Tigrex Guards U,レックスＵガード,0,2,6,2,6,99,32,49,4,-2,0,-1,0,HearProtct,1,FastCharge,1,Psychic,4,Protection,-3,,,Blk Tigrex Fang,3,Blk Tigrex Scl,5,Hrd Mnster Bone,3,Uroktor Scale+,10
+Agnaktor Vambraces U,アグナＵアーム,0,1,6,3,6,99,56,84,-4,2,3,-2,-4,Guard,1,Guard Up,1,Fire Atk,-3,Water Res,2,,,Ice Agnktor Clw,3,Ice Agnktor Shl,5,Wyvern Stone,1,Grt Baggi Claw+,3
+Agnaktor Guards U,アグナＵガード,0,2,6,3,6,99,32,49,-2,4,5,-1,-2,Reload Spd,1,PierceSAdd,1,Fire Atk,-3,Water Res,2,,,Ice Agnktor Clw,3,Ice Agnktor Shl,5,Wyvern Stone,1,Grt Baggi Claw+,3
+Golden Moon Braces,ゴールドルナアーム,0,1,7,0,6,99,56,84,2,-2,0,-4,3,Slam,4,Protection,2,Fate,5,ThunderRes,-2,,,Gld Rathian Cpc,5,Fire Wyvern Clw,3,Rathian Ruby,1,Union Ore,4
+Golden Moon Guards,ゴールドルナガード,0,2,7,0,6,99,32,49,4,-1,0,-3,4,Slam,3,Protection,3,Fate,4,ThunderRes,-3,,,Gld Rathian Cpc,5,Fire Wyvern Clw,3,Rathian Ruby,1,Union Ore,4
+Silver Sol Vambraces,シルバーソルアーム,0,1,7,3,6,99,56,84,2,-2,0,-4,3,Debilitate,2,Sharpness,1,Attack,2,Health,-2,,,Slvr RthlosTail,1,FireWyvrnBrnStm,2,Fire Wyvern Clw,4,Firecell Stone,3
+Silver Sol Guards,シルバーソルガード,0,2,7,3,6,99,32,49,4,-1,0,-3,4,Debilitate,2,NormalS Up,1,Attack,2,Health,-2,,,Slvr RthlosTail,1,FireWyvrnBrnStm,2,Fire Wyvern Clw,4,Firecell Stone,3
+Vangis Vambraces,バンギスアーム,0,1,7,2,6,99,59,86,0,0,1,-4,-4,Artisan,2,Eating,5,Ice Res,1,Sharpness,-1,,,Deviljho Scale,6,Deviljho Fang,5,Deviljho Drool,3,Narga Marrow,1
+Vangis Guards,バンギスガード,0,2,7,2,6,99,34,50,0,0,3,-2,-2,Loading,3,Eating,4,Ice Res,1,Recoil,-1,,,Deviljho Scale,6,Deviljho Fang,5,Deviljho Drool,3,Narga Marrow,1
+Ranger Handguards,城塞遊撃隊【手甲】,0,1,5,0,6,99,47,77,0,0,0,0,0,Carving,3,Expert,4,Rec Level,2,Fate,-4,,,Jhen Mohran Cpc,9,Jhen Mohran Arm,1,Glacial Sac,4,Yukumo Ticket,3
+Scout Handguards,城塞弓撃隊【手甲】,0,2,5,0,6,99,26,45,0,0,0,0,0,Carving,3,Expert,3,Rec Level,4,Fate,-3,,,Jhen Mohran Cpc,9,Jhen Mohran Arm,1,Glacial Sac,4,Yukumo Ticket,3
+Guild Bard Braces S,ギルドバードＳアーム,1,1,5,2,6,99,44,74,0,0,0,0,0,Rewards,2,Perception,1,Wide Area,4,Fate,-2,,,Commendation G,1,HotSpringTicket,5,Rare Scarab,4,Clammy Thorax,3
+Guild Bard Guards S,ギルドバードＳカフス,1,2,5,2,6,99,24,43,0,0,0,0,0,Rewards,2,Perception,2,Wide Area,3,Fate,-2,,,Commendation G,1,HotSpringTicket,5,Rare Scarab,4,Clammy Thorax,3
+Scholar Gloves S,スカラーＳグラブ,2,1,5,2,6,99,44,74,0,0,0,0,0,Rewards,2,Perception,1,Wide Area,4,Fate,-2,,,Commendation G,1,HotSpringTicket,5,Rare Scarab,4,Clammy Thorax,3
+Scholar Cuffs S,スカラーＳカフス,2,2,5,2,6,99,24,43,0,0,0,0,0,Rewards,2,Perception,2,Wide Area,3,Fate,-2,,,Commendation G,1,HotSpringTicket,5,Rare Scarab,4,Clammy Thorax,3
+Nightmare Lurama S,マギュルＳラーマ,0,1,5,2,4,6,32,64,-4,1,2,0,0,FastCharge,2,Evasion,2,SpeedSetup,3,Guard,-2,,,King Scarab,4,Pepipo Pumpkin,5,Monster Broth,3,Hot Pepper,15
+Nightmare Lurama S,マギュルＳラーマ,0,1,5,2,4,6,32,64,-4,1,2,0,0,FastCharge,2,Evasion,2,SpeedSetup,3,Guard,-2,,,King Scarab,4,Pepipo Pumpkin,5,Monster Broth,3,Hot Pepper,15
+Nightmare Luast S,マギュルＳアスト,0,2,5,2,4,6,16,37,-2,2,4,0,0,FastCharge,2,Evasion,1,SpeedSetup,4,Precision,-2,,,King Scarab,4,Pepipo Pumpkin,5,Monster Broth,3,Hot Pepper,15
+Nightmare Luast S,マギュルＳアスト,0,2,5,2,4,6,16,37,-2,2,4,0,0,FastCharge,2,Evasion,1,SpeedSetup,4,Precision,-2,,,King Scarab,4,Pepipo Pumpkin,5,Monster Broth,3,Hot Pepper,15
+Viking Vambraces S,ヴァイクＳアーム,0,1,5,1,4,99,38,70,0,3,-2,-2,0,Sharpness,3,Sheathe,3,Water Atk,4,Sharpener,-1,,,Depthlite Ore,3,Armord Beakfish,4,Ancient Fish,3,Quality Fin,4
+Viking Guards S,ヴァイクＳガード,0,2,5,1,4,99,20,41,0,5,-4,-1,0,NormalS Up,4,Sheathe,1,Water Atk,4,Reload Spd,-2,,,Depthlite Ore,3,Armord Beakfish,4,Ancient Fish,3,Quality Fin,4
+Rouage Mano S,ロワーガＳマーノ,1,1,5,1,5,99,44,74,-5,0,-1,3,1,HearProtct,3,Expert,2,ThunderRes,3,Protection,-3,,,Rare Scarab,3,Swallowtail,2,Pale Extract,5,Bitterbug,10
+Rouage Brasso S,ロワーガＳブラッソ,1,2,5,1,5,99,24,43,-4,0,0,5,3,HearProtct,2,Expert,2,ThunderRes,4,Protection,-3,,,Rare Scarab,3,Swallowtail,2,Pale Extract,5,Bitterbug,10
+Falmer Mano S,ファルメルＳマーノ,2,1,5,1,5,99,44,74,-5,0,-1,3,1,HearProtct,3,Expert,2,ThunderRes,3,Protection,-3,,,Rare Scarab,3,Swallowtail,2,Pale Extract,5,Bitterbug,10
+Falmer Brasso S,ファルメルＳブラッソ,2,2,5,1,5,99,24,43,-4,0,0,5,3,HearProtct,2,Expert,2,ThunderRes,4,Protection,-3,,,Rare Scarab,3,Swallowtail,2,Pale Extract,5,Bitterbug,10
+Atea Vambraces S,アーティアＳアーム,0,1,5,1,5,6,47,77,0,-4,2,-4,3,Fencing,5,Guard Up,1,Sharpener,-5,,,,,Thn Ancnt Shard,3,Rustshard,5,Union Ore,3,Dragonite Ore,9
+Atea Guards S,アーティアＳガード,0,2,5,1,5,6,26,45,0,-2,4,-2,5,Rapid Fire,1,Recoil,5,Reload Spd,-5,,,,,Thn Ancnt Shard,3,Rustshard,5,Union Ore,3,Dragonite Ore,9
+Dianthus Sleeves,撫子【蕾袖】,2,1,5,1,4,6,38,70,0,0,0,0,0,Wide Area,2,Psychic,4,Perception,4,Poison,-1,,,Yukumo Wood+,3,Drink Ticket,1,Thn Ancnt Shard,1,Cutlassfish,3
+Bellflower Sleeves,桔梗【蕾袖】,2,2,5,1,4,6,20,41,0,0,0,0,0,Wide Area,4,Psychic,4,Perception,1,Poison,-2,,,Yukumo Wood+,3,Drink Ticket,1,Thn Ancnt Shard,1,Cutlassfish,3
+Damascus Vambraces,ダマスクアーム,0,1,6,1,6,99,59,86,-2,2,1,-3,-1,Artisan,4,Thundr Atk,4,Sharpener,2,Sharpness,-1,,,Jhen Mhran Scl+,4,Slvr Rthlos Scl,4,FireWyvernFluid,3,Jhen Mohran Shl,3
+Damascus Guards,ダマスクガード,0,2,6,1,6,99,34,50,-1,3,3,-2,0,Loading,4,PelletS Up,1,Thundr Atk,5,Recoil,-1,,,Jhen Mhran Scl+,4,Slvr Rthlos Scl,4,FireWyvernFluid,3,Jhen Mohran Shl,3
+Hi Yamato Bracers,大和・覇【篭手】,1,1,7,2,6,99,59,86,3,0,-3,0,-3,FastCharge,2,Fencing,3,Expert,2,Rec Speed,-2,,,Jhen Mhran Scl+,6,Jhen Mohran Arm,1,Jhen Mohran Jwl,1,Depthlite Ore,3
+Hi Courtier Bracers,陸奥・覇【篭手】,1,2,7,2,6,99,34,50,5,1,-2,1,-2,FastCharge,3,PierceS Up,1,Expert,2,Rec Speed,-3,,,Jhen Mhran Scl+,6,Jhen Mohran Arm,1,Jhen Mohran Jwl,1,Depthlite Ore,3
+Hi Solar Bracers,日向・覇【篭手】,2,1,7,2,6,99,59,86,3,0,-3,0,-3,FastCharge,2,Fencing,3,Expert,2,Rec Speed,-2,,,Jhen Mhran Scl+,6,Jhen Mohran Arm,1,Jhen Mohran Jwl,1,Depthlite Ore,3
+Hi Divine Bracers,天城・覇【篭手】,2,2,7,2,6,99,34,50,5,1,-2,1,-2,FastCharge,3,PierceS Up,1,Expert,2,Rec Speed,-3,,,Jhen Mhran Scl+,6,Jhen Mohran Arm,1,Jhen Mohran Jwl,1,Depthlite Ore,3
+Dark Akantor Claw,アカムトサクンペ,0,1,7,3,6,99,62,89,4,0,2,-3,-5,Slam,1,HearProtct,2,Fire Atk,2,Protection,-2,,,Akantor Claw,5,Akantor Scale,4,Akantor Jewel,1,Agnaktor Fin+,2
+Dark Akantor Gauntlet,アカムトノキリペ,0,2,7,3,6,99,36,52,5,-1,4,-2,-4,Slam,2,HearProtct,2,Fire Atk,1,Protection,-2,,,Akantor Claw,5,Akantor Scale,4,Akantor Jewel,1,Agnaktor Fin+,2
+Ukanlos Claw,ウカムルサクンペ,0,1,7,0,6,99,62,89,-5,0,4,-3,-2,Debilitate,1,Ice Attack,7,FastCharge,-3,Sharpness,2,,,Ukanlos Scale,5,Ukanlos Claw,3,Ukanlos Tail,1,ThndrGiggnoxClw,2
+Ukanlos Gauntlet,ウカムルノキリペ,0,2,7,0,6,99,36,52,-4,0,5,-1,-1,Debilitate,2,Ice Attack,6,FastCharge,-3,NormalS Up,2,,,Ukanlos Scale,5,Ukanlos Claw,3,Ukanlos Tail,1,ThndrGiggnoxClw,2
+Escadora Arms,エスカドラアムズ,0,1,7,2,6,99,62,89,-3,0,3,1,-4,Elemental,3,Blight Res,1,Evade Dist,4,Potential,-1,,,Alatreon Claw,6,Alatreon Shell,6,EldrDragonBlood,1,MajesticBlkHorn,1
+Escadora Arma,エスカドラアルマ,0,2,7,2,6,99,36,52,-3,1,3,3,-2,Elemental,2,Blight Res,1,Evade Dist,4,Potential,-2,,,Alatreon Claw,6,Alatreon Shell,6,EldrDragonBlood,1,MajesticBlkHorn,1
+Storm Sleeves,荒天【袂】,0,1,7,0,6,99,62,89,-3,4,0,0,-5,Awaken,5,Artisan,2,Water Atk,5,Eating,-1,,,Amatsu Claw,4,Amatsu Patagium,4,Tempest Sac,3,Jinouga Jewel,1
+Sky Sleeves,蒼天【袂】,0,2,7,0,6,99,36,52,-2,5,0,0,-4,Awaken,5,Loading,2,Water Atk,5,Eating,-1,,,Amatsu Claw,4,Amatsu Patagium,4,Tempest Sac,3,Jinouga Jewel,1
+Luxury Sweatbands,高級ユアミリスト,0,0,5,2,6,99,24,47,-2,2,-2,-2,0,Fate,4,LastingPwr,2,Attack,-3,,,,,Commendation G,1,HotSpringTicket,8,Drink Ticket,4,Yukumo Ticket,3
+Crystal Bracelets,三眼の腕輪,0,0,5,3,4,6,14,37,0,3,0,-3,0,,,,,,,,,,,Carbalite Ore,3,Lightcrystal,2,,,,,
+Jolly Roger Gloves,大海賊Ｊグラブ,0,1,7,0,6,99,26,56,-3,-3,-3,-3,-3,Carving,2,Fate,4,Rewards,3,Protection,-4,,,Legend J Ticket,1,ThdrGiggnoxHide,6,Rathalos Ruby,1,Agnaktor Carpce,5
+Jolly Roger Cuffs,大海賊Ｊカフス,0,2,7,0,6,99,13,32,-2,-2,-2,-2,-2,Carving,2,Fate,3,Rewards,4,Protection,-4,,,Legend J Ticket,1,ThdrGiggnoxHide,6,Rathalos Ruby,1,Agnaktor Carpce,5
+Snake Gloves,スネークグラブ,1,1,7,2,6,99,47,82,1,1,1,1,1,FastCharge,2,Constitutn,3,SpeedSetup,2,Hunger,-2,,,Big Boss Title,1,Hapurbokka Clw+,2,Hapurubokka Cpc,3,Doboru Carapace,3
+Snake Arms,スネークアーム,1,2,7,1,6,99,26,49,2,2,2,2,2,Loading,4,Precision,3,SpeedSetup,2,Hunger,-2,,,Big Boss Title,1,Hapurbokka Clw+,2,Hapurubokka Cpc,3,Doboru Carapace,3
+The Boss Gloves,ザ・ボスグラブ,2,1,7,2,6,99,47,82,1,1,1,1,1,Sense,2,FastCharge,2,Psychic,4,Elemental,-1,,,Big Boss Title,1,Hapurbokka Clw+,2,Hapurubokka Cpc,3,Doboru Carapace,3
+The Boss Arms,ザ・ボスアーム,2,2,7,1,6,99,26,49,2,2,2,2,2,Sense,2,Loading,3,Psychic,3,Elemental,-3,,,Big Boss Title,1,Hapurbokka Clw+,2,Hapurubokka Cpc,3,Doboru Carapace,3
+Uniqlo Gloves,ユニクログローブ,0,1,7,2,6,99,47,82,-3,1,4,0,0,HearProtct,2,Evade Dist,3,Cold Res,2,Eating,-2,,,Uniqlo Ticket,1,Blk Tigrex Claw,4,Jinouga Claw+,3,LightningCarpce,1
+Uniqlo Cuffs,ユニクログラブ,0,2,7,2,6,99,26,49,-4,2,5,0,0,HearProtct,2,Evade Dist,3,Cold Res,2,Eating,-2,,,Uniqlo Ticket,1,Blk Tigrex Claw,4,Jinouga Claw+,3,LightningCarpce,1

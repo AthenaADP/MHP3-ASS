@@ -1,0 +1,232 @@
+﻿Dogi Yukumo
+Chaleco Cuero
+Chaleco Malla
+Malla Cazador
+Chaleco Cazador
+Manto Loc Lac
+Malla Hueso
+Chaleco Hueso
+Malla Aleación
+Chaleco Aleación
+Traje Bnahabra
+Pullover Bnahabra
+Malla Rhenoplos
+Chaleco Rhenoplos
+Malla Jaggi
+Chaleco Jaggi
+Malla Aoashira
+Chaleco Aoashira
+Malla acero
+Malla Furogi
+Chaleco Furogi
+Malla Urukususu
+Chaleco Urukususu
+Malla Qurupeco
+Chaleco Qurupeco
+Malla Ludroth
+Chaleco Ludroth
+Malla Barroth
+Chaleco Barroth
+Malla Lingote
+Chaleco Lingote
+Malla Baggi
+Chaleco Baggi
+Malla Rangurotora
+Chaleco Rangurotora
+Malla Rathian
+Chaleco Rathian
+Malla Hapuru
+Chaleco Hapuru
+Malla Gigginox
+Chaleco Gigginox
+Malla Naruga
+Chaleco Naruga
+Malla Barioth
+Chaleco Barioth
+Malla Rathalos
+Chaleco Rathalos
+Malla Uragaan
+Chaleco Uragaan
+Malla Jinouga
+Chaleco Jinouga
+Malla Diablos
+Chaleco Diablos
+Malla Tigrex
+Chaleco Tigrex
+Malla Agnaktor
+Chaleco Agnaktor
+Malla Doboru
+Chaleco Doboru
+Traje guar. Gremio
+Chal. guar. Gremio
+Blusa Colegiala
+Chaleco Colegiala
+Tronco Calabaza (Maestro Espada)
+Tronco Calabaza (Maestro Espada)
+Tronco Calabaza (Artillero)
+Tronco Calabaza (Artillero)
+Malla Pescado
+Chaleco Pescado
+Malla Escarabajo
+Chaleco Escarabajo
+Malla Mariposa
+Chaleco Mariposa
+Malla Atia
+Chaleco Atia
+Muneate Yamato
+Muneate Mutsu
+Muneate Hyuga
+Muneate Amagi
+Manta Zuwaro
+Capa Zuwaro
+Sugata Yuami
+Malla Bellota
+Dogi Yukumo・Cielo
+Dogi Yukumo・Tierra
+Malla Cuero S
+Chaleco Cuero S
+Cota Malla S (Torso)
+Chaleco Malla S (Torso)
+Malla Cazador S
+Chaleco Cazador S
+Manto Loc Lac S (Maestro Espada)
+Manto Loc Lac S (Artillero)
+Malla Hueso S
+Chaleco Hueso S
+Malla Aleación S
+Chaleco Aleación S
+Traje Bnahabra S (Maestro Espada)
+Traje Bnahabra S (Artillero)
+Malla Rhenoplos S
+Chaleco Rhenoplos S
+Malla Jaggi S
+Chaleco Jaggi S
+Malla Aoashira S
+Chaleco Aoashira S
+Malla Acero S
+Malla Furogi S
+Chaleco Furogi S
+Malla Urukususu S
+Chaleco Urukususu S
+Malla Qurupeco S
+Chaleco Qurupeco S
+Malla Ludroth S
+Chaleco Ludroth S
+Malla Barroth S
+Chaleco Barroth S
+Malla Lingote S
+Chaleco Lingote S
+Malla Baggi S
+Chaleco Baggi S
+Malla Rangurotora S
+Chaleco Rangu. S
+Malla Rathian S
+Chaleco Rathian S
+Malla Hapuru S
+Chaleco Hapuru S
+Malla Gigginox S
+Chaleco Gigginox S
+Malla Naruga S
+Chaleco Naruga S
+Malla Barioth S
+Chaleco Barioth S
+Malla Rathalos S
+Chaleco Rathalos S
+Malla Uragaan S
+Chaleco Uragaan S
+Malla Dober
+Chaleco Dober
+Malla Jinouga S
+Chaleco Jinouga S
+Malla Diablos S
+Chaleco Diablos S
+Malla Tigrex S
+Chaleco Tigrex S
+Malla Agnaktor S
+Chaleco Agnaktor S
+Malla Doboru S
+Chaleco Doboru S
+Malla Qurupeco U
+Chaleco Qurupeco U
+Malla Ludroth U
+Chaleco Ludroth U
+Malla Barroth U
+Chaleco Barroth U
+Malla Gigginox U
+Chaleco Gigginox U
+Malla Naruga U
+Chaleco Naruga U
+Malla Barioth U
+Chaleco Barioth U
+Malla Uragaan U
+Chaleco Uragaan U
+Malla Diablos U
+Chaleco Diablos U
+Malla Tigrex U
+Chaleco Tigrex U
+Malla Agnaktor U
+Chaleco Agnaktor U
+Malla Luna Dorada
+Chaleco Luna Dor.
+Malla Sol Plateada
+Chaleco Sol Platea.
+Malla Vangis
+Chaleco Vangis
+Cinto Soldado (Maestro Espada)
+Cinto Soldado (Artillero)
+Traje cab. Gremio S
+Chal. cab. Gremio S
+Blusa Colegiala S
+Chaleco Colegiala S
+Tronco Calabaza S (Maestro Espada)
+Tronco Calabaza S (Maestro Espada)
+Tronco Calabaza S (Artillero)
+Tronco Calabaza S (Artillero)
+Malla Pescado S
+Chaleco Pescado S
+Malla Escarabajo S
+Chaleco Escarabajo S
+Malla Mariposa S
+Chaleco Mariposa S
+Malla Atia S
+Chaleco Atia S
+Bata flor. Dianthus
+Bata flor. Kikyo
+Coraza Damasco
+Chaleco Damasco
+Muneate Yamato・Supr
+Muneate Mutsu ・Supr
+Muneate Hyuga・Supr.
+Muneate Amagi・Supr.
+Égida Akantor Oscur
+Placa Akantor Oscur
+Égida Ukanlos
+Placa Ukanlos
+Alma Escadora
+Zere Escadora
+Ropa Tormenta
+Ropa Cielo Azul
+Manta Zuwaro S
+Capa Zuwaro S
+Sugata de lujo Yuami
+Malla Bellota S
+Chaleco Bellota S
+Amuleto Trinidad
+Chaqueta Armamento
+Corredor Armamento
+Chaqueta Cazador
+Corredor Cazador
+Traje Jolly Roger
+Chaq. Jolly Roger
+Traje de Snake
+Cuerpo de Snake
+Traje The Boss
+Cuerpo The Boss
+Chaqueta UNIQLO (Maestro Espada)
+Chaqueta UNIQLO (Artillero)
+Chaqueta Inf.cazador
+Jumper Inf.cazador
+Chaqu. Alma Cazador
+Jumper Alma Cazador
+Chaqu. MonsterHunter
+Jersey MonsterHunter

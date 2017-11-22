@@ -1,0 +1,311 @@
+﻿#ordered
+Aum. torso
+Veneno
+Paralisis
+Sueño
+Aturdir
+Barr/Nieve
+Sentido
+Salud
+Vel. recup
+Afilado
+Artesano
+Esgrima
+Experto
+Afilador
+Guardia
+Subir prot
+Autoprot.
+Vel.recarg
+Retroceso
+SubirDNorm
+SubirDPerf
+SubirDPerd
+AñDNormal
+AñDPerf
+AñDPerd
+AñDispBomb
+AñDispGr
+Atq espec.
+Atq. Elem.
+SubFueBomb
+Hambre
+Glotoneria
+Ataque
+Defensa
+Protección
+Prot. oido
+Anti-robo
+Área ampl.
+Mochilero
+R. fuego
+R. agua
+R. trueno
+R. hielo
+R. dragón
+Res. Calor
+Res. Frio
+PresViento
+Recogida
+Vel. recog
+Capricho
+Destino
+VisPsíquic
+Niv. recup
+Combinar
+Combinador
+Evadir
+Potencial
+Duración
+Resist.
+Carga
+Precisión
+Comer
+Cortar
+Temb.anul.
+Dis.Evadir
+Desen.crit
+TrampaRap.
+Yoga
+Captura
+Observar
+CargaRápid
+Desenv. KO
+Res. Plaga
+Sobreviv.
+Fue.Rapido
+Estiercol
+Antisept.
+Bot.Veneno
+Bot.pará.
+Bot.sueño
+Bot.Poder
+Bot.Cont.
+Cuerno
+Artillería
+Determin.
+Cazador
+NieDefBaja
+Fuego Inc
+Agua Inc
+Trueno Inc
+Hielo Inc
+Dragon Inc
+Aña.Corta.
+Aña.Fatiga
+Aguijón
+GolpePes.
+KO
+Atq.Fatiga
+Vel.Guarda
+Rec.Resist
+
+Veneno anulado
+Doble Veneno
+Parálisis anul.
+Doble Parálisis
+Sueño anulado
+Doble Sueño
+Aturdim. a mitad
+Niega Aturdim.
+Doble aturdim.
+Niega Barr/Nieve
+Sigilo
+Provocación
+Salud +20
+Salud +50
+Salud -10
+Salud -30
+Vel. recup. +1
+Vel. recup. +2
+Vel. recup. -1
+Vel. recup. -2
+Espada afilada
+Espada sin filo
+Afilado Aument.
+Esgrima
+Ab. Temerario+1
+Ab. Temerario+2
+Ab. Temerario+3
+Ab. Temerario-1
+Ab. Temerario-2
+Ab. Temerario-3
+Afilado rapido
+Afilado lento
+Guardia +1
+Guardia +2
+Guardia -1
+Subir protec.
+AutoProteccion
+Vel.Recarga +1
+Vel.Recarga +2
+Vel.Recarga +3
+Vel.Recarga -1
+Vel.Recarga -2
+Vel.Recarga -3
+Retroc. red. +1
+Retroc. red. +2
+Retroc. red. +3
+Retroc. red. -1
+Retroc. red. -2
+Retroc. red. -3
+Subir normal/Ráp
+Subir perf/Perf
+Subir perd/Dspr
+Aña. norm. TODO
+Añadir perf nv1
+Aña. perf. TODO
+Añad. perdig.nv1
+D.perd.todos NV
+Añadir exp nv1
+D.expl todos NV
+Aña. grupo nv1
+D.grupo todos NV
+Ataque Espec.+1
+Ataque Espec.+2
+Bajar ataq. esp.
+Subir Ataq Elem.
+Bajar Ataq Elem.
+Bombardero
+Hambre a mitad
+Hambre negada
+Hambre aumentada
+Hambriento
+Glotón
+Carroñero
+Subir Ataque[pq]
+Subir Ataque[md]
+Subir Ataque[gr]
+Bajar Ataque[pq]
+Bajar Ataque[md]
+Bajar Ataque[gr]
+Subir Def.[pq]
+Subir Def.[md]
+Subir Def.[gr]
+Bajar Def.[pq]
+Bajar Def.[md]
+Bajar Def.[gr]
+Protec. divina
+Prot. demoniaca
+Tapón de oido
+Tapones grandes
+Anti-robo
+Area Amplia +1
+Area Amplia +2
+Exper. mochilero
+Res. Fuego[pq]
+Res. Fuego[gr]
+Bajar Res. Fuego
+Res. Agua[pq]
+Res. Agua[gr]
+Bajar Res. Agua
+Res. Trueno[pq]
+Res. Trueno[gr]
+Bajar Res.Trueno
+Res. Hielo[pq]
+Res. Hielo[gr]
+Bajar Res. Hielo
+Res. Dragón[pq]
+Res. Dragón[gr]
+Bajar Res. Drag.
+Cancelar calor
+Calor al doble
+Cancelar frio
+Frio al doble
+Res. viento baja
+Res. viento alta
+Recogida +1
+Recogida +2
+Recogida -1
+Recogedor veloz
+Capri. espiritu
+Capri. divino
+Capri. malvado
+Capri. demoniaco
+Buena suerte
+Grán suerte
+Mala suerte
+Calamidad
+Detectar
+Autorastreo
+Recup. Vida Aum.
+Recup. Vida Dec.
+Combinación+20%%
+Combinación+45%%
+Combinación-10%%
+Combinación-20%%
+Producción Max.
+Evadir +1
+Evadir +2
+Evasión dismin.
+Adrenalina +1
+Adrenalina +2
+Preocupado
+Uso de obj. aum.
+Uso de obj. red.
+Corredor
+Pies planos
+Cargar
+Precisión+1
+Precisión+2
+Precisión-1
+Precisión-2
+Comer rápido+1
+Comer rápido+2
+Comer lento
+Celebridad Cort.
+Temblor anulado
+Evasion Ampliada
+Desenvaine crit.
+Experto trampas
+En forma
+Atleta
+Cansado
+Vago
+Experto captura
+Gurú de captura
+Ojo de captura
+Concentración
+Distracción
+Desenv. aturdid.
+Anti-plagas
+Fortalecer
+Disparo adic.
+Exp. Estiercol
+Antiséptico
+Revest. Veneno
+Reves. Parálisis
+Revest. Sueño
+Revest. Poder
+Revest. Contacto
+Flautista
+Maestro Artillero
+Rey Artillero
+Fuer. desatada+1
+Fuer. desatada+2
+Vida del cazador
+Robustez
+Atrib. Fuego +1
+Atrib. Fuego +2
+Atrib. Fuego -1
+Atrib. Agua +1
+Atrib. Agua +2
+Atrib. Agua -1
+Atrib. Trueno +1
+Atrib. Trueno +2
+Atrib. Trueno -1
+Atrib. Hielo +1
+Atrib. Hielo +2
+Atrib. Hielo -1
+Atrib. Dragón +1
+Atrib. Dragón +2
+Atrib. Dragón -1
+Aña. Disp.Corta.
+Aña. Rec. Fatiga
+Loc. Debilidad
+Rey Destructor
+Aturdidor
+Drenar Resist.
+Envaine veloz
+Rec. Resist. Aum
+Rec. Resist. Dis

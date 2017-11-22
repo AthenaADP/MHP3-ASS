@@ -1,0 +1,310 @@
+Attack
+Expert
+Sharpness
+Sharpener
+Handicraft
+PunishDraw
+Crit Draw
+FastCharge
+Fencing
+Tenderizer
+Destroyer
+KO
+Stam Drain
+Maestro
+Artillery
+Gloves Off
+Potential
+Survivor
+Loading
+Rapid Fire
+Reload Speed
+Recoil
+Precision
+Normal Up
+Pierce Up
+Pellet Up
+Normal S+
+Pierce S+
+Pellet S+
+Crag S+
+Clust S+
+Slice S+
+Poison C+
+Para C+
+Sleep C+
+Power C+
+C. Range C+
+Exhaust C+
+Status
+ElementAtk
+Fire Atk
+Water Atk
+Thundr Atk
+Ice Atk
+Dragon Atk
+Constitutn
+Stamina
+Stam Recov
+Hunger
+Evasion
+Evade Dist
+Sheathing
+Sense
+Rec Speed
+Guard
+Guard Up
+Auto-Guard
+Protection
+Poison
+Paralysis
+Sleep
+Stun
+Mud/Snow
+Tremor Res
+Wind Res
+Antiseptic
+Anti-Theft
+Blight Res
+Def Lock
+Hearing
+Health
+Defense
+Fire Res
+Water Res
+ThunderRes
+Ice Res
+Dragon Res
+Wide-Range
+Bomb Boost
+SpeedSetup
+Perception
+Psychic
+Dungmaster
+Rec Level
+LastingPwr
+Gluttony
+Eating
+Ranger
+Transportr
+Heat Res
+Cold Res
+Gathering
+Spd Gather
+Whim
+Fate
+Carving
+Tranquilzr
+Combo Rate
+Combo Plus
+Torso Up
+
+Attack Up (S)
+Attack Up (M)
+Attack Up (L)
+Attack Down (S)
+Attack Down (M)
+Attack Down (L)
+Critical Eye +1
+Critical Eye +2
+Critical Eye +3
+Critical Eye -1
+Critical Eye -2
+Critical Eye -3
+Razor Sharp
+Blunt Edge
+Speed Sharpening
+Slow Sharpening
+Sharpness +1
+Punishing Draw
+Critical Draw
+Focus
+Distraction
+Mind's Eye
+Weakness Exploit
+Partbreaker
+Knockout King
+Stamina Thief
+Horn Maestro
+Artillery Novice
+Artillery King
+Latent Power +1
+Latent Power +2
+Adrenaline +1
+Adrenaline +2
+Worrywort
+Fortify
+Load Up
+Bonus Shot
+Reload Speed +1
+Reload Speed +2
+Reload Speed +3
+Reload Speed -1
+Reload Speed -2
+Reload Speed -3
+Recoil Down +1
+Recoil Down +2
+Recoil Down +3
+Recoil Down -1
+Recoil Down -2
+Recoil Down -3
+Steadiness +1
+Steadiness +2
+Steadiness -1
+Steadiness -2
+Normal/Rapid Up
+Pierce/Pierce Up
+Pellet/Spread Up
+Use Any Normal
+Use Lv1 Pierce S
+Use Any Pierce S
+Use Lv1 Pellet S
+Use Any Pellet S
+Use Lv1 Crag S
+Use Any Crag S
+Use Lv1 Clust S
+Use Any Clust S
+Use Slicing S
+Use Poison Coat
+Use Para Coat
+Use Sleep Coat
+Use Power Coat
+Use C. Range Coat
+Use Exhaust Coat
+Status Atk +1
+Status Atk +2
+Status Atk Down
+Element Atk +1
+Element Atk Down
+Fire Atk +1
+Fire Atk +2
+Fire Atk Down
+Water Atk +1
+Water Atk +2
+Water Atk Down
+Thunder Atk +1
+Thunder Atk +2
+Thunder Atk Down
+Ice Atk +1
+Ice Atk +2
+Ice Atk Down
+Dragon Atk +1
+Dragon Atk +2
+Dragon Atk Down
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Marathon Runner
+Short Sprinter
+Stam Recov Up
+Stam Recov Down
+Halve Hunger
+Negate Hunger
+Raise Hunger
+Double Hunger
+Evasion +1
+Evasion +2
+Evade Down
+Evade Extender
+Quick Sheathe
+Sneak
+Taunt
+Recovery Spd +1
+Recovery Spd +2
+Recovery Spd -1
+Recovery Spd -2
+Guard +1
+Guard +2
+Guard -1
+Guard Boost
+Auto-Guard
+Divine Blessing
+Demonic Blessing
+Negate Poison
+Double Poison
+Negate Paralysis
+Double Paralysis
+Negate Sleep
+Double Sleep
+Halve Stun
+Negate Stun
+Double Stun
+Negate Mud/Snow
+Tremor Resistance
+Windproof (Lo)
+Windproof (Hi)
+Antiseptic
+Anti-Theft
+Blights Negated
+Iron Skin
+Earplugs
+HG Earplugs
+Health +20
+Health +50
+Health -10
+Health -30
+Defense Up (S)
+Defense Up (M)
+Defense Up (L)
+Defense Down (S)
+Defense Down (M)
+Defense Down (L)
+Fire Res +5
+Fire Res +10
+Fire Res -10
+Water Res +5
+Water Res +10
+Water Res -10
+Thunder Res +5
+Thunder Res +10
+Thunder Res -10
+Ice Res +5
+Ice Res +10
+Ice Res -10
+Dragon Res +5
+Dragon Res +10
+Dragon Res -10
+Wide-Range +1
+Wide-Range +2
+Bombardier
+Trap Master
+Capture Guru
+Detect
+Autotracker
+Dung Bomb Expert
+Recovery Up
+Recovery Down
+Item Use Up
+Item Use Down
+Scavenger
+Gourmand
+Speed Eating +1
+Speed Eating +2
+Slow Eater
+Outdoorsman
+Pro Transporter
+Heat Cancel
+Heat Surge
+Cold Cancel
+Cold Surge
+Gathering +1
+Gathering +2
+Gathering -1
+Speed Gatherer
+Spirit's Whim
+Divine Whim
+Spectre's Whim
+Devil's Whim
+Good Luck
+Great Luck
+Bad Luck
+Carving Pro
+Carving Master
+Capture Expert
+Capture Master
+Combination +20%
+Combination +45%
+Combination -10%
+Combination -20%
+Combination Pro
