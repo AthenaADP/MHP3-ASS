@@ -286,5 +286,6 @@ __pycache__/
 Run/**
 !Run/Data
 !Run/Data/**
+Run/Data/mycharms**
 !Run/credits.txt
 *.exe
